@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  30 AUG 2018 12:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  30 AUG 2018 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1342,7 +1342,13 @@ em-ber-ships of sev-eral thou-sand,
 [95]) [96]
 \openout2 = `Operations_Policy/Other_Policies.aux'.
 
- (./Operations_Policy/Other_Policies.tex) [97
+ (./Operations_Policy/Other_Policies.tex
+Overfull \hbox (9.70784pt too wide) in paragraph at lines 10--11
+[]\T1/lmss/m/n/12 The So-ci-ety en-dorses the view that grad-u-ate stu-dent fun
+d-ing should guar-an-tee
+ []
+
+) [97
 
 
 ]
@@ -1640,7 +1646,7 @@ ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (135 pages, 397531 bytes).
+Output written on Unified_Docs.pdf (135 pages, 397622 bytes).
 PDF statistics:
  477 PDF objects out of 1000 (max. 8388607)
  327 compressed objects within 4 object streams
