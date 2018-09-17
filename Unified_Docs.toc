@@ -1,177 +1,152 @@
-\select@language {english}
-\contentsline {chapter}{\numberline {1}Constitution}{6}
-\contentsline {section}{\numberline {1.1}Name}{7}
-\contentsline {section}{\numberline {1.2}Purposes}{8}
-\contentsline {section}{\numberline {1.3}Corporate Seal}{9}
-\contentsline {section}{\numberline {1.4}Powers and Jurisdictions}{10}
-\contentsline {subsection}{\numberline {1.4.1}Authority}{10}
-\contentsline {subsection}{\numberline {1.4.2}Government}{10}
-\contentsline {subsection}{\numberline {1.4.3}Bylaws}{10}
-\contentsline {section}{\numberline {1.5}Membership}{11}
-\contentsline {subsection}{\numberline {1.5.1}Full Membership}{11}
-\contentsline {subsection}{\numberline {1.5.2}Associate Membership}{11}
-\contentsline {subsection}{\numberline {1.5.3}Honorary Membership}{12}
-\contentsline {subsection}{\numberline {1.5.4}Membership Granted by Council}{12}
-\contentsline {section}{\numberline {1.6}Government}{14}
-\contentsline {subsection}{\numberline {1.6.1}The Council}{14}
-\contentsline {subsection}{\numberline {1.6.2}The Executive}{14}
-\contentsline {subsection}{\numberline {1.6.3}Non-Executive Officers}{15}
-\contentsline {subsection}{\numberline {1.6.4}Committees}{15}
-\contentsline {subsection}{\numberline {1.6.5}Term Limites for Committees}{15}
-\contentsline {section}{\numberline {1.7}Finance and banking}{16}
-\contentsline {section}{\numberline {1.8}Amendments to the Constitution and Bylaws}{17}
-\contentsline {subsection}{\numberline {1.8.1}Amendments to the Constitution}{17}
-\contentsline {subsection}{\numberline {1.8.2}Amendments to the Bylaws}{17}
-\contentsline {subsection}{\numberline {1.8.3}Dissemination of Amendments}{17}
-\contentsline {chapter}{\numberline {2}Bylaws}{18}
-\contentsline {section}{\numberline {2.1}Duties of the Executive}{19}
-\contentsline {subsection}{\numberline {2.1.1}The Executive (General)}{19}
-\contentsline {subsection}{\numberline {2.1.2}The President}{20}
-\contentsline {subsection}{\numberline {2.1.3}The Vice--President Advocacy}{21}
-\contentsline {subsection}{\numberline {2.1.4}The Vice-President Academic}{21}
-\contentsline {subsection}{\numberline {2.1.5}The Vice--President Student Services}{21}
-\contentsline {subsection}{\numberline {2.1.6}The Vice-President Finance}{22}
-\contentsline {section}{\numberline {2.2}Duties of the Non--Executive Officers}{24}
-\contentsline {subsection}{\numberline {2.2.1}Non--executive Officers}{24}
-\contentsline {subsection}{\numberline {2.2.2}The Speaker}{24}
-\contentsline {subsection}{\numberline {2.2.3}The Chief Returning Officer (CRO)}{25}
-\contentsline {subsection}{\numberline {2.2.4}The Deputy Chief Returning Officer (DCRO)}{25}
-\contentsline {subsection}{\numberline {2.2.5}Commissioners and Coordinators}{26}
-\contentsline {subsection}{\numberline {2.2.6}Duties of Commissioners}{26}
-\contentsline {subsection}{\numberline {2.2.7}Ombudsperson}{27}
-\contentsline {subsection}{\numberline {2.2.8}Deputy Speaker}{28}
-\contentsline {section}{\numberline {2.3}Councillors}{29}
-\contentsline {section}{\numberline {2.4}Referenda and the Presidential Election}{30}
-\contentsline {subsection}{\numberline {2.4.1}Responsibility}{30}
-\contentsline {subsection}{\numberline {2.4.2}Appeals Review Commission}{30}
-\contentsline {subsection}{\numberline {2.4.3}Referendum Specific Rules}{31}
-\contentsline {subsection}{\numberline {2.4.4}Graduate Student Representative to the Board of Governor and Graduate Student Representative to the Senate Election Rules}{31}
-\contentsline {subsection}{\numberline {2.4.5}Presidential Election-specific Rules}{31}
-\contentsline {subsection}{\numberline {2.4.6}Campaigning}{31}
-\contentsline {subsection}{\numberline {2.4.7}Voting}{32}
-\contentsline {subsection}{\numberline {2.4.8}Counting Ballots}{32}
-\contentsline {subsection}{\numberline {2.4.9}Transition}{32}
-\contentsline {subsection}{\numberline {2.4.10}Campaign Impropriety and Appeals}{32}
-\contentsline {subsection}{\numberline {2.4.11}Validity}{33}
-\contentsline {subsection}{\numberline {2.4.12}Campaign Expenses and Subsidy}{33}
-\contentsline {section}{\numberline {2.5}Other Elections}{34}
-\contentsline {subsection}{\numberline {2.5.1}Vice--Presidents}{34}
-\contentsline {subsection}{\numberline {2.5.2}Speaker}{34}
-\contentsline {subsection}{\numberline {2.5.3}Commissioners}{34}
-\contentsline {section}{\numberline {2.6}Exceptional Circumstances}{36}
-\contentsline {subsection}{\numberline {2.6.1}By--Election}{36}
-\contentsline {subsection}{\numberline {2.6.2}Executive and Non-Executive Officers}{37}
-\contentsline {subsection}{\numberline {2.6.3}Non--Presidential By--Elections}{38}
-\contentsline {subsection}{\numberline {2.6.4}Councillor By-elections}{39}
-\contentsline {section}{\numberline {2.7}Recall}{40}
-\contentsline {subsection}{\numberline {2.7.1}General}{40}
-\contentsline {subsection}{\numberline {2.7.2}Jurisdiction}{40}
-\contentsline {subsection}{\numberline {2.7.3}Recall of the President}{41}
-\contentsline {subsection}{\numberline {2.7.4}Recall of executive, non--executive officers and committee \hfill \penalty -\@M chairpersons}{42}
-\contentsline {subsection}{\numberline {2.7.5}Recall of Councillors}{42}
-\contentsline {subsection}{\numberline {2.7.6}Recall of Members of the Appeals Review Commission}{43}
-\contentsline {subsection}{\numberline {2.7.7}Recall of Committee Membership}{43}
-\contentsline {section}{\numberline {2.8}Elections Table}{44}
-\contentsline {section}{\numberline {2.9}Committees of the Society}{45}
-\contentsline {subsection}{\numberline {2.9.1}Creating and Disbanding}{45}
-\contentsline {subsection}{\numberline {2.9.2}Duties of the Chairperson}{45}
-\contentsline {subsection}{\numberline {2.9.3}General}{46}
-\contentsline {subsection}{\numberline {2.9.4}Committee Policies}{47}
-\contentsline {subsection}{\numberline {2.9.5}Standing Committees}{47}
-\contentsline {subsubsection}{\numberline {2.9.5.1}The Academic Committee}{47}
-\contentsline {subsubsection}{\numberline {2.9.5.2}The Graduate Student Teaching Awards Committee}{47}
-\contentsline {subsubsection}{\numberline {2.9.5.3}The Bylaws and Constitution Committee (BCC)}{48}
-\contentsline {subsubsection}{\numberline {2.9.5.4}The Finance Committee (FC)}{48}
-\contentsline {subsubsection}{\numberline {2.9.5.5}The Bursary and Subsidy Committee (BSC)}{49}
-\contentsline {subsubsection}{\numberline {2.9.5.6}The Graduate Club Committee (GCC)}{49}
-\contentsline {subsubsection}{\numberline {2.9.5.7}The International Graduate Students' Issues Committee (IGSIC)}{50}
-\contentsline {subsubsection}{\numberline {2.9.5.8}The Orientation and Social Committee (OSC)}{50}
-\contentsline {subsubsection}{\numberline {2.9.5.9}GradCast Editorial Board}{50}
-\contentsline {subsubsection}{\numberline {2.9.5.10}The Graduate Student Issues Committee}{51}
-\contentsline {subsubsection}{\numberline {2.9.5.11}The Policy Committee}{51}
-\contentsline {subsubsection}{\numberline {2.9.5.12}Equity Issues Committee}{51}
-\contentsline {subsubsection}{\numberline {2.9.5.13}Health Plan Committee (HPC)}{52}
-\contentsline {subsubsection}{\numberline {2.9.5.14}Sustainability Committee (SC)}{52}
-\contentsline {subsubsection}{\numberline {2.9.5.15}Graduate Peer Support Committee (GPS}{52}
-\contentsline {subsection}{\numberline {2.9.6}Commissions}{53}
-\contentsline {subsubsection}{\numberline {2.9.6.1}General}{53}
-\contentsline {subsubsection}{\numberline {2.9.6.2}Women's Concern Commission}{53}
-\contentsline {subsection}{\numberline {2.9.7}Official Liaison Table}{54}
-\contentsline {section}{\numberline {2.10}Personnel}{55}
-\contentsline {section}{\numberline {2.11}Conflict of Interest}{56}
-\contentsline {section}{\numberline {2.12}Finances}{58}
-\contentsline {section}{\numberline {2.13}Graduate Support Programs}{60}
-\contentsline {section}{\numberline {2.14}Disclosure of Information}{61}
-\contentsline {section}{\numberline {2.15}Meetings}{62}
-\contentsline {subsection}{\numberline {2.15.1}Reports}{62}
-\contentsline {subsection}{\numberline {2.15.2}General Meetings}{62}
-\contentsline {subsection}{\numberline {2.15.3}Council Meetings}{63}
-\contentsline {subsection}{\numberline {2.15.4}Executive Meeting}{66}
-\contentsline {section}{\numberline {2.16}The Policy Manual}{67}
-\contentsline {section}{\numberline {2.17}Communications}{68}
-\contentsline {subsection}{\numberline {2.17.1}Communications}{68}
-\contentsline {section}{\numberline {2.18}Non-Discrimination and Harassment}{69}
-\contentsline {section}{\numberline {2.19}Disciplinary Measures}{70}
-\contentsline {subsection}{\numberline {2.19.1}General}{70}
-\contentsline {subsection}{\numberline {2.19.2}Disciplinary Measures on an Employee}{70}
-\contentsline {subsection}{\numberline {2.19.3}List of Sanctions}{70}
-\contentsline {section}{\numberline {2.20}Rules of Order}{72}
-\contentsline {section}{\numberline {2.21}Dissemination of Amendments to the Society's Governing Documents}{73}
-\contentsline {chapter}{\numberline {3}Operations Policies}{74}
-\contentsline {section}{\numberline {3.1}Conflict of Interest}{75}
-\contentsline {subsection}{\numberline {3.1.1}Governing Bylaws}{75}
-\contentsline {subsection}{\numberline {3.1.2}Procedure for Resolution}{75}
-\contentsline {subsection}{\numberline {3.1.3}Tribunal Proceedings}{76}
-\contentsline {subsection}{\numberline {3.1.4}Possible Resolutions}{76}
-\contentsline {section}{\numberline {3.2}Discipline Code}{78}
-\contentsline {subsection}{\numberline {3.2.1}Introduction and Purpose}{78}
-\contentsline {subsection}{\numberline {3.2.2}Definitions}{78}
-\contentsline {subsection}{\numberline {3.2.3}Relationship to Other University Policies and Codes}{79}
-\contentsline {subsection}{\numberline {3.2.4}Jurisdiction}{79}
-\contentsline {subsection}{\numberline {3.2.5}Misconduct and Prohibited Conduct}{79}
-\contentsline {subsection}{\numberline {3.2.6}Interim Measures}{81}
-\contentsline {subsection}{\numberline {3.2.7}Complaint Procedures}{81}
-\contentsline {subsection}{\numberline {3.2.8}Appeals}{82}
-\contentsline {subsection}{\numberline {3.2.9}Review of Code}{85}
-\contentsline {section}{\numberline {3.3}Elections Policy}{86}
-\contentsline {section}{\numberline {3.4}Minutes Writing Policy}{90}
-\contentsline {subsection}{\numberline {3.4.1}Purpose}{90}
-\contentsline {subsection}{\numberline {3.4.2}General Guidelines}{90}
-\contentsline {section}{\numberline {3.5}Procurement}{91}
-\contentsline {section}{\numberline {3.6}Other Policies}{97}
-\contentsline {chapter}{\numberline {4}Committee Policies}{101}
-\contentsline {section}{\numberline {4.1}Graduate Student Teaching Awards (GTSA) Committee}{102}
-\contentsline {subsection}{\numberline {4.1.1}Article I: Membership}{102}
-\contentsline {section}{\numberline {4.2}GradCast Editorial Board}{103}
-\contentsline {subsection}{\numberline {4.2.1}Article 1: Membership}{103}
-\contentsline {subsection}{\numberline {4.2.2}Article 2: GradCast Radio Show and Podcast}{104}
-\contentsline {section}{\numberline {4.3}International Graduate Student Issues Committee}{105}
-\contentsline {subsection}{\numberline {4.3.1}Ratified}{105}
-\contentsline {subsection}{\numberline {4.3.2}Mandate}{105}
-\contentsline {subsection}{\numberline {4.3.3}Article 1: Membership}{105}
-\contentsline {subsection}{\numberline {4.3.4}Article 2: Committee Management}{105}
-\contentsline {subsection}{\numberline {4.3.5}Article 3: Fall Orientation}{107}
-\contentsline {subsection}{\numberline {4.3.6}Article 4: Socials and Trips}{107}
-\contentsline {subsection}{\numberline {4.3.7}Article 5: Advocacy and Partnerships}{108}
-\contentsline {section}{\numberline {4.4}Orientation and Social Committee}{109}
-\contentsline {subsection}{\numberline {4.4.1}Ratified}{109}
-\contentsline {subsection}{\numberline {4.4.2}Mandate}{109}
-\contentsline {subsection}{\numberline {4.4.3}Article 1: Membership}{109}
-\contentsline {subsection}{\numberline {4.4.4}Article 2: Committee Management}{109}
-\contentsline {subsection}{\numberline {4.4.5}Article 3: Fall, Winter, and Summer Orientations}{112}
-\contentsline {subsection}{\numberline {4.4.6}Article 4: Socials and Recreation}{112}
-\contentsline {subsection}{\numberline {4.4.7}Article 5: Graduate Student Life: Partnership and Outreach}{113}
-\contentsline {section}{\numberline {4.5}Health Plan Committee}{114}
-\contentsline {subsection}{\numberline {4.5.1}Ratified}{114}
-\contentsline {subsection}{\numberline {4.5.2}Mandate}{114}
-\contentsline {subsection}{\numberline {4.5.3}Article 1: Membership}{114}
-\contentsline {subsection}{\numberline {4.5.4}Article 2: Committee Management}{114}
-\contentsline {subsection}{\numberline {4.5.5}Article 3: Health Plan Opt-Ins / Opt-Outs}{116}
-\contentsline {subsection}{\numberline {4.5.6}Article 4: Health and Dental Plan}{117}
-\contentsline {subsection}{\numberline {4.5.7}Article 5: Graduate Student Mental Health and Wellness}{118}
-\contentsline {section}{\numberline {4.6}Policy Committtee}{119}
-\contentsline {subsection}{\numberline {4.6.1}Ratified}{119}
-\contentsline {subsection}{\numberline {4.6.2}Mandate}{119}
-\contentsline {subsection}{\numberline {4.6.3}Membership}{119}
-\contentsline {subsection}{\numberline {4.6.4}Article 2: Committee Management}{119}
-\contentsline {chapter}{\numberline {5}Speaker's Rulings}{120}
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Constitution}{5}
+\contentsline {section}{\numberline {1.1}Name}{6}
+\contentsline {section}{\numberline {1.2}Purposes}{7}
+\contentsline {section}{\numberline {1.3}Corporate Seal}{8}
+\contentsline {section}{\numberline {1.4}Powers and Jurisdictions}{9}
+\contentsline {subsection}{\numberline {1.4.1}Authority}{9}
+\contentsline {subsection}{\numberline {1.4.2}Government}{9}
+\contentsline {subsection}{\numberline {1.4.3}Bylaws}{9}
+\contentsline {section}{\numberline {1.5}Membership}{10}
+\contentsline {subsection}{\numberline {1.5.1}Full Membership}{10}
+\contentsline {subsection}{\numberline {1.5.2}Associate Membership}{10}
+\contentsline {subsection}{\numberline {1.5.3}Honorary Membership}{11}
+\contentsline {subsection}{\numberline {1.5.4}Membership Granted by Council}{11}
+\contentsline {section}{\numberline {1.6}Government}{13}
+\contentsline {subsection}{\numberline {1.6.1}The Council}{13}
+\contentsline {subsection}{\numberline {1.6.2}The Executive}{13}
+\contentsline {subsection}{\numberline {1.6.3}Non-Executive Officers}{14}
+\contentsline {subsection}{\numberline {1.6.4}Committees}{14}
+\contentsline {subsection}{\numberline {1.6.5}Term Limites for Committees}{14}
+\contentsline {section}{\numberline {1.7}Finance and banking}{15}
+\contentsline {section}{\numberline {1.8}Amendments to the Constitution and Bylaws}{16}
+\contentsline {subsection}{\numberline {1.8.1}Amendments to the Constitution}{16}
+\contentsline {subsection}{\numberline {1.8.2}Amendments to the Bylaws}{16}
+\contentsline {subsection}{\numberline {1.8.3}Dissemination of Amendments}{16}
+\contentsline {chapter}{\numberline {2}Bylaws}{17}
+\contentsline {section}{\numberline {2.1}Duties of the Executive}{18}
+\contentsline {subsection}{\numberline {2.1.1}The Executive (General)}{18}
+\contentsline {subsection}{\numberline {2.1.2}The President}{19}
+\contentsline {subsection}{\numberline {2.1.3}The Vice--President Advocacy}{20}
+\contentsline {subsection}{\numberline {2.1.4}The Vice-President Academic}{20}
+\contentsline {subsection}{\numberline {2.1.5}The Vice--President Student Services}{20}
+\contentsline {subsection}{\numberline {2.1.6}The Vice-President Finance}{21}
+\contentsline {section}{\numberline {2.2}Duties of the Non--Executive Officers}{23}
+\contentsline {subsection}{\numberline {2.2.1}Non--executive Officers}{23}
+\contentsline {subsection}{\numberline {2.2.2}The Speaker}{23}
+\contentsline {subsection}{\numberline {2.2.3}The Chief Returning Officer (CRO)}{24}
+\contentsline {subsection}{\numberline {2.2.4}The Deputy Chief Returning Officer (DCRO)}{24}
+\contentsline {subsection}{\numberline {2.2.5}Commissioners and Coordinators}{25}
+\contentsline {subsection}{\numberline {2.2.6}Duties of Commissioners}{25}
+\contentsline {subsection}{\numberline {2.2.7}Ombudsperson}{26}
+\contentsline {subsection}{\numberline {2.2.8}Deputy Speaker}{27}
+\contentsline {section}{\numberline {2.3}Councillors}{28}
+\contentsline {section}{\numberline {2.4}Referenda and the Presidential Election}{29}
+\contentsline {subsection}{\numberline {2.4.1}Responsibility}{29}
+\contentsline {subsection}{\numberline {2.4.2}Appeals Review Commission}{29}
+\contentsline {subsection}{\numberline {2.4.3}Referendum Specific Rules}{30}
+\contentsline {subsection}{\numberline {2.4.4}Graduate Student Representative to the Board of Governor and Graduate Student Representative to the Senate Election Rules}{30}
+\contentsline {subsection}{\numberline {2.4.5}Presidential Election-specific Rules}{30}
+\contentsline {subsection}{\numberline {2.4.6}Campaigning}{30}
+\contentsline {subsection}{\numberline {2.4.7}Voting}{31}
+\contentsline {subsection}{\numberline {2.4.8}Counting Ballots}{31}
+\contentsline {subsection}{\numberline {2.4.9}Transition}{31}
+\contentsline {subsection}{\numberline {2.4.10}Campaign Impropriety and Appeals}{31}
+\contentsline {subsection}{\numberline {2.4.11}Validity}{32}
+\contentsline {subsection}{\numberline {2.4.12}Campaign Expenses and Subsidy}{32}
+\contentsline {section}{\numberline {2.5}Other Elections}{33}
+\contentsline {subsection}{\numberline {2.5.1}Vice--Presidents}{33}
+\contentsline {subsection}{\numberline {2.5.2}Speaker}{33}
+\contentsline {subsection}{\numberline {2.5.3}Commissioners}{33}
+\contentsline {section}{\numberline {2.6}Exceptional Circumstances}{35}
+\contentsline {subsection}{\numberline {2.6.1}By--Election}{35}
+\contentsline {subsection}{\numberline {2.6.2}Executive and Non-Executive Officers}{36}
+\contentsline {subsection}{\numberline {2.6.3}Non--Presidential By--Elections}{37}
+\contentsline {subsection}{\numberline {2.6.4}Councillor By-elections}{38}
+\contentsline {section}{\numberline {2.7}Recall}{39}
+\contentsline {subsection}{\numberline {2.7.1}General}{39}
+\contentsline {subsection}{\numberline {2.7.2}Jurisdiction}{39}
+\contentsline {subsection}{\numberline {2.7.3}Recall of the President}{40}
+\contentsline {subsection}{\numberline {2.7.4}Recall of executive, non--executive officers and committee \hfill \penalty -\@M chairpersons}{41}
+\contentsline {subsection}{\numberline {2.7.5}Recall of Councillors}{41}
+\contentsline {subsection}{\numberline {2.7.6}Recall of Members of the Appeals Review Commission}{42}
+\contentsline {subsection}{\numberline {2.7.7}Recall of Committee Membership}{42}
+\contentsline {section}{\numberline {2.8}Elections Table}{43}
+\contentsline {section}{\numberline {2.9}Committees of the Society}{44}
+\contentsline {subsection}{\numberline {2.9.1}Creating and Disbanding}{44}
+\contentsline {subsection}{\numberline {2.9.2}Duties of the Chairperson}{44}
+\contentsline {subsection}{\numberline {2.9.3}General}{45}
+\contentsline {subsection}{\numberline {2.9.4}Committee Policies}{46}
+\contentsline {subsection}{\numberline {2.9.5}Standing Committees}{46}
+\contentsline {subsubsection}{\numberline {2.9.5.1}The Academic Committee}{46}
+\contentsline {subsubsection}{\numberline {2.9.5.2}The Graduate Student Teaching Awards Committee}{46}
+\contentsline {subsubsection}{\numberline {2.9.5.3}The Bylaws and Constitution Committee (BCC)}{47}
+\contentsline {subsubsection}{\numberline {2.9.5.4}The Finance Committee (FC)}{47}
+\contentsline {subsubsection}{\numberline {2.9.5.5}The Bursary and Subsidy Committee (BSC)}{48}
+\contentsline {subsubsection}{\numberline {2.9.5.6}The Graduate Club Committee (GCC)}{48}
+\contentsline {subsubsection}{\numberline {2.9.5.7}The International Graduate Students' Issues Committee (IGSIC)}{49}
+\contentsline {subsubsection}{\numberline {2.9.5.8}The Orientation and Social Committee (OSC)}{49}
+\contentsline {subsubsection}{\numberline {2.9.5.9}GradCast Editorial Board}{49}
+\contentsline {subsubsection}{\numberline {2.9.5.10}The Graduate Student Issues Committee}{50}
+\contentsline {subsubsection}{\numberline {2.9.5.11}The Policy Committee}{50}
+\contentsline {subsubsection}{\numberline {2.9.5.12}Equity Issues Committee}{50}
+\contentsline {subsubsection}{\numberline {2.9.5.13}Health Plan Committee (HPC)}{51}
+\contentsline {subsubsection}{\numberline {2.9.5.14}Sustainability Committee (SC)}{51}
+\contentsline {subsubsection}{\numberline {2.9.5.15}Graduate Peer Support Committee (GPS}{51}
+\contentsline {subsection}{\numberline {2.9.6}Commissions}{52}
+\contentsline {subsubsection}{\numberline {2.9.6.1}General}{52}
+\contentsline {subsubsection}{\numberline {2.9.6.2}Women's Concern Commission}{52}
+\contentsline {subsection}{\numberline {2.9.7}Official Liaison Table}{53}
+\contentsline {section}{\numberline {2.10}Personnel}{54}
+\contentsline {section}{\numberline {2.11}Conflict of Interest}{55}
+\contentsline {section}{\numberline {2.12}Finances}{57}
+\contentsline {section}{\numberline {2.13}Graduate Support Programs}{59}
+\contentsline {section}{\numberline {2.14}Disclosure of Information}{60}
+\contentsline {section}{\numberline {2.15}Meetings}{61}
+\contentsline {subsection}{\numberline {2.15.1}Reports}{61}
+\contentsline {subsection}{\numberline {2.15.2}General Meetings}{61}
+\contentsline {subsection}{\numberline {2.15.3}Council Meetings}{62}
+\contentsline {subsection}{\numberline {2.15.4}Executive Meeting}{65}
+\contentsline {section}{\numberline {2.16}The Policy Manual}{66}
+\contentsline {section}{\numberline {2.17}Communications}{67}
+\contentsline {subsection}{\numberline {2.17.1}Communications}{67}
+\contentsline {section}{\numberline {2.18}Non-Discrimination and Harassment}{68}
+\contentsline {section}{\numberline {2.19}Disciplinary Measures}{69}
+\contentsline {subsection}{\numberline {2.19.1}General}{69}
+\contentsline {subsection}{\numberline {2.19.2}Disciplinary Measures on an Employee}{69}
+\contentsline {subsection}{\numberline {2.19.3}List of Sanctions}{69}
+\contentsline {section}{\numberline {2.20}Rules of Order}{71}
+\contentsline {section}{\numberline {2.21}Dissemination of Amendments to the Society's Governing Documents}{72}
+\contentsline {chapter}{\numberline {3}Committee Policies}{73}
+\setcounter {tocdepth}{1}
+\contentsline {section}{\numberline {3.1}Bylaws and Constitution Committee}{74}
+\contentsline {subsection}{\numberline {3.1.1}Ratified}{74}
+\contentsline {subsection}{\numberline {3.1.2}Mandate}{74}
+\contentsline {subsection}{\numberline {3.1.3}Article 1: Membership}{74}
+\contentsline {subsection}{\numberline {3.1.4}Article 2: Committee Management}{74}
+\contentsline {subsection}{\numberline {3.1.5}Article 3: Governing Documents}{75}
+\contentsline {subsection}{\numberline {3.1.6}Article 4: Dissemination of Amendments}{75}
+\contentsline {section}{\numberline {3.2}Equity Committtee}{76}
+\contentsline {subsection}{\numberline {3.2.1}Ratified}{76}
+\contentsline {subsection}{\numberline {3.2.2}Mandate}{76}
+\contentsline {subsection}{\numberline {3.2.3}Membership}{76}
+\contentsline {section}{\numberline {3.3}Graduate Student Teaching Awards (GTSA) Committee}{77}
+\contentsline {subsection}{\numberline {3.3.1}Article I: Membership}{77}
+\contentsline {section}{\numberline {3.4}GradCast Editorial Board}{78}
+\contentsline {subsection}{\numberline {3.4.1}Article 1: Membership}{78}
+\contentsline {subsection}{\numberline {3.4.2}Article 2: GradCast Radio Show and Podcast}{79}
+\contentsline {section}{\numberline {3.5}International Graduate Student Issues Committee}{80}
+\contentsline {subsection}{\numberline {3.5.1}Ratified}{80}
+\contentsline {subsection}{\numberline {3.5.2}Mandate}{80}
+\contentsline {subsection}{\numberline {3.5.3}Article 1: Membership}{80}
+\contentsline {subsection}{\numberline {3.5.4}Article 2: Committee Management}{80}
+\contentsline {subsection}{\numberline {3.5.5}Article 3: Fall Orientation}{82}
+\contentsline {subsection}{\numberline {3.5.6}Article 4: Socials and Trips}{82}
+\contentsline {subsection}{\numberline {3.5.7}Article 5: Advocacy and Partnerships}{83}
+\contentsline {section}{\numberline {3.6}Policy Committtee}{84}
+\contentsline {subsection}{\numberline {3.6.1}Ratified}{84}
+\contentsline {subsection}{\numberline {3.6.2}Mandate}{84}
+\contentsline {subsection}{\numberline {3.6.3}Membership}{84}
+\contentsline {subsection}{\numberline {3.6.4}Article 2: Committee Management}{84}
+\setcounter {tocdepth}{2}
+\contentsline {chapter}{\numberline {4}Speaker's Rulings}{85}

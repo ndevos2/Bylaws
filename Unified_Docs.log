@@ -1,49 +1,51 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 SEP 2018 13:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  17 SEP 2018 16:40
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**Unified_Docs.tex
-(./Unified_Docs.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/book.cls
+**./Unified_Docs.tex
+(Unified_Docs.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/bk12.clo
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk12.clo"
 File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@chapter=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count88
-\Gm@cntv=\count89
-\c@Gm@tempcnt=\count90
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
 \Gm@bindingoffset=\dimen103
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
@@ -53,61 +55,77 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/makeidx.sty
+
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+cfg"))
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+) ("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.st
+y"
+Package: babel 2018/06/05 3.22 The Babel package
+
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+"
+File: switch.def 2018/06/05 3.22 Babel switching mechanism
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2017/05/19 3.10 The Babel package
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\engl
+ish.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/01/24 v3.3q English support from the babel system
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2017/05/19 3.10 Babel common definitions
-\babel@savecnt=\count91
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/06/05 3.22 Babel common definitions
+\babel@savecnt=\count92
 \U@D=\dimen111
+
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count93
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/todonotes/todonotes.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\todonotes\todonote
+s.sty"
 Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
 Package: todonotes 2012/07/25
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.st
+y"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.
+tex"
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
+.tex"
 \XKV@toks=\toks16
 \XKV@tempa@toks=\toks17
 )
-\XKV@depth=\count92
+\XKV@depth=\count94
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count93
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
@@ -119,37 +137,48 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
-x
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\
+tikz.sty"
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
+.sty"
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfr
+cs.sty"
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common.tex"
 \pgfutil@everybye=\toks18
 \pgfutil@tempdima=\dimen112
 \pgfutil@tempdimb=\dimen113
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
-sts.tex))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common-lists.tex"))
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-latex.def"
 \pgfutil@abb=\box26
-(/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everyshi.sty
+
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+frcs.code.tex"
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
+core.sty"
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
@@ -157,15 +186,19 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pg
+fsys.sty"
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys.code.tex"
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex"
 \pgfkeys@pathtoks=\toks19
 \pgfkeys@temptoks=\toks20
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
-ode.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks21
 ))
 \pgf@x=\dimen116
@@ -178,73 +211,81 @@ ode.tex
 \pgf@yc=\dimen123
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count94
-\c@pgf@countb=\count95
-\c@pgf@countc=\count96
-\c@pgf@countd=\count97
+\c@pgf@counta=\count95
+\c@pgf@countb=\count96
+\c@pgf@countc=\count97
+\c@pgf@countd=\count98
 \t@pgf@toka=\toks22
 \t@pgf@tokb=\toks23
 \t@pgf@tokc=\toks24
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgf.cfg"
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
-ef
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys-pdftex.def"
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
-df.def
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys-common-pdf.def"
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
-code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count98
-\pgfsyssoftpath@bigbuffer@items=\count99
+\pgfsyssoftpath@smallbuffer@items=\count99
+\pgfsyssoftpath@bigbuffer@items=\count100
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
-code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcore.code.tex"
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex"
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+calc.code.tex"
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+util.code.tex")
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+parser.code.tex"
 \pgfmath@dimen=\dimen124
-\pgfmath@count=\count100
+\pgfmath@count=\count101
 \pgfmath@box=\box27
 \pgfmath@toks=\toks25
 \pgfmath@stack@operand=\toks26
 \pgfmath@stack@operation=\toks27
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
-tex
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
-.code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
-nometric.code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
-m.code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
-rison.code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
-code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
-.code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
-code.tex)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
-erarithmetics.code.tex)))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count101
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.code.tex"
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.basic.code.tex")
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.trigonometric.code.tex")
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.random.code.tex")
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.comparison.code.tex")
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.base.code.tex")
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.round.code.tex")
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.misc.code.tex")
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.integerarithmetics.code.tex")))
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+float.code.tex"
+\c@pgfmathroundto@lastzeros=\count102
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
-de.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen125
 \pgf@picmaxx=\dimen126
@@ -261,123 +302,130 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen137
 \pgf@zy=\dimen138
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
-ruct.code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen139
 \pgf@path@lasty=\dimen140
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
-.code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen141
 \pgf@shorten@start@additional=\dimen142
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
-de.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box28
 \pgf@hbox=\box29
 \pgf@layerbox@main=\box30
-\pgf@picture@serial@count=\count102
+\pgf@picture@serial@count=\count103
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
-ate.code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen143
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
-ations.code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen144
 \pgf@pt@y=\dimen145
 \pgf@pt@temp=\dimen146
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
-e.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorequick.code.tex"
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
-ode.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
-ssing.code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathprocessing.code.tex"
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
-de.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen147
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
-e.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen148
-\pgf@sys@shading@range@num=\count103
+\pgf@sys@shading@range@num=\count104
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
-e.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
-code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box31
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
-de.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorelayers.code.tex"
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
-ncy.code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoretransparency.code.tex"
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
-code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepatterns.code.tex"
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
-e.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+oduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box32
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
-tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+oduleplot.code.tex"
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--0-65.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
+pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen149
 \pgf@nodesepend=\dimen150
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--1-18.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
+pgfcomp-version-1-18.sty"
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgff
+or.sty"
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfk
+eys.sty"
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex"))
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.s
+ty"
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex"))
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+ffor.code.tex"
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex")
 \pgffor@iter=\dimen151
 \pgffor@skip=\dimen152
 \pgffor@stack=\toks28
 \pgffor@toks=\toks29
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
-e.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\tikz.code.tex"
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
-dlers.code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
+flibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count104
+\pgf@plot@mark@count=\count105
 \pgfplotmarksize=\dimen153
 )
 \tikz@lastx=\dimen154
@@ -390,53 +438,54 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@figbox@bg=\box34
 \tikz@tempbox=\box35
 \tikz@tempbox@bg=\box36
-\tikztreelevel=\count105
-\tikznumberofchildren=\count106
-\tikznumberofcurrentchild=\count107
-\tikz@fig@count=\count108
+\tikztreelevel=\count106
+\tikznumberofchildren=\count107
+\tikznumberofcurrentchild=\count108
+\tikz@fig@count=\count109
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
-e.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+odulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count109
-\pgfmatrixcurrentcolumn=\count110
-\pgf@matrix@numberofcolumns=\count111
+\pgfmatrixcurrentrow=\count110
+\pgfmatrixcurrentcolumn=\count111
+\pgf@matrix@numberofcolumns=\count112
 )
-\tikz@expandcount=\count112
+\tikz@expandcount=\count113
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarytopaths.code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarypositioning.code.tex
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarypositioning.code.tex"
 File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count113
-\calc@Bcount=\count114
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count114
+\calc@Bcount=\count115
 \calc@Adimen=\dimen160
 \calc@Bdimen=\dimen161
 \calc@Askip=\skip43
 \calc@Bskip=\skip44
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count115
+\calc@Ccount=\count116
 \calc@Cskip=\skip45
 )
-\c@@todonotes@numberoftodonotes=\count116
+\c@@todonotes@numberoftodonotes=\count117
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
-\c@tracingmulticols=\count117
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
+"
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
+\c@tracingmulticols=\count118
 \mult@box=\box37
 \multicol@leftmargin=\dimen162
-\c@unbalance=\count118
-\c@collectmore=\count119
-\doublecol@number=\count120
-\multicoltolerance=\count121
-\multicolpretolerance=\count122
+\c@unbalance=\count119
+\c@collectmore=\count120
+\doublecol@number=\count121
+\multicoltolerance=\count122
+\multicolpretolerance=\count123
 \full@width=\dimen163
 \page@free=\dimen164
 \premulticols=\dimen165
@@ -467,19 +516,21 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box58
 \@tempa=\box59
 \@tempa=\box60
-\c@columnbadness=\count123
-\c@finalcolumnbadness=\count124
+\c@columnbadness=\count124
+\c@finalcolumnbadness=\count125
 \last@try=\dimen168
 \multicolovershoot=\dimen169
 \multicolundershoot=\dimen170
 \mult@nat@firstbox=\box61
 \colbreak@box=\box62
-\mc@col@check@num=\count125
+\mc@col@check@num=\count126
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.
+sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.
+sty"
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box63
 \beforetitleunit=\skip48
@@ -491,42 +542,44 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen174
 \titlewidthfirst=\dimen175
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/enumitem/enumitem.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.
+sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip50
 \enit@outerparindent=\dimen176
 \enit@toks=\toks31
 \enit@inbox=\box64
-\enitdp@description=\count126
+\enitdp@description=\count127
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/endnotes/endnotes.sty
-\c@endnote=\count127
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\endnotes\endnotes.
+sty"
+\c@endnote=\count128
 \endnotesep=\dimen177
 \@enotes=\write4
 )
-\c@longenumi=\count128
-\c@longenumii=\count129
-\c@longenumiii=\count130
-\c@longenumiv=\count131
-\c@longenumv=\count132
-\c@longenumvi=\count133
-\c@longenumvii=\count134
-\c@longenumviii=\count135
-\c@longenumix=\count136
-\c@longenumx=\count137
-\c@longenumxi=\count138
-\c@longenumxii=\count139
-\c@longenumxiii=\count140
-\c@longenumxiv=\count141
-\c@longenumxv=\count142
-\c@longenumxvi=\count143
-\c@longenumxvii=\count144
-\c@longenumxviii=\count145
-\c@longenumxix=\count146
-\c@longenumxx=\count147
-\enitdp@longenum=\count148
+\c@longenumi=\count129
+\c@longenumii=\count130
+\c@longenumiii=\count131
+\c@longenumiv=\count132
+\c@longenumv=\count133
+\c@longenumvi=\count134
+\c@longenumvii=\count135
+\c@longenumviii=\count136
+\c@longenumix=\count137
+\c@longenumx=\count138
+\c@longenumxi=\count139
+\c@longenumxii=\count140
+\c@longenumxiii=\count141
+\c@longenumxiv=\count142
+\c@longenumxv=\count143
+\c@longenumxvi=\count144
+\c@longenumxvii=\count145
+\c@longenumxviii=\count146
+\c@longenumxix=\count147
+\c@longenumxx=\count148
+\enitdp@longenum=\count149
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/lmodern.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -561,16 +614,17 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyphenat\hyphenat.
+sty"
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
-\langwohyphens=\language84
+\langwohyphens=\language76
 LaTeX Info: Redefining \_ on input line 43.
 )
 \@indexfile=\write5
@@ -578,16 +632,12 @@ LaTeX Info: Redefining \_ on input line 43.
 
 
 Writing index file Unified_Docs.idx
-(./Unified_Docs.aux (./Constitution/Constitution.aux) (./Bylaw/Bylaws.aux)
-(./Elections/Elections_Table.aux) (./Bylaw/Bylaws_Post_Election_Table.aux)
-(./Operations_Policy/Conflict_of_Interest.aux)
-(./Operations_Policy/Discipline_Code_2018.aux)
-(./Operations_Policy/Elections.aux) (./Operations_Policy/Minutes_2018.aux)
-(./Operations_Policy/Procurement.aux) (./Operations_Policy/Other_Policies.aux)
-(./Committee_Documents/GSTA.aux) (./Committee_Documents/Gradcast.aux)
-(./Committee_Documents/IGSIC.aux) (./Committee_Documents/OSC.aux)
-(./Committee_Documents/HPC.aux) (./Committee_Documents/Policy.aux)
-(./Rulings/July2013.aux) (./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux))
+(Unified_Docs.aux (Constitution/Constitution.aux) (Bylaw/Bylaws.aux)
+(Elections/Elections_Table.aux) (Bylaw/Bylaws_Post_Election_Table.aux)
+(Committee_Documents/BCC.aux) (Committee_Documents/Equity.aux)
+(Committee_Documents/GSTA.aux) (Committee_Documents/Gradcast.aux)
+(Committee_Documents/IGSIC.aux) (Committee_Documents/Policy.aux)
+(Rulings/July2013.aux) (Rulings/Nov2014.aux) (Rulings/Nov2017.aux))
 \openout1 = `Unified_Docs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
@@ -604,7 +654,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
 LaTeX Font Info:    ... okay on input line 89.
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 89.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/t1lmss.fd
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 *geometry* driver: auto-detecting
@@ -641,74 +691,93 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count149
+\scratchcounter=\count150
 \scratchdimen=\dimen178
 \scratchbox=\box65
-\nofMPsegments=\count150
-\nofMParguments=\count151
+\nofMPsegments=\count151
+\nofMParguments=\count152
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count152
+\MPscratchCnt=\count153
 \MPscratchDim=\dimen179
-\MPnumerator=\count153
-\makeMPintoPDFobject=\count154
+\MPnumerator=\count154
+\makeMPintoPDFobject=\count155
 \everyMPtoPDFconversion=\toks33
-) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
+) ABD: EveryShipout initializing macros
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-ABD: EveryShipout initializing macros
+Package todonotes Warning: The length marginparwidth is less than 2cm and will 
+most likely cause issues with the appearance of inserted todonotes. The issue c
+an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
+loading the todonotes package. on input line 89.
+
 <logo.jpg, id=4, 67.75313pt x 123.46124pt>
 File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 93.
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg  used on input line 93.
 (pdftex.def)             Requested size: 67.75294pt x 123.46092pt.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 93.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/t1lmr.fd
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
@@ -719,26 +788,26 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 93.
 [1
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo.
-jpg>] (./Unified_Docs.toc
+{C:/Users/April/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg>
+] (Unified_Docs.toc
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 3.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/ot1lmr.fd
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 3.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omllmm.fd
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 3.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omslmsy.fd
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMX+lmex on input line 3.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omxlmex.fd
+("C:\Users\April\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -747,17 +816,17 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 3.
- [2
 
-] [3] [4])
+[2
+
+] [3])
 \tf@toc=\write6
 \openout6 = `Unified_Docs.toc'.
 
-
-[5]
+ [4]
 \openout2 = `Constitution/Constitution.aux'.
 
- (./Constitution/Constitution.tex
+ (Constitution/Constitution.tex
 Chapter 1.
 
 Overfull \hbox (17.62482pt too wide) in paragraph at lines 3--4
@@ -766,12 +835,12 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 3--4
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 9.
+Package pdftex.def Info: logo.jpg  used on input line 9.
 (pdftex.def)             Requested size: 67.75294pt x 123.46092pt.
- [6
+[5
 
 
-] [7] [8] [9] [10] [11] [12] [13]
+] [6] [7] [8] [9] [10] [11] [12]
 Overfull \hbox (28.61154pt too wide) in paragraph at lines 146--147
 []\T1/lmss/m/n/12 Council shall be re-spon-si-ble for de-ter-min-ing mat-ters o
 f pol-icy and su-per-vis-ing the ad-mi-nis-tra-tion
@@ -789,27 +858,27 @@ Overfull \hbox (18.93445pt too wide) in paragraph at lines 151--153
 e spe-cific num-ber of rep-re-sen-ta-tives
  []
 
-[14]
+[13]
 Overfull \hbox (9.60587pt too wide) in paragraph at lines 186--187
 []\T1/lmss/m/n/12 The Ex-ec-u-tive shall, at its dis-cre-tion, call a meet-ing 
 of all Ex-ec-u-tive Of-fi-cers, Com-mis-sion-ers
  []
 
-(./Elections/Term_limits.tex) [15] [16] [17])
+(Elections/Term_limits.tex) [14] [15] [16])
 \openout2 = `Bylaw/Bylaws.aux'.
 
- (./Bylaw/Bylaws.tex
+ (Bylaw/Bylaws.tex
 Chapter 2.
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 7.
+Package pdftex.def Info: logo.jpg  used on input line 7.
 (pdftex.def)             Requested size: 67.75294pt x 123.46092pt.
 
 Overfull \hbox (17.62482pt too wide) in paragraph at lines 4--9
 [][]
  []
 
-[18
+[17
 
 
 
@@ -825,7 +894,7 @@ Overfull \hbox (2.75127pt too wide) in paragraph at lines 35--38
 ct-ing a in-terim chair-per-son
  []
 
-[19]
+[18]
 Overfull \hbox (8.7719pt too wide) in paragraph at lines 80--83
 []\T1/lmss/m/n/12 The Pres-i-dent shall, as ap-pro-pri-ate, call a meet-ing of 
 all Ex-ec-u-tive Of-fi-cers, Com-mis-sion-ers
@@ -837,7 +906,7 @@ Overfull \hbox (3.24825pt too wide) in paragraph at lines 85--92
  UWO Fac-ulty As-so-ci-a-tion
  []
 
-[20]
+[19]
 Overfull \hbox (12.06393pt too wide) in paragraph at lines 112--113
 []\T1/lmss/m/n/12 shall en-sure rep-re-sen-ta-tion of grad-u-ate stu-dent in-te
 r-ests and con-cerns with academic-related
@@ -849,7 +918,7 @@ Overfull \hbox (28.3725pt too wide) in paragraph at lines 136--138
 -tee, or send a So-ci-ety rep-re-sen-ta-tion
  []
 
-[21]
+[20]
 Overfull \hbox (7.4104pt too wide) in paragraph at lines 144--148
 []\T1/lmss/m/n/12 shall work in part-ner-ship with Graduate-relevant ser-vices 
 (e.g. SGPS Ori-en-ta-tion, Grad-u-ate
@@ -867,7 +936,7 @@ Overfull \hbox (5.13884pt too wide) in paragraph at lines 177--181
 e re-spon-si-ble for the ad-mi-nis-tra-tion
  []
 
-[22] [23]
+[21] [22]
 Overfull \hbox (4.95152pt too wide) in paragraph at lines 244--246
 []\T1/lmss/m/n/12 shall de-ter-mine the num-ber of de-part-men-tal and part--ti
 me rep-re-sen-ta-tives and co--ordinate
@@ -879,13 +948,13 @@ Overfull \hbox (4.20877pt too wide) in paragraph at lines 257--259
 m-mit-tees of the So-ci-ety, de-scrip-tions
  []
 
-[24]
+[23]
 Overfull \hbox (0.33524pt too wide) in paragraph at lines 301--303
 []\T1/lmss/m/n/12 be re-spon-si-ble for over-see-ing in-ves-ti-ga-tions of cam-
 paign im-pro-pri-eties and charges
  []
 
-[25]
+[24]
 Overfull \hbox (19.9537pt too wide) in paragraph at lines 312--314
 []\T1/lmss/m/n/12 The Ex-ec-u-tive and Coun-cil shall have the au-thor-ity to c
 re-ate, dis-solve, or amend com-mis-sioner
@@ -897,19 +966,19 @@ Overfull \hbox (14.604pt too wide) in paragraph at lines 333--335
 roup when pos-si-ble and ap-pro-pri-ate
  []
 
-[26]
+[25]
 Overfull \hbox (11.30719pt too wide) in paragraph at lines 390--391
 []\T1/lmss/m/n/12 shall not oc-cupy a vot-ing po-si-tion on any com-mit-tee, ex
 -cept-ing ex--officio vot-ing per-mis-sions
  []
 
-[27] [28]
+[26] [27]
 Overfull \hbox (15.61336pt too wide) in paragraph at lines 419--420
 \T1/lmss/m/n/12 grad-u-ate stu-dent or-gan-iza-tion ex-ists, be se-lected by th
 at or-gan-iza-tion, which shall com-mu-ni-cate
  []
 
-[29] (./Elections/General_Election_Bylaw.tex
+[28] (Elections/General_Election_Bylaw.tex
 Overfull \hbox (6.4796pt too wide) in paragraph at lines 26--27
 []\T1/lmss/m/n/12 An Ap-peals Re-view Com-mis-sion Hear-ing shall re-quest the 
 ap-pear-ance of in-di-vid-u-als
@@ -921,13 +990,13 @@ Overfull \hbox (0.85223pt too wide) in paragraph at lines 31--32
 -view Com-mis-sion
  []
 
-[30]
+[29]
 Overfull \hbox (1.64688pt too wide) in paragraph at lines 103--106
 []\T1/lmss/m/n/12 A se-cret bal-lot shall be held fol-low-ing the close of the 
 cam-paign pe-riod, for the Pres-i-den-tial
  []
 
-[31]
+[30]
 Overfull \hbox (6.73157pt too wide) in paragraph at lines 121--126
 []\T1/lmss/m/n/12 The Pres-i-den-tial elec-tion and all ref-er-enda shall have 
 no quo-rum un-less oth-er-wise man-dated
@@ -939,25 +1008,25 @@ Overfull \hbox (7.90782pt too wide) in paragraph at lines 156--157
 at an act of cam-paign im-pro-pri-ety
  []
 
-[32]
+[31]
 Overfull \hbox (36.20438pt too wide) in paragraph at lines 183--187
 []\T1/lmss/m/n/12 Any full or as-so-ciate mem-ber of the So-ci-ety may chal-len
 ge the va-lid-ity of an elec-tion/referendum
  []
 
-) [33]
+) [32]
 Overfull \hbox (0.40962pt too wide) in paragraph at lines 456--458
 []\T1/lmss/m/n/12 Nominations for all Vice-Presidential po-si-tions shall close
  at the Coun-cil pack-age dead-line.
  []
 
-[34] [35] [36] [37]
+[33] [34] [35] [36]
 Overfull \hbox (0.6631pt too wide) in paragraph at lines 577--578
 []\T1/lmss/m/n/12 by a mem-ber elected Speaker pro tem at a Coun-cil meet-ing. 
 The Pres-i-dent
  []
 
-[38] [39] [40]
+[37] [38] [39]
 Underfull \hbox (badness 10000) in paragraph at lines 686--687
 
  []
@@ -968,21 +1037,21 @@ Overfull \hbox (9.18173pt too wide) in paragraph at lines 689--690
 -ate Stu-dent As-so-ci-a-tion
  []
 
-[41] [42] [43])
+[40] [41] [42])
 \openout2 = `Elections/Elections_Table.aux'.
 
- (./Elections/Elections_Table.tex
+ (Elections/Elections_Table.tex
 Overfull \hbox (17.35371pt too wide) in paragraph at lines 5--21
  [] 
  []
 
-[44
+[43
 
 
 ])
 \openout2 = `Bylaw/Bylaws_Post_Election_Table.aux'.
 
- (./Bylaw/Bylaws_Post_Election_Table.tex [45
+ (Bylaw/Bylaws_Post_Election_Table.tex [44
 
 
 ]
@@ -997,7 +1066,7 @@ Overfull \hbox (3.85255pt too wide) in paragraph at lines 85--86
  dis-tinct from other com-mit-tees'
  []
 
-[46] [47] [48] [49]
+[45] [46] [47] [48]
 Overfull \hbox (6.97331pt too wide) in paragraph at lines 223--226
 []\T1/lmss/m/n/12 shall over-see and up-date, in con-sul-ta-tion with the So-ci
 -ety Com-mu-ni-ca-tions Ad-min-is-tra-tor
@@ -1015,7 +1084,7 @@ Overfull \hbox (40.41017pt too wide) in paragraph at lines 236--239
 rom each Grad-u-ate As-so-ci-a-tion/Department
  []
 
-[50] [51] [52]
+[49] [50] [51]
 Overfull \hbox (5.1897pt too wide) in paragraph at lines 361--362
 []\T1/lmss/m/n/12 shall dis-cuss and make rec-om-men-da-tions to Coun-cil on is
 -sues af-fect-ing grad-u-ate stu-dents
@@ -1027,7 +1096,7 @@ Overfull \hbox (11.72055pt too wide) in paragraph at lines 366--367
 are women and/or in-di-vid-u-als
  []
 
-[53] [54] [55]
+[52] [53] [54]
 LaTeX Font Info:    Try loading font information for OMS+lmss on input line 422
 .
 LaTeX Font Info:    No file OMSlmss.fd. on input line 422.
@@ -1043,7 +1112,7 @@ Overfull \hbox (6.74786pt too wide) in paragraph at lines 439--440
 n-is-tra-tive, in the ac-tiv-ity
  []
 
-[56] [57]
+[55] [56]
 Overfull \hbox (3.50224pt too wide) in paragraph at lines 481--483
 []\T1/lmss/m/n/12 The ad-min-is-tra-tive and mem-ber-ship fees to be levied on 
 full and as-so-ciate mem-bers
@@ -1055,31 +1124,31 @@ Overfull \hbox (8.8447pt too wide) in paragraph at lines 488--491
 above shall be in-tro-duced
  []
 
-[58] [59] [60]
+[57] [58] [59]
 Overfull \hbox (2.51387pt too wide) in paragraph at lines 541--544
 []\T1/lmss/m/n/12 Upon re-quest of a full or as-so-ciate mem-ber of the So-ci-e
 ty, the Pres-i-dent must con-fi-den-tially
  []
 
-[61] [62] [63]
+[60] [61] [62]
 Overfull \hbox (80.40143pt too wide) in paragraph at lines 698--699
 []\T1/lmss/m/n/12 Filled-seat al-ter-nate Coun-cil-lor, who re-places a Coun-ci
 l-lor from their de-part-ment/unit/constituency
  []
 
-[64] [65] [66] [67] [68] [69]
+[63] [64] [65] [66] [67] [68]
 Overfull \hbox (10.0102pt too wide) in paragraph at lines 835--836
 \T1/lmss/m/n/12 notwith-stand-ing the right granted by the Con-sti-tu-tion of t
 he So-ci-ety and notwith-stand-ing
  []
 
-[70]
+[69]
 Overfull \hbox (4.20718pt too wide) in paragraph at lines 847--848
 []\T1/lmss/m/n/12 A mem-ber of the Ex-ec-u-tive may be pro-hib-ited from sign-i
 ng or en-dors-ing con-tracts
  []
 
-[71] [72]
+[70] [71]
 Overfull \hbox (28.99516pt too wide) in paragraph at lines 865--865
 |[]\T1/lmss/bx/n/17.28 Dissemination of Amend-ments to the So-ci-ety's Gov-ern-
 ing
@@ -1091,306 +1160,45 @@ Overfull \hbox (10.42212pt too wide) in paragraph at lines 870--871
 se shall be lim-ited to cor-rec-tions
  []
 
-[73])
+[72])
 Chapter 3.
+[73
+
+
+]
+\openout2 = `Committee_Documents/BCC.aux'.
+
+ (Committee_Documents/BCC.tex
+Overfull \hbox (0.75473pt too wide) in paragraph at lines 24--25
+[]\T1/lmss/m/n/12 Membership, in-clud-ing the Chair-per-son and Deputy Chair-pe
+r-son, but ex-clud-ing the ex-officio
+ []
+
+
+Overfull \hbox (3.5028pt too wide) in paragraph at lines 33--34
+[]\T1/lmss/m/n/12 The BCC will act in ac-cor-dance with By-law 2.9.3.9 to man-a
+ge and main-tain at-ten-dance. 
+ []
+
 [74
 
-
 ]
-\openout2 = `Operations_Policy/Conflict_of_Interest.aux'.
-
- (./Operations_Policy/Conflict_of_Interest.tex
-Overfull \hbox (4.78117pt too wide) in paragraph at lines 13--14
-\T1/lmss/m/n/12 com-mit-tee chair-per-son, a com-mit-tee's of-fi-cial li-ai-son
-, the So-ci-ety's Pres-i-dent, or the So-ci-ety's
+Overfull \hbox (5.05095pt too wide) in paragraph at lines 55--56
+\T1/lmss/m/n/12 re-spec-tive doc-u-ment and an-nounced to the mem-ber-ship with
+in two (2) months of rat-i-fi-ca-tion. 
  []
 
+) [75]
+\openout2 = `Committee_Documents/Equity.aux'.
 
-Overfull \hbox (13.521pt too wide) in paragraph at lines 17--18
-\T1/lmss/m/n/12 tri-bunal pro-ceed-ing through the So-ci-ety’s Speaker (see 3
-.1.3.3, Tri-bunal Pro-ceed-ings). 
- []
-
-[75
-
-]
-Overfull \hbox (6.13261pt too wide) in paragraph at lines 28--29
-\T1/lmss/m/n/12 (non-voting), the Om-budsper-son (non-voting), and three other 
-So-ci-ety mem-bers rep-re-sent-ing
- []
-
-
-Overfull \hbox (14.96733pt too wide) in paragraph at lines 29--30
-[]\T1/lmss/m/n/12 The tri-bunal shall as-sem-ble within seven (7) busi-ness day
-s, bar-ring un-fore-seen cir-cum-stances,
- []
-
-
-Overfull \hbox (4.5775pt too wide) in paragraph at lines 38--39
-[]\T1/lmss/m/n/12 The con-flicted in-di-vid-ual be asked to cease par-tic-i-pat
--ing in the sit-u-a-tion gen-er-at-ing
- []
-
-
-Overfull \hbox (4.5775pt too wide) in paragraph at lines 44--45
-[]\T1/lmss/m/n/12 The con-flicted in-di-vid-ual be asked to cease par-tic-i-pat
--ing in the sit-u-a-tion gen-er-at-ing
- []
-
-[76]
-Overfull \hbox (6.40924pt too wide) in paragraph at lines 47--48
-[]\T1/lmss/m/n/12 The con-flicted in-di-vid-ual may be cen-sured and face ad-di
--tional dis-ci-plinary mea-sures
- []
-
-
-Overfull \hbox (39.0327pt too wide) in paragraph at lines 52--53
-[]\T1/lmss/m/n/12 In all in-stances where a judge-ment is be-ing prof-fered, ra
-ther than a mere rec-om-men-da-tion,
- []
-
-
-Overfull \hbox (15.88943pt too wide) in paragraph at lines 54--55
-[]\T1/lmss/m/n/12 Recommendations, pro-vided they achieve a res-o-lu-tion, need
- not be for-mal-ized
- []
-
-) [77]
-\openout2 = `Operations_Policy/Discipline_Code_2018.aux'.
-
- (./Operations_Policy/Discipline_Code_2018.tex [78
-
-
-] [79]
-Overfull \hbox (12.4832pt too wide) in paragraph at lines 59--60
-[]\T1/lmss/m/n/12 Misappropriation, dam-age, unau-tho-rized pos-ses-sion, de-fa
-ce-ment and/or de-struc-tion
- []
-
-
-Overfull \hbox (28.26917pt too wide) in paragraph at lines 65--67
-[]\T1/lmss/m/n/12 Forging, al-ter-ing or mis-us-ing any doc-u-ment, record, car
-d or in-stru-ment of iden-ti-fi-ca-tion. 
- []
-
-[80]
-Overfull \hbox (0.5586pt too wide) in paragraph at lines 81--82
-[]\T1/lmss/m/n/12 If needed to en-sure the Mem-ber's own phys-i-cal or emo-tion
-al safety and well-being;
- []
-
-[81]
-Overfull \hbox (2.65776pt too wide) in paragraph at lines 95--96
-[]\T1/lmss/m/n/12 If the mem-ber does not re-spond to the al-le-ga-tion or does
- not meet with the Om-budsper-son
- []
-
-
-Overfull \hbox (24.97095pt too wide) in paragraph at lines 100--101
-[]\T1/lmss/m/n/12 The Om-budsper-son shall re-port an-nu-ally at the An-nual Ge
-n-eral Meet-ing (AGM), sum-ma-riz-ing
- []
-
-
-Overfull \hbox (4.63243pt too wide) in paragraph at lines 109--110
-[]\T1/lmss/m/n/12 New ev-i-dence, not avail-able at the time of the ear-lier de
--ci-sion, has been dis-cov-ered,
- []
-
-[82]
-Overfull \hbox (9.85815pt too wide) in paragraph at lines 124--125
-[]\T1/lmss/m/n/12 Membership for the ARC Panel will be drawn from the Ap-peals 
-Re-view Com-mis-sion. 
- []
-
-
-Overfull \hbox (0.1757pt too wide) in paragraph at lines 132--133
-[]\T1/lmss/m/n/12 Name, stu-dent num-ber, email ad-dress, cur-rent phone num-be
-r, and cur-rent
- []
-
-[83]
-Overfull \hbox (28.18634pt too wide) in paragraph at lines 145--146
-\T1/lmss/m/n/12 against whom the de-ci-sion has been made (Ap-pel-lant) and the
- Om-budsper-son (Re-spon-dent). 
- []
-
-
-Overfull \hbox (1.1254pt too wide) in paragraph at lines 149--150
-[]\T1/lmss/m/n/12 Constitute a Panel of at least three (3) mem-bers in-clud-ing
- the chair-per-son.
- []
-
-[84]) [85]
-\openout2 = `Operations_Policy/Elections.aux'.
-
- (./Operations_Policy/Elections.tex [86
-
-
-]
-Overfull \hbox (1.26022pt too wide) in paragraph at lines 22--23
-[]\T1/lmss/m/n/12 In the event that the elected Pres-i-dent is a de-part-men-ta
-l or part-time rep-re-sen-ta-tive,
- []
-
-
-Overfull \hbox (2.63312pt too wide) in paragraph at lines 22--23
-\T1/lmss/m/n/12 de-part-men-tal rep-re-sen-ta-tive, Speaker or other Ex-ec-u-ti
-ve mem-ber while be-ing Pres-i-dent. 
- []
-
-
-Overfull \hbox (0.748pt too wide) in paragraph at lines 23--24
-[]\T1/lmss/m/n/12 Actual trans-fer of sign-ing au-thor-ity and re-spon-si-bil-i
--ties of the Of-fice of the Pres-i-dent
- []
-
-
-Overfull \hbox (0.72375pt too wide) in paragraph at lines 31--32
-[]\T1/lmss/m/n/12 At that meet-ing an agree-ment will be signed by all par-ties
- wherein they ac-knowl-edge
- []
-
-[87]
-Overfull \hbox (3.74823pt too wide) in paragraph at lines 56--58
-[]\T1/lmss/m/n/12 No can-di-date/referendum group or in-di-vid-ual mem-ber may,
- us-ing their own ini-tia-tive
- []
-
-[88]) [89]
-\openout2 = `Operations_Policy/Minutes_2018.aux'.
-
- (./Operations_Policy/Minutes_2018.tex) [90
-
-
-]
-\openout2 = `Operations_Policy/Procurement.aux'.
-
-
-(./Operations_Policy/Procurement.tex
-Overfull \hbox (7.3762pt too wide) in paragraph at lines 25--26
-[]\T1/lmss/bx/n/12 Requisitioning Com-mit-tee: \T1/lmss/m/n/12 The com-mit-tee 
-which pre-pares a pro-cure-ment pro-cess
- []
-
-
-Overfull \hbox (13.08696pt too wide) in paragraph at lines 49--50
-[]\T1/lmss/m/n/12 It is the re-spon-si-bil-ity of the Req-ui-si-tioner to en-su
-re all pur-chases re-quir-ing com-pet-i-tive
- []
-
-[91
-
-
-]
-Overfull \hbox (20.5849pt too wide) in paragraph at lines 67--68
-[]\T1/lmss/m/n/12 For pur-chases of $5,001-$50,000, price quo-ta-tions must be 
-so-licited by the Req-ui-si-tioner
- []
-
-
-Overfull \hbox (0.86066pt too wide) in paragraph at lines 67--68
-\T1/lmss/m/n/12 Req-ui-si-tioner may con-tact the sup-pli-ers di-rectly or en-l
-ist the as-sis-tance of the Uni-ver-sity
- []
-
-
-Overfull \hbox (13.3536pt too wide) in paragraph at lines 74--75
-[]\T1/lmss/m/n/12 The Req-ui-si-tioner is re-spon-si-ble for pro-vid-ing for-ma
-l Re-quest for Quo-ta-tion doc-u-ments
- []
-
-[92]
-Overfull \hbox (6.95744pt too wide) in paragraph at lines 97--98
-[]\T1/lmss/m/n/12 Only the So-ci-ety's Pres-i-dent and the Of-fi-cial Li-ai-son
- to the Req-ui-si-tion-ing Com-mit-tee
- []
-
-LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 110.
-
-[93]
-Overfull \hbox (7.49702pt too wide) in paragraph at lines 127--128
-[]\T1/lmss/m/n/12 All qual-i-fy-ing bids shall be eval-u-ated. All bids and the
- ra-tio-nale of the Req-ui-si-tion-ing
- []
-
-
-Overfull \hbox (6.8726pt too wide) in paragraph at lines 150--151
-[]\T1/lmss/m/n/12 Once the grievance is filed, the Req-ui-si-tioner, the Ex-ec-
-u-tive, and the Om-budsper-son
- []
-
-[94]
-Overfull \hbox (14.22508pt too wide) in paragraph at lines 166--167
-[]\T1/lmss/m/n/12 The re-port shall in-clude: the rec-om-men-da-tion and ra-tio
--nale of the com-mit-tee,
- []
-
-
-Overfull \hbox (27.20497pt too wide) in paragraph at lines 167--168
-\T1/lmss/m/n/12 When se-lect-ing the ac-coun-tant, it is im-por-tant to con-sid
-er ex-pe-ri-ence with or-ga-ni-za-tions
- []
-
-
-Overfull \hbox (12.07417pt too wide) in paragraph at lines 167--168
-\T1/lmss/m/n/12 sim-i-lar to the So-ci-ety: not-for-profit or-ga-ni-za-tions, m
-em-ber-ships of sev-eral thou-sand,
- []
-
-[95]) [96]
-\openout2 = `Operations_Policy/Other_Policies.aux'.
-
- (./Operations_Policy/Other_Policies.tex
-Overfull \hbox (9.70784pt too wide) in paragraph at lines 10--11
-[]\T1/lmss/m/n/12 The So-ci-ety en-dorses the view that grad-u-ate stu-dent fun
-d-ing should guar-an-tee
- []
-
-
-Overfull \hbox (2.88002pt too wide) in paragraph at lines 15--16
-\T1/lmss/m/n/12 The So-ci-ety will make bud-getary ad-just-ments to match in-cr
-eas-ing cost of cov-er-age. 
- []
-
-[97
-
-
-]
-Overfull \hbox (22.07594pt too wide) in paragraph at lines 41--42
-[]\T1/lmss/m/n/12 The So-ci-ety sup-ports dif-fer-ent an-cil-lary fees for grad
--u-ate stu-dents com-men-su-rate
- []
-
-
-Overfull \hbox (48.71637pt too wide) in paragraph at lines 46--47
-[]\T1/lmss/m/n/12 The So-ci-ety in prin-ci-ple op-poses dereg-u-la-tion or elim
--i-na-tion of government-established
- []
-
-[98]
-Overfull \hbox (11.01483pt too wide) in paragraph at lines 64--65
-[]\T1/lmss/m/n/12 Special sta-tus stu-dents, such as ex-change and In-ter-na-ti
-onal grad-u-ate stu-dents,
- []
-
-[99]
-Overfull \hbox (1.44853pt too wide) in paragraph at lines 89--90
-\T1/lmss/m/n/12 re-ceiv-ing a re-place-ment buss pass are el-i-gi-ble to re-cei
-ve a re-fund of the re-place-ment
- []
-
-) [100]
-Chapter 4.
-[101
+ (Committee_Documents/Equity.tex) [76
 
 
 ]
 \openout2 = `Committee_Documents/GSTA.aux'.
 
- (./Committee_Documents/GSTA.tex
-Overfull \hbox (37.13136pt too wide) in paragraph at lines 1--1
+ (Committee_Documents/GSTA.tex
+Overfull \hbox (7.75667pt too wide) in paragraph at lines 1--1
 |[]\T1/lmss/bx/n/17.28 Graduate Stu-dent Teach-ing Awards (GTSA) Com-mit-tee| 
  []
 
@@ -1404,248 +1212,96 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) [102
+) [77
+
 
 ]
 \openout2 = `Committee_Documents/Gradcast.aux'.
 
- (./Committee_Documents/Gradcast.tex [103
-
-
-]
-Overfull \hbox (4.16162pt too wide) in paragraph at lines 76--78
-[]\T1/lmss/m/n/12 aim to in-clude a pic-ture of guests and hosts, along with a 
-brief cap-tion sum-ma-riz-ing
+ (Committee_Documents/Gradcast.tex
+Overfull \hbox (3.18266pt too wide) in paragraph at lines 28--30
+[]\T1/lmss/m/n/12 A Record-ing Sec-re-tary, who will be re-spon-si-ble for keep
+-ing and dis-sem-i-nat-ing com-mit-tee
  []
 
-) [104]
+[78
+
+
+]) [79]
 \openout2 = `Committee_Documents/IGSIC.aux'.
 
- (./Committee_Documents/IGSIC.tex
-Overfull \hbox (18.03783pt too wide) in paragraph at lines 26--27
-[]\T1/lmss/m/n/12 For pri-vate votes (e.g. elec-tions), votes will be sent to t
-he Chair, or the Vice-President
+ (Committee_Documents/IGSIC.tex
+Overfull \hbox (7.06584pt too wide) in paragraph at lines 11--13
+[]\T1/lmss/m/n/12 Non-voting mem-bers: Vice-President Stu-dent Ser-vices (Of-fi
+-cial Li-ai-son, Ex-officio), Pres-i-dent
  []
 
-[105
+[80
 
 
 ]
-Overfull \hbox (28.8565pt too wide) in paragraph at lines 54--56
+Overfull \hbox (8.88176pt too wide) in paragraph at lines 54--56
 []\T1/lmss/m/n/12 shall work with the Com-mu-ni-ca-tions Ad-min-is-tra-tor to m
 ain-tain web-site in-ter-na-tional
  []
 
 
-Overfull \hbox (8.9017pt too wide) in paragraph at lines 69--70
-[]\T1/lmss/m/n/12 Shall dis-tribute Com-mit-tee min-utes via the IGSIC list-ser
-v as per By-law 2.9.2.8.1. 
- []
-
-[106]
-Overfull \hbox (1.12582pt too wide) in paragraph at lines 76--79
-\T1/lmss/m/n/12 and sub-mit it for re-view to the Vice-President Stu-dent Ser-v
-ices be-fore step-ping
+Overfull \hbox (5.94608pt too wide) in paragraph at lines 70--73
+[]\T1/lmss/m/n/12 Shall sub-mit IGSIC up-dates, AGM Re-ports, Fi-nal Re-ports, 
+and Sur-veys, as ap-proved
  []
 
 
-Overfull \hbox (11.22548pt too wide) in paragraph at lines 93--95
-[]\T1/lmss/m/n/12 Committee mem-bers shall in-form the Chair and Vice-President
- Stu-dent Ser-vices,
+Overfull \hbox (2.12624pt too wide) in paragraph at lines 70--73
+\T1/lmss/m/n/12 by IGSIC, for con-sid-er-a-tion at SOGS Coun-cil as per By-laws
+ 2.15.3.7 and 2.15.3.7.1. 
+ []
+
+[81]
+Overfull \hbox (1.30528pt too wide) in paragraph at lines 89--90
+[]\T1/lmss/m/n/12 Communications Ad-min-is-tra-tor over-sees the IGSIC list-ser
+v and com-mit-tee mem-ber
  []
 
 
-Overfull \hbox (16.90721pt too wide) in paragraph at lines 111--112
-[]\T1/lmss/m/n/12 IGSIC shall work in con-junc-tion with the Vice-President Stu
--dent Ser-vices, the In-ter-na-tional
+Overfull \hbox (5.79567pt too wide) in paragraph at lines 90--91
+[]\T1/lmss/m/n/12 Vice-President Stu-dent Ser-vices rat-i-fies com-mit-tee mem-
+bers at Coun-cil and in-forms
  []
 
-[107]
-Overfull \hbox (2.14806pt too wide) in paragraph at lines 112--113
-\T1/lmss/m/n/12 fo-cused events in an ef-fort to bet-ter meet the needs/interes
-ts/ of in-ter-na-tional grad-u-ate
+[82]
+Overfull \hbox (4.12851pt too wide) in paragraph at lines 133--134
+[]\T1/lmss/m/n/12 IGSIC, through the Vice-President Stu-dent Ser-vices, shall e
+n-deav-our to part-ner with grad-u-ate
  []
 
-
-Overfull \hbox (3.04573pt too wide) in paragraph at lines 126--129
-\T1/lmss/m/n/12 Cana-dian Fed-er-a-tion of Stu-dents (CFS) to en-hance the ex-p
-e-ri-ences of in-ter-na-tional
- []
-
-) [108]
-\openout2 = `Committee_Documents/OSC.aux'.
-
- (./Committee_Documents/OSC.tex
-Overfull \hbox (8.05574pt too wide) in paragraph at lines 7--8
-\T1/lmss/m/n/12 fa-cil-i-tate SOGS Fall, Win-ter, and Sum-mer Ori-en-ta-tions, 
-host so-cial and recreational--including
- []
-
-
-Overfull \hbox (33.1265pt too wide) in paragraph at lines 7--8
-\T1/lmss/m/n/12 non-alcoholic--events for SOGS' di-verse mem-ber-ship, work in 
-con-junc-tion with the Com-mu-ni-ca-tions
- []
-
-[109
-
-
-]
-Overfull \hbox (18.03783pt too wide) in paragraph at lines 33--34
-[]\T1/lmss/m/n/12 For pri-vate votes (e.g. elec-tions), votes will be sent to t
-he Chair, or the Vice-President
- []
-
-
-Overfull \hbox (16.86394pt too wide) in paragraph at lines 68--69
-[]\T1/lmss/m/n/12 Shall act in ac-cor-dance with By-law 2.9.5.8 ("Ori-en-ta-tio
-n and So-cial Com-mit-tee"). 
- []
-
-[110]
-Overfull \hbox (3.34694pt too wide) in paragraph at lines 80--81
-[]\T1/lmss/m/n/12 Shall dis-tribute Com-mit-tee min-utes via the OSC list-serv 
-as per By-law 2.9.2.8.1. 
- []
-
-
-Overfull \hbox (10.617pt too wide) in paragraph at lines 92--93
-[]\T1/lmss/m/n/12 Shall re-ceive train-ing/documents/uniforms from the Speaker 
-and Vice-President
- []
-
-
-Overfull \hbox (5.94553pt too wide) in paragraph at lines 102--103
-[]\T1/lmss/m/n/12 Communications Ad-min-is-tra-tor: Over-sees the OSC list-serv
- and com-mit-tee mem-ber
- []
-
-[111]
-Overfull \hbox (1.52751pt too wide) in paragraph at lines 122--124
-[]\T1/lmss/m/n/12 The OSC, in part-ner-ship with the Vice-President Stu-dent Se
-r-vices, Grad Club Man-ager,
- []
-
-
-Overfull \hbox (1.03929pt too wide) in paragraph at lines 124--125
-[]\T1/lmss/m/n/12 The OSC will be-gin plan-ning Fall Ori-en-ta-tion in April, W
-in-ter Ori-en-ta-tion in Novem-ber,
- []
-
-
-Overfull \hbox (6.07632pt too wide) in paragraph at lines 132--134
-\T1/lmss/m/n/12 non-alcohol fo-cused events in an ef-fort to bet-ter meet the n
-eeds/interests/demographics
- []
-
-
-Overfull \hbox (0.54579pt too wide) in paragraph at lines 141--144
-\T1/lmss/m/n/12 for ex-am-ple, Grad Club Com-mit-tee (Stitch & Bitch), Grad-u-a
-te Peer Sup-port (Grad-u-ate
- []
-
-[112]
-Overfull \hbox (50.95961pt too wide) in paragraph at lines 144--147
-[]\T1/lmss/m/n/12 The OSC shall en-deavor to reach out to rep-re-sen-ta-tives f
-rom Grad-u-ate As-so-ci-a-tions/Departments
- []
-
-
-Overfull \hbox (0.68903pt too wide) in paragraph at lines 144--147
-\T1/lmss/m/n/12 re-gard-ing Ori-en-ta-tion and so-cial events through-out the y
-ear for the pur-pose of feed-back
- []
-
-) [113]
-\openout2 = `Committee_Documents/HPC.aux'.
-
- (./Committee_Documents/HPC.tex
-Overfull \hbox (11.54816pt too wide) in paragraph at lines 15--19
-\T1/lmss/m/n/12 Pres-i-dent (Ex-officio), and SOGS Ac-count-ing Man-ager (Ex-of
-ficio), and Com-mu-ni-ca-tions
- []
-
-[114
-
-
-]
-Overfull \hbox (3.43665pt too wide) in paragraph at lines 36--38
-[]\T1/lmss/m/n/12 oting mem-bers shall be given one week to re-spond (un-less i
-n ur-gent cir-cum-stances)
- []
-
-
-Overfull \hbox (51.56357pt too wide) in paragraph at lines 62--63
-[]\T1/lmss/m/n/12 Shall work with the Ac-count-ing Man-ager, Ad-min-is-tra-tive
- As-sis-tant, and Com-mu-ni-ca-tions
- []
-
-
-Overfull \hbox (3.85992pt too wide) in paragraph at lines 78--79
-[]\T1/lmss/m/n/12 Shall dis-tribute Com-mit-tee min-utes via the HPC list-serv 
-as per By-law 2.9.2.8.1. 
- []
-
-[115]
-Overfull \hbox (6.45851pt too wide) in paragraph at lines 97--98
-[]\T1/lmss/m/n/12 Communications Ad-min-is-tra-tor: Over-sees the HPC list-serv
- and com-mit-tee mem-ber
- []
-
-[116]
-Overfull \hbox (0.3652pt too wide) in paragraph at lines 120--121
-[]\T1/lmss/m/n/12 Proof of com-ple-tion of non-full-time stu-dent sta-tus, such
- as com-ple-tion of stud-ies. 
- []
-
-
-Overfull \hbox (39.70763pt too wide) in paragraph at lines 144--167
-[][] 
- []
-
-[117]
-Overfull \hbox (49.96152pt too wide) in paragraph at lines 182--184
-[]\T1/lmss/m/n/12 Other -- 5% (Dis-counts, Net-work, Bur-saries, Spon-sor-ship,
- Pro-mo-tional, Com-mu-ni-ca-tion,
- []
-
-
-Overfull \hbox (2.34149pt too wide) in paragraph at lines 182--184
-\T1/lmss/m/n/12 Ad-min-is-tra-tive, Data An-a-lyt-ics, Flex Plans, Men-tal heal
-th/Wellness ini-tia-tives,
- []
-
-) [118]
+) [83]
 \openout2 = `Committee_Documents/Policy.aux'.
 
- (./Committee_Documents/Policy.tex
-Overfull \hbox (3.66298pt too wide) in paragraph at lines 31--32
-[]\T1/lmss/m/n/12 Aside from the sched-uled meet-ings, on-line vot-ing is also 
-per-mit-ted on the con-di-tion
+ (Committee_Documents/Policy.tex
+Overfull \hbox (13.429pt too wide) in paragraph at lines 32--33
+[]\T1/lmss/m/n/12 Committee mem-bers (in-clud-ing the Of-fi-cial Li-ai-son, Cha
+ir-per-son, and ex-officio mem-bers)
  []
 
-) [119
+) [84
 
 
 ]
-Chapter 5.
-[120
+Chapter 4.
+[85
 
 
 ]
 \openout2 = `Rulings/July2013.aux'.
 
- (./Rulings/July2013.tex
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 2--2
- [] 
+ (Rulings/July2013.tex
+Overfull \hbox (5.09343pt too wide) in paragraph at lines 35--36
+[]\T1/lmss/m/n/12 Were the Non-Disclosure Agree-ments (NDA) signed by the mem-b
+ers of the In-ves-tiga-tive
  []
 
-
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 7--7
- [][] 
- []
-
-[121
+[86
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1654,34 +1310,18 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 54.
-
-Overfull \hbox (7.70763pt too wide) in paragraph at lines 53--57
-[]\T1/lmss/m/n/12 Because the NDAs signed by those in-volved in the in-ves-ti-g
-a-tion are le-gal doc-u-ments,
- []
-
-
-Overfull \hbox (8.71106pt too wide) in paragraph at lines 60--63
-\T1/lmss/m/n/12 min-utes from So-ci-ety meet-ings, in-clud-ing min-utes oth-er-
-wise con-sid-ered con-fi-den-tial,
- []
-
-[122] [123]
+ [87] [88]
 Underfull \hbox (badness 10000) in paragraph at lines 87--97
 
  []
 
-) [124]
+) [89]
 \openout2 = `Rulings/Nov2014.aux'.
 
- (./Rulings/Nov2014.tex
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 4--4
- [] 
- []
-
-
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 9--9
- [][] 
+ (Rulings/Nov2014.tex
+Overfull \hbox (9.7455pt too wide) in paragraph at lines 18--20
+\T1/lmss/m/n/12 Al-ter-nate Coun-cil-lors to at-tend meet-ings when their reg-u
+-lar de-part-ment rep-re-sen-ta-tive is un-avail-able.
  []
 
 
@@ -1689,90 +1329,64 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--40
 
  []
 
-) [125
+) [90
 
 
 ]
 \openout2 = `Rulings/Nov2017.aux'.
 
- (./Rulings/Nov2017.tex
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 4--4
- [] 
+ (Rulings/Nov2017.tex
+Overfull \hbox (0.24078pt too wide) in paragraph at lines 29--30
+[]\T1/lmss/m/n/12 Removal of the mem-ber from the com-mit-tee list fol-low-ing 
+their un-der-stood res-ig-na-tion. 
  []
 
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 9--9
- [][] 
- []
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 91 might be wrong on input line 48.
 
 
-Overfull \hbox (24.06439pt too wide) in paragraph at lines 15--15
-|\T1/lmss/bx/n/17.28 Removing Ab-sen-tee Com-mit-tee Mem-bers from Com-mit-tees
-| 
- []
-
-[126
+[91
 
 
-] [127]) [128] (./Unified_Docs.ind [129
+] [92]) [93] (Unified_Docs.ind [94
 
 
-] [130] [131] [132] [133] [134]
-[135] [136] [137] [138
+] [95] [96] [97] [98] [99] [100] [101]
+[102] [103
 
-])
-
-! LaTeX Error: \begin{longenum} on input line 2 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.143 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-(./Unified_Docs.aux (./Constitution/Constitution.aux) (./Bylaw/Bylaws.aux)
-(./Elections/Elections_Table.aux) (./Bylaw/Bylaws_Post_Election_Table.aux)
-(./Operations_Policy/Conflict_of_Interest.aux)
-(./Operations_Policy/Discipline_Code_2018.aux)
-(./Operations_Policy/Elections.aux) (./Operations_Policy/Minutes_2018.aux)
-(./Operations_Policy/Procurement.aux) (./Operations_Policy/Other_Policies.aux)
-(./Committee_Documents/GSTA.aux) (./Committee_Documents/Gradcast.aux)
-(./Committee_Documents/IGSIC.aux) (./Committee_Documents/OSC.aux)
-(./Committee_Documents/HPC.aux) (./Committee_Documents/Policy.aux)
-(./Rulings/July2013.aux) (./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux))
+]) (Unified_Docs.aux (Constitution/Constitution.aux)
+(Bylaw/Bylaws.aux) (Elections/Elections_Table.aux)
+(Bylaw/Bylaws_Post_Election_Table.aux) (Committee_Documents/BCC.aux)
+(Committee_Documents/Equity.aux) (Committee_Documents/GSTA.aux)
+(Committee_Documents/Gradcast.aux) (Committee_Documents/IGSIC.aux)
+(Committee_Documents/Policy.aux) (Rulings/July2013.aux) (Rulings/Nov2014.aux)
+(Rulings/Nov2017.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 2 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 14328 strings out of 492995
- 280216 string characters out of 6132704
- 343767 words of memory out of 5000000
- 17401 multiletter control sequences out of 15000+600000
- 68500 words of font info for 51 fonts, out of 8000000 for 9000
+ 14272 strings out of 492973
+ 284796 string characters out of 3126692
+ 350297 words of memory out of 3000000
+ 17694 multiletter control sequences out of 15000+200000
+ 65698 words of font info for 50 fonts, out of 3000000 for 9000
  1148 hyphenation exceptions out of 8191
- 62i,8n,56p,1045b,772s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.en
-c}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/lo
-cal/texlive/2017/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texliv
-e/2017/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/tex
-mf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fo
-nts/type1/public/lm/lmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/p
-ublic/lm/lmssbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm
-/lmsso12.pfb>
-Output written on Unified_Docs.pdf (138 pages, 405177 bytes).
+ 62i,8n,56p,1048b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/April/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
+c}<C:/Users/April/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/lm/lmcsc10.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/lm/lmss10.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/lm/lmss12.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
+Output written on Unified_Docs.pdf (103 pages, 369707 bytes).
 PDF statistics:
- 486 PDF objects out of 1000 (max. 8388607)
- 333 compressed objects within 4 object streams
+ 370 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
