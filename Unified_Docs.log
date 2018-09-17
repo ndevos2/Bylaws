@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  17 SEP 2018 16:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  17 SEP 2018 16:52
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -883,15 +883,21 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 4--9
 
 
 ]
-Overfull \hbox (2.16821pt too wide) in paragraph at lines 33--34
+Overfull \hbox (11.30719pt too wide) in paragraph at lines 33--34
 []\T1/lmss/m/n/12 shall not oc-cupy a vot-ing po-si-tion on any com-mit-tee, ex
 -cept-ing ex--officio vot-ing per-mis-sions
  []
 
 
-Overfull \hbox (2.75127pt too wide) in paragraph at lines 35--38
+Overfull \hbox (11.89024pt too wide) in paragraph at lines 35--38
 []\T1/lmss/m/n/12 shall not serve as chair of any com-mit-tee, ex-cept when ele
 ct-ing a in-terim chair-per-son
+ []
+
+
+Overfull \hbox (8.27895pt too wide) in paragraph at lines 46--47
+[]\T1/lmss/m/n/12 shall, upon elec-tion, pro-vide the of-fice of the So-ci-ety 
+with up--to--date con-tact in-for-ma-tion.
  []
 
 [18]
@@ -1384,7 +1390,7 @@ onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (103 pages, 369707 bytes).
+Output written on Unified_Docs.pdf (103 pages, 369684 bytes).
 PDF statistics:
  370 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
