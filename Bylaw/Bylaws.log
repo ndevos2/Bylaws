@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.27)  19 APR 2018 11:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  11 OCT 2018 15:54
 entering extended mode
 **./Bylaws.tex
 (Bylaws.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+LaTeX2e <2018-04-01> patch level 5
 ! Undefined control sequence.
 l.2 \chapter
             {Bylaws}
@@ -213,7 +212,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.16 \begin{longenum}
-                     [ label*=\thesection.\arabic*., align=left]
+                     [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -227,8 +226,8 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.16 \begin{longenum}[ label*=\thesection
-                                         .\arabic*., align=left]
+l.16 \begin{longenum}[ label*=\thesubsection
+                                            .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -239,7 +238,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.16 \begin{longenum}[ label*=\thesection.\arabic*
+l.16 ...{longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -2810,7 +2809,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.58     \item s
-                hall be responsible for ensuring the Vice--Presidents execut...
+                hall be responsible for ensuring the Vice-Presidents execute...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2852,7 +2851,6 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no - in font nullfont!
-Missing character: There is no - in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -2890,7 +2888,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.59     \item s
-                hall be a non--voting member, ex-officio, of all standing co...
+                hall be a non-voting member, ex-officio, of all standing com...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2906,7 +2904,6 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
-Missing character: There is no - in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no v in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -3195,7 +3192,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.65     \item s
-                hall, with the Vice--President Finance, and only with Counci...
+                hall, with the Vice-President Finance, and only with Council...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3217,7 +3214,6 @@ Missing character: There is no V in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no - in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -3317,7 +3313,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.69     \item s
-                hall, with the Vice--President Finance, be responsible for t...
+                hall, with the Vice-President Finance, be responsible for th...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3339,7 +3335,6 @@ Missing character: There is no V in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no - in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -3467,7 +3462,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.73     \item s
-                hall, with the Vice--President Finance, and with Council's a...
+                hall, with the Vice-President Finance, and with Council's ap...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3489,7 +3484,6 @@ Missing character: There is no V in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no - in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -3585,7 +3579,6 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no - in font nullfont!
-Missing character: There is no - in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -3610,7 +3603,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.75     \item s
-                hall ensure the names of the winners of Society's non--confi...
+                hall ensure the names of the winners of Society's non-confid...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3660,7 +3653,6 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
-Missing character: There is no - in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -3712,7 +3704,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.76     \item s
-                hall co--ordinate the contract renewal process for the Socie...
+                hall co-ordinate the contract renewal process for the Societ...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3724,7 +3716,6 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no - in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -3794,7 +3785,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.79     \item s
-                hall maintain organizational charts that reflect the mandate...
+                hall maintain organizational documents that reflect the mand...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3826,10 +3817,13 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
 Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -4092,7 +4086,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.83         \item s
-                    hall represent the Society as necessary at meetings of c...
+                    hall represent the Society as necessary (or designate an...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4132,6 +4126,103 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no y in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+! LaTeX Error: Environment longenum undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84         \begin{longenum}
+                             [ label*=\arabic*., align=left]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no = in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.84         \begin{longenum}[ label*=\arabic*
+                                              ., align=left]
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85         \item a
+                    t meetings of campus organizations (including, by not li...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no m in font nullfont!
@@ -4150,19 +4241,20 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no , in font nullfont!
+Missing character: There is no ( in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -4174,8 +4266,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no b in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -4209,8 +4300,8 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no s in font nullfont!
 Missing character: There is no ' in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
@@ -4219,7 +4310,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no , in font nullfont!
-Missing character: There is no t in font nullfont!
+Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no M in font nullfont!
@@ -4261,9 +4352,26 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no O in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -4280,44 +4388,121 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92         \item a
+                    t meetings with University Administrators
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
 Missing character: There is no s in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93         \item i
+                    n any external context, including media and government r...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no , in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
-Missing character: There is no d in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no g in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -4332,14 +4517,27 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.91 \end{longenum}
+l.94         \end{longenum}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{longenum}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \end{longenum}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.93 \subsection
+l.98 \subsection
                  {The Vice--President Advocacy}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4354,7 +4552,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.93 \subsection {T
+l.98 \subsection {T
                    he Vice--President Advocacy}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4392,8 +4590,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.95 \begin{longenum}
-                     [ label*=\thesubsection.\arabic*., align=left]
+l.100 \begin{longenum}
+                      [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -4407,8 +4605,8 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.95 \begin{longenum}[ label*=\thesubsection
-                                            .\arabic*., align=left]
+l.100 \begin{longenum}[ label*=\thesubsection
+                                             .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -4419,7 +4617,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.95 ...{longenum}[ label*=\thesubsection.\arabic*
+l.100 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -4440,7 +4638,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 93--96
+Overfull \hbox (20.0pt too wide) in paragraph at lines 98--101
 []
  []
 
@@ -4451,8 +4649,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 	\item s
-             hall regularly update Council on external issues affecting the ...
+l.101 	\item s
+              hall regularly update Council on external issues affecting the...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4536,8 +4734,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.97     \item s
-                hall coordinate and promote activities that raise awareness ...
+l.102     \item s
+                 hall coordinate and promote activities that raise awareness...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4647,8 +4845,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.98     \item s
-                hall liaise with community, provincial, and national bodies ...
+l.103     \item s
+                 hall liaise with community, provincial, and national bodies...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4860,8 +5058,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.99 \item S
-            hall serve as liaison to the Commissioners and assist them in th...
+l.104 \item S
+             hall serve as liaison to the Commissioners and assist them in t...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4952,14 +5150,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.101 \end{longenum}
+l.106 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.104 \subsection
+l.109 \subsection
                   {The Vice-President Academic}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4974,7 +5172,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.104 \subsection {T
+l.109 \subsection {T
                     he Vice-President Academic}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5011,7 +5209,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.106 \begin{longenum}
+l.111 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -5026,7 +5224,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.106 \begin{longenum}[ label*=\thesubsection
+l.111 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5038,7 +5236,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.106 ...longenum}[ label*=\thesubsection.\arabic*
+l.111 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -5059,7 +5257,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 104--107
+Overfull \hbox (20.0pt too wide) in paragraph at lines 109--112
 []
  []
 
@@ -5070,7 +5268,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.107 	\item s
+l.112 	\item s
               hall ensure representation of graduate student interests and c...
 
 Try typing  <return>  to proceed.
@@ -5172,7 +5370,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.108     \item s
+l.113     \item s
                  hall co-ordinate the academic programs of the Society, incl...
 
 Try typing  <return>  to proceed.
@@ -5331,7 +5529,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.115     \item s
+l.120     \item s
                  hall meet regularly with the School of Graduate and Postdoc...
 
 Try typing  <return>  to proceed.
@@ -5431,7 +5629,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.116     \item s
+l.121     \item s
                  hall act as an academic peer advisor for graduate students ...
 
 Try typing  <return>  to proceed.
@@ -5521,14 +5719,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.118 \end{longenum}
+l.123 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.120 \subsection
+l.125 \subsection
                   {The Vice--President Student Services}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5543,7 +5741,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.120 \subsection {T
+l.125 \subsection {T
                     he Vice--President Student Services}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5588,7 +5786,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.122 \begin{longenum}
+l.127 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -5603,7 +5801,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.122 \begin{longenum}[ label*=\thesubsection
+l.127 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5615,7 +5813,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.122 ...longenum}[ label*=\thesubsection.\arabic*
+l.127 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -5636,7 +5834,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 120--123
+Overfull \hbox (20.0pt too wide) in paragraph at lines 125--128
 []
  []
 
@@ -5647,7 +5845,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.123 	\item s
+l.128 	\item s
               hall ensure representation of graduate student interests and c...
 
 Try typing  <return>  to proceed.
@@ -5863,7 +6061,9 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
-Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -5879,14 +6079,66 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no , in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -5905,7 +6157,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.127     \item s
+l.132     \item s
                  hall ensure representation of graduate student interests an...
 
 Try typing  <return>  to proceed.
@@ -6004,11 +6256,16 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -6034,7 +6291,152 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.128     \item s
+l.133     \item s
+                 hall oversee the SOGS Health Plan Committee (HPC), Internat...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no & in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.134     \item s
                  hall oversee the promotion of the Society--sponsored social...
 
 Try typing  <return>  to proceed.
@@ -6137,8 +6539,103 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.131     \item s
-                 hall attend Western's Mental Health and Wellness Committee,...
+l.137     \item s
+                 hall, with the SOGS President, sit on the Student Services ...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no . in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138     \item s
+                 hall attend Western's Mental Health and Wellness Committee ...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6195,6 +6692,14 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -6268,7 +6773,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.133 \item s
+l.140 \item s
              hall work in partnership with the School of Graduate and Postdo...
 
 Try typing  <return>  to proceed.
@@ -6500,7 +7005,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.136 \item s
+l.143 \item s
              hall help plan, organize, and oversee the running of Graduate W...
 
 Try typing  <return>  to proceed.
@@ -6725,7 +7230,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.139 \item s
+l.146 \item s
              hall work in partnership with Graduate-relevant services (e.g. ...
 
 Try typing  <return>  to proceed.
@@ -6875,23 +7380,17 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no G in font nullfont!
@@ -6975,7 +7474,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.143 \item s
+l.150 \item s
              hall consult with the Society Communications Administrator on t...
 
 Try typing  <return>  to proceed.
@@ -7096,112 +7595,6 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.145 \item s
-             hall oversee, in consultation with the Orientation and Social C...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no s in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no p in font nullfont!
 Missing character: There is no F in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -7214,8 +7607,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.147 \item s
-             hall work in consultation with Graduate Peer Support to ensure ...
+l.153 \item s
+             hall aim to collaborate with all SOGS committees and Commission...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7225,108 +7618,104 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no l in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no u in font nullfont!
 Missing character: There is no l in font nullfont!
-Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no w in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no O in font nullfont!
 Missing character: There is no G in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
 Missing character: There is no S in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no p in font nullfont!
+Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no l in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no y in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
-Missing character: There is no v in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no i in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no y in font nullfont!
 Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no f in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no W in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no J in font nullfont!
+Missing character: There is no f in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no . in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
 
 ! LaTeX Error: \begin{document} ended by \end{longenum}.
 
@@ -7334,14 +7723,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.150 \end{longenum}
+l.155 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.152 \subsection
+l.157 \subsection
                   {The Vice-President Finance}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7356,7 +7745,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.152 \subsection {T
+l.157 \subsection {T
                     he Vice-President Finance}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7392,7 +7781,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.154 \begin{longenum}
+l.159 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -7407,7 +7796,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.154 \begin{longenum}[ label*=\thesubsection
+l.159 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7419,7 +7808,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.154 ...longenum}[ label*=\thesubsection.\arabic*
+l.159 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -7440,7 +7829,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 152--155
+Overfull \hbox (20.0pt too wide) in paragraph at lines 157--160
 []
  []
 
@@ -7451,7 +7840,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.155 	\item s
+l.160 	\item s
               hall serve as the Chief Financial Officer of the Society.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7512,7 +7901,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.158     \item s
+l.163     \item s
                  hall consult regularly with the Accounts Manager and the Ch...
 
 Try typing  <return>  to proceed.
@@ -7606,7 +7995,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.163     \item s
+l.168     \item s
                  hall be responsible, with the accounting manager, for ensur...
 
 Try typing  <return>  to proceed.
@@ -7780,7 +8169,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.165     \item s
+l.170     \item s
                  hall administer the payment of all debts incurred by the So...
 
 Try typing  <return>  to proceed.
@@ -7888,7 +8277,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166     \item s
+l.171     \item s
                  hall, with the President, and only with Council's approval,...
 
 Try typing  <return>  to proceed.
@@ -8011,7 +8400,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.168     \item s
+l.173     \item s
                  hall prepare a yearly budget for the Society to be presente...
 
 Try typing  <return>  to proceed.
@@ -8118,7 +8507,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.172     \item s
+l.177     \item s
                  hall, with the President, and with Council's approval, be r...
 
 Try typing  <return>  to proceed.
@@ -8248,7 +8637,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.176     \item s
+l.181     \item s
                  hall assist the Grad Club Manager in the preparation of a y...
 
 Try typing  <return>  to proceed.
@@ -8375,7 +8764,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.179     \item s
+l.184     \item s
                  hall present the year--end financial statements of the Soci...
 
 Try typing  <return>  to proceed.
@@ -8509,7 +8898,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.182     \item s
+l.187     \item s
                  hall inspect monthly cash reconciliation for the Grad Club ...
 
 Try typing  <return>  to proceed.
@@ -8613,7 +9002,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.185     \item s
+l.190     \item s
                  hall conduct inventory checks of the Grad Club once per yea...
 
 Try typing  <return>  to proceed.
@@ -8736,7 +9125,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.188     \item s
+l.193     \item s
                  hall communicate to the management of the Grad Club the dec...
 
 Try typing  <return>  to proceed.
@@ -8851,7 +9240,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.191     \item s
+l.196     \item s
                  hall represent the Society in its official relations with H...
 
 Try typing  <return>  to proceed.
@@ -8941,7 +9330,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.193     \item s
+l.198     \item s
                  hall be responsible for submitting changes to the Society's...
 
 Try typing  <return>  to proceed.
@@ -9088,7 +9477,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.194     \item s
+l.199     \item s
                  hall oversee the preparation of an annual review of engagem...
 
 Try typing  <return>  to proceed.
@@ -9282,7 +9671,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.198     \item s
+l.203     \item s
                  hall present the year--end financial statements of the Grad...
 
 Try typing  <return>  to proceed.
@@ -9377,85 +9766,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.200     \item s
-                 hall liaise with the SOGS/PSAC 610 Joint Thesis Completion ...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no s in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no J in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.201     \item S
+l.205     \item S
                  hall, with the Bursary and Subsidy Committee and President,...
 
 Try typing  <return>  to proceed.
@@ -9652,7 +9963,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.202     \item S
+l.206     \item S
                  hall, with the Finance Committee and President, be responsi...
 
 Try typing  <return>  to proceed.
@@ -9824,7 +10135,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.203     \item S
+l.207     \item S
                  hall, in conjunction with the Grad Club Manager, be respons...
 
 Try typing  <return>  to proceed.
@@ -9997,7 +10308,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.204     \item S
+l.208     \item S
                  hall be responsible for ensuring the Grad Club Health and S...
 
 Try typing  <return>  to proceed.
@@ -10127,7 +10438,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.205     \item S
+l.209     \item S
                  hall be responsible for updating the Grad Club Health and S...
 
 Try typing  <return>  to proceed.
@@ -10283,7 +10594,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.206     \item S
+l.210     \item S
                  hall be responsible for ensuring that the Grad Club and the...
 
 Try typing  <return>  to proceed.
@@ -10451,7 +10762,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.208 \end{longenum}
+l.212 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -10465,7 +10776,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.210 \newpage
+l.214 \newpage
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -10473,7 +10784,7 @@ or  <return>  to continue without it.
 
 [2]
 ! Undefined control sequence.
-l.212 \section
+l.216 \section
               {Duties of the Non--Executive Officers}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10488,7 +10799,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.212 \section{D
+l.216 \section{D
                 uties of the Non--Executive Officers}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -10527,7 +10838,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
-l.213 \subsection
+l.217 \subsection
                   {Non--executive Officers}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10564,7 +10875,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.214 \begin{longenum}
+l.218 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -10579,7 +10890,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.214 \begin{longenum}[ label*=\thesubsection
+l.218 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10591,7 +10902,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.214 ...longenum}[ label*=\thesubsection.\arabic*
+l.218 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10612,7 +10923,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 212--216
+Overfull \hbox (20.0pt too wide) in paragraph at lines 216--220
 []
  []
 
@@ -10623,7 +10934,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.216 	\item s
+l.220 	\item s
               hall be a member of the Society throughout their term and upon...
 
 Try typing  <return>  to proceed.
@@ -10746,7 +11057,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.217 	\item s
+l.221 	\item s
               hall further the long--term interests of the Society.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -10805,7 +11116,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.218     \item s
+l.222     \item s
                  hall not serve concurrently as an executive member.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -10862,14 +11173,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.219 \end{longenum}
+l.223 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.220 \subsection
+l.224 \subsection
                   {The Speaker}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10894,7 +11205,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.222 \begin{longenum}
+l.226 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -10909,7 +11220,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.222 \begin{longenum}[ label*=\thesubsection
+l.226 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10921,7 +11232,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.222 ...longenum}[ label*=\thesubsection.\arabic*
+l.226 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10948,7 +11259,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.223 	\item s
+l.227 	\item s
               hall be familiar with Robert's Rules of Order and shall inform...
 
 Try typing  <return>  to proceed.
@@ -11058,7 +11369,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.224     \item s
+l.228     \item s
                  hall advise the Society on matters of procedure and shall b...
 
 Try typing  <return>  to proceed.
@@ -11207,7 +11518,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.226     \item s
+l.230     \item s
                  hall present a written ruling to Council at its  next meeti...
 
 Try typing  <return>  to proceed.
@@ -11364,7 +11675,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.229     \item s
+l.233     \item s
                  hall co--ordinate those committees for which they are the O...
 
 Try typing  <return>  to proceed.
@@ -11443,7 +11754,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.231     \item s
+l.235     \item s
                  hall chair both General and Council meetings.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -11495,7 +11806,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.236     \item s
+l.240     \item s
                  hall prepare the Agenda for General Meetings and meetings o...
 
 Try typing  <return>  to proceed.
@@ -11568,7 +11879,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.239     \item s
+l.243     \item s
                  hall determine the number of departmental and part--time re...
 
 Try typing  <return>  to proceed.
@@ -11732,7 +12043,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.241     \item s
+l.245     \item s
                  hall be responsible for calculating quorum and shall inform...
 
 Try typing  <return>  to proceed.
@@ -11835,7 +12146,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.244     \item s
+l.248     \item s
                  hall, in consultation with office staff, prepare the Counci...
 
 Try typing  <return>  to proceed.
@@ -11911,7 +12222,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.246     \item s
+l.250     \item s
                  hall prepare a list of motions for the Council mail-out.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -11971,7 +12282,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.248     \item s
+l.252     \item s
                  hall determine whether quorum exists at each Council meeting.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -12037,7 +12348,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.249     \item s
+l.253     \item s
                  hall advise members charged with disciplinary action of the...
 
 Try typing  <return>  to proceed.
@@ -12146,7 +12457,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.252     \item s
+l.256     \item s
                  hall oversee the preparation, maintenance, and distribution...
 
 Try typing  <return>  to proceed.
@@ -12510,7 +12821,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.254     \item s
+l.258     \item s
                  hall be responsible for the minutes of Council meetings.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -12571,7 +12882,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.257     \item s
+l.261     \item s
                  hall be responsible for communicating motions passed at cou...
 
 Try typing  <return>  to proceed.
@@ -12684,7 +12995,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.260     \item s
+l.264     \item s
                  hall sign one copy of the minutes of Council or General mee...
 
 Try typing  <return>  to proceed.
@@ -12793,7 +13104,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.261     \item s
+l.265     \item s
                  hall be responsible for the ongoing maintenance of Councill...
 
 Try typing  <return>  to proceed.
@@ -12878,7 +13189,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.264     \item m
+l.268     \item m
                  ust vacate the position of Speaker for the duration of a vo...
 
 Try typing  <return>  to proceed.
@@ -12975,7 +13286,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.267     \item I
+l.271     \item I
                  n the event of a conflict of interest, shall form and chair...
 
 Try typing  <return>  to proceed.
@@ -13112,7 +13423,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.268      \item s
+l.272      \item s
                   hall not occupy a voting position on any committee, except...
 
 Try typing  <return>  to proceed.
@@ -13244,7 +13555,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.269 	\item s
+l.273 	\item s
               hall not serve as chair of any committee, except when electing...
 
 Try typing  <return>  to proceed.
@@ -13425,14 +13736,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.273 \end{longenum}
+l.277 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.275 \subsection
+l.279 \subsection
                   {The Chief Returning Officer (CRO)}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13447,7 +13758,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.275 \subsection {T
+l.279 \subsection {T
                     he Chief Returning Officer (CRO)}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -13488,7 +13799,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.276 \begin{longenum}
+l.280 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -13503,7 +13814,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.276 \begin{longenum}[ label*=\thesubsection
+l.280 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13515,7 +13826,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.276 ...longenum}[ label*=\thesubsection.\arabic*
+l.280 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -13536,7 +13847,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 275--277
+Overfull \hbox (20.0pt too wide) in paragraph at lines 279--281
 []
  []
 
@@ -13547,7 +13858,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.277 	\item T
+l.281 	\item T
               he position of Chief Returning Officer (henceforth known as th...
 
 Try typing  <return>  to proceed.
@@ -13700,7 +14011,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.279     \item T
+l.283     \item T
                  he CRO shall:
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -13724,7 +14035,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.280     \begin{longenum}
+l.284     \begin{longenum}
                           [ label*=\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -13741,7 +14052,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.280     \begin{longenum}[ label*=\arabic*
+l.284     \begin{longenum}[ label*=\arabic*
                                            ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -13768,7 +14079,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.281 		\item  b
+l.285 		\item  b
                 e responsible for the conduct of elections and referenda, in...
 
 Try typing  <return>  to proceed.
@@ -13881,7 +14192,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.282 		\item s
+l.286 		\item s
                hall maintain a file specifically relating to their portfolio...
 
 Try typing  <return>  to proceed.
@@ -13997,7 +14308,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.283         \item b
+l.287         \item b
                      e ineligible for the post if the person is, at the time...
 
 Try typing  <return>  to proceed.
@@ -14123,7 +14434,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.284         \item b
+l.288         \item b
                      e ineligible for the post if the person has a conflict ...
 
 Try typing  <return>  to proceed.
@@ -14295,7 +14606,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.286         \item n
+l.290         \item n
                      ot be the same person as the Deputy CRO;
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -14340,7 +14651,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.287         \item b
+l.291         \item b
                      e remunerated at the rate of a Vice--President in every...
 
 Try typing  <return>  to proceed.
@@ -14442,7 +14753,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.289         \end{longenum}
+l.293         \end{longenum}
                             
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -14455,14 +14766,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.290 \end{longenum}
+l.294 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.292 \subsection
+l.296 \subsection
                   {The Deputy Chief Returning Officer (DCRO)}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14477,7 +14788,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.292 \subsection {T
+l.296 \subsection {T
                     he Deputy Chief Returning Officer (DCRO)}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -14525,7 +14836,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.293 \begin{longenum}
+l.297 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -14540,7 +14851,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.293 \begin{longenum}[ label*=\thesubsection
+l.297 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14552,7 +14863,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.293 ...longenum}[ label*=\thesubsection.\arabic*
+l.297 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -14573,7 +14884,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 292--294
+Overfull \hbox (20.0pt too wide) in paragraph at lines 296--298
 []
  []
 
@@ -14584,7 +14895,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.294 	\item T
+l.298 	\item T
               he DCRO shall:
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -14609,7 +14920,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.295     \begin{longenum}
+l.299     \begin{longenum}
                           [ label*=\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -14626,7 +14937,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.295     \begin{longenum}[ label*=\arabic*
+l.299     \begin{longenum}[ label*=\arabic*
                                            ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -14653,7 +14964,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.296 		\item b
+l.300 		\item b
                e responsible for overseeing investigations of campaign impro...
 
 Try typing  <return>  to proceed.
@@ -14798,7 +15109,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.298         \item v
+l.302         \item v
                      acate the position of Deputy CRO in any presidential el...
 
 Try typing  <return>  to proceed.
@@ -15065,7 +15376,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.301         \item b
+l.305         \item b
                      e remunerated at the rate of a Commissioner in every mo...
 
 Try typing  <return>  to proceed.
@@ -15164,7 +15475,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.303 	\end{longenum}
+l.307 	\end{longenum}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -15177,14 +15488,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.304 \end{longenum}
+l.308 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.305 \subsection
+l.309 \subsection
                   {Commissioners and Coordinators}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15227,7 +15538,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.306 \begin{longenum}
+l.310 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -15242,7 +15553,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.306 \begin{longenum}[ label*=\thesubsection
+l.310 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15254,7 +15565,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.306 ...longenum}[ label*=\thesubsection.\arabic*
+l.310 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -15281,7 +15592,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.307 	\item T
+l.311 	\item T
               he Executive and Council shall have the authority to create, d...
 
 Try typing  <return>  to proceed.
@@ -15462,7 +15773,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.309     \item C
+l.313     \item C
                  ommissioner and Coordinators shall be elected by Council an...
 
 Try typing  <return>  to proceed.
@@ -15564,7 +15875,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.310     \item N
+l.314     \item N
                  o person shall hold more than one (1) commissioner or coord...
 
 Try typing  <return>  to proceed.
@@ -15651,7 +15962,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.311     \item A
+l.315     \item A
                   commissioner or a coordinator may be removed from the posi...
 
 Try typing  <return>  to proceed.
@@ -15855,7 +16166,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.315     \item C
+l.319     \item C
                  ommissioners shall sit on Council as ex--officio non--votin...
 
 Try typing  <return>  to proceed.
@@ -15930,7 +16241,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.319     \item A
+l.323     \item A
                   commissioner or coordinator may be awarded an honoraria co...
 
 Try typing  <return>  to proceed.
@@ -16034,14 +16345,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.320 \end{longenum}
+l.324 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.322 \subsection
+l.326 \subsection
                  {Duties of Commissioners}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -16056,7 +16367,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.322 \subsection{D
+l.326 \subsection{D
                    uties of Commissioners}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -16089,7 +16400,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.324 \begin{longenum}
+l.328 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -16104,7 +16415,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.324 \begin{longenum}[ label*=\thesubsection
+l.328 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -16116,7 +16427,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.324 ...longenum}[ label*=\thesubsection.\arabic*
+l.328 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -16137,7 +16448,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 322--325
+Overfull \hbox (20.0pt too wide) in paragraph at lines 326--329
 []
  []
 
@@ -16148,7 +16459,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.325 \item T
+l.329 \item T
              he Commissioner's constituency membership is defined as individ...
 
 Try typing  <return>  to proceed.
@@ -16357,7 +16668,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.328 \item T
+l.332 \item T
              he Society's Commissioners shall seek opportunities to expand t...
 
 Try typing  <return>  to proceed.
@@ -16577,7 +16888,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.330 \item C
+l.334 \item C
              ommissioners shall:
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -16608,7 +16919,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.331 \begin{longenum}
+l.335 \begin{longenum}
                       [ label*=\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -16625,7 +16936,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.331 \begin{longenum}[ label*=\arabic*
+l.335 \begin{longenum}[ label*=\arabic*
                                        ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -16652,7 +16963,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.332 \item  a
+l.336 \item  a
               dvocate on concerns on issues affecting graduate students cons...
 
 Try typing  <return>  to proceed.
@@ -16750,7 +17061,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.334 \item  r
+l.338 \item  r
               epresent and promote constituency group world--views, in resea...
 
 Try typing  <return>  to proceed.
@@ -16892,7 +17203,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.335 \item  f
+l.339 \item  f
               oster a sense of community and build relations within at the c...
 
 Try typing  <return>  to proceed.
@@ -16997,7 +17308,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.337 \item  f
+l.341 \item  f
               acilitate a smoother transition into graduate studies and impr...
 
 Try typing  <return>  to proceed.
@@ -17135,7 +17446,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.338 \item r
+l.342 \item r
              eport on relevant Society activities to constituency member gra...
 
 Try typing  <return>  to proceed.
@@ -17218,7 +17529,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.341 \item  p
+l.345 \item  p
               rovide a voice for emerging developments in the constituency c...
 
 Try typing  <return>  to proceed.
@@ -17302,7 +17613,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.342 \end{longenum}
+l.346 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -17315,7 +17626,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.343 \item C
+l.347 \item C
              ommissioners shall call meetings with their constituents at a m...
 
 Try typing  <return>  to proceed.
@@ -17448,7 +17759,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.346 \begin{longenum}
+l.350 \begin{longenum}
                       [ label*=\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -17465,7 +17776,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.346 \begin{longenum}[ label*=\arabic*
+l.350 \begin{longenum}[ label*=\arabic*
                                        ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -17492,7 +17803,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.349 \item b
+l.353 \item b
              e announced in the Society Newsletter and at Council with at le...
 
 Try typing  <return>  to proceed.
@@ -17580,7 +17891,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.351 \item b
+l.355 \item b
              e open to members of the constituency;
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -17625,7 +17936,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.352 \item h
+l.356 \item h
              ave the purpose of addressing concerns within the Commissioner'...
 
 Try typing  <return>  to proceed.
@@ -17717,7 +18028,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.354 \item a
+l.358 \item a
              llow the attendance of allies (non--members) to the constituenc...
 
 Try typing  <return>  to proceed.
@@ -17863,7 +18174,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.355 \item a
+l.359 \item a
              llow the Commissioner to invite an ally (non--member) of the co...
 
 Try typing  <return>  to proceed.
@@ -18044,7 +18355,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.357 \item b
+l.361 \item b
              e chaired by the appropriate Society Commissioner;
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -18101,7 +18412,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.360 \item d
+l.364 \item d
              etermine procedure according to the particular needs of the con...
 
 Try typing  <return>  to proceed.
@@ -18192,7 +18503,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.361 \end{longenum}
+l.365 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -18205,7 +18516,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.362 \item C
+l.366 \item C
              ommissioners shall report on the meetings to Council and bring ...
 
 Try typing  <return>  to proceed.
@@ -18351,7 +18662,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.364 \item C
+l.368 \item C
              ommissioner who fails to call (to try to hold) these meetings a...
 
 Try typing  <return>  to proceed.
@@ -18463,14 +18774,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.367 \end{longenum}
+l.371 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.370 \subsection
+l.374 \subsection
                  {Ombudsperson}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -18485,7 +18796,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.370 \subsection{O
+l.374 \subsection{O
                    mbudsperson}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -18530,7 +18841,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.372 \begin{longenum}
+l.376 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -18545,7 +18856,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.372 \begin{longenum}[ label*=\thesubsection
+l.376 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -18557,7 +18868,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.372 ...longenum}[ label*=\thesubsection.\arabic*
+l.376 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -18578,7 +18889,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 370--373
+Overfull \hbox (20.0pt too wide) in paragraph at lines 374--377
 []
  []
 
@@ -18589,7 +18900,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.375 \item e
+l.379 \item e
              xecute the duties of the Ombudsperson as detailed in the Societ...
 
 Try typing  <return>  to proceed.
@@ -18678,7 +18989,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.377 \item P
+l.381 \item P
              erform the duties of external investigator under Bylaw 18.4
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -18742,7 +19053,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.378 \item a
+l.382 \item a
              ctively search for best practices from comparable organizations...
 
 Try typing  <return>  to proceed.
@@ -18861,7 +19172,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.380 \item m
+l.384 \item m
              aintain and periodically suggest updates the Soceity's Discipli...
 
 Try typing  <return>  to proceed.
@@ -18997,7 +19308,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.383 \item h
+l.387 \item h
              ave ex--officio membership on the Policy Committee.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -19055,7 +19366,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.385 \item s
+l.389 \item s
              hall not occupy a voting position on any committee, excepting e...
 
 Try typing  <return>  to proceed.
@@ -19187,14 +19498,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.386 \end{longenum}
+l.390 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.387 \subsection
+l.391 \subsection
                  {Deputy Speaker}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -19243,7 +19554,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.389 \begin{longenum}
+l.393 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -19258,7 +19569,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.389 \begin{longenum}[ label*=\thesubsection
+l.393 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -19270,7 +19581,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.389 ...longenum}[ label*=\thesubsection.\arabic*
+l.393 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -19297,7 +19608,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.390 \item m
+l.394 \item m
              aintain the Society's Constitution, Bylaws, Policy and Speaker'...
 
 Try typing  <return>  to proceed.
@@ -19401,7 +19712,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.392 \item u
+l.396 \item u
              pdate the Society's Constitution, Bylaws, Policy and Speaker's ...
 
 Try typing  <return>  to proceed.
@@ -19523,7 +19834,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.393 \item p
+l.397 \item p
              erform research and proofreading as directed by the Speaker;
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -19588,7 +19899,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.395 \item a
+l.399 \item a
              t their discretion, write a non--binding dissenting opinion to ...
 
 Try typing  <return>  to proceed.
@@ -19714,7 +20025,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.399 \item s
+l.403 \item s
              erve concurrently as ex--officio member of the BCC;
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -19771,7 +20082,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.403 \item s
+l.407 \item s
              erve concurrently as chairperson of the BCC, subject to recepti...
 
 Try typing  <return>  to proceed.
@@ -19851,7 +20162,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.404 \item A
+l.408 \item A
              dvise the Speaker during Council Meetings and AGMs on best prac...
 
 Try typing  <return>  to proceed.
@@ -20006,7 +20317,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.407 \end{longenum}
+l.411 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -20020,7 +20331,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.409 \newpage
+l.413 \newpage
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -20028,7 +20339,7 @@ or  <return>  to continue without it.
 
 [3]
 ! Undefined control sequence.
-l.412 \section
+l.416 \section
               {Councillors}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -20043,7 +20354,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.412 \section{C
+l.416 \section{C
                 ouncillors}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -20066,7 +20377,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.413 \begin{longenum}
+l.417 \begin{longenum}
                       [ label*=\thesection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -20081,7 +20392,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.413 \begin{longenum}[ label*=\thesection
+l.417 \begin{longenum}[ label*=\thesection
                                           .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -20093,7 +20404,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.413 ...in{longenum}[ label*=\thesection.\arabic*
+l.417 ...in{longenum}[ label*=\thesection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -20114,7 +20425,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 412--414
+Overfull \hbox (20.0pt too wide) in paragraph at lines 416--418
 []
  []
 
@@ -20125,7 +20436,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.414 	\item s
+l.418 	\item s
               hall, if representing a graduate department or graduate progra...
 
 Try typing  <return>  to proceed.
@@ -20392,7 +20703,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.415     \item s
+l.419     \item s
                  hall, if representing a graduate department or graduate pro...
 
 Try typing  <return>  to proceed.
@@ -20640,7 +20951,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.416     \item s
+l.420     \item s
                  hall serve a one--year term, beginning with the October mee...
 
 Try typing  <return>  to proceed.
@@ -20718,7 +21029,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.417     \item s
+l.421     \item s
                  hall attend all meetings of Council.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -20762,7 +21073,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.418     \item s
+l.422     \item s
                  hall regularly communicate with their constituents concerni...
 
 Try typing  <return>  to proceed.
@@ -20879,7 +21190,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.419     \item s
+l.423     \item s
                  hall report to Council on matters of concern to their const...
 
 Try typing  <return>  to proceed.
@@ -21020,7 +21331,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.420     \item s
+l.424     \item s
                  hall, in the event that they are unable to attend a meeting...
 
 Try typing  <return>  to proceed.
@@ -21213,7 +21524,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.423     \item C
+l.427     \item C
                  ouncillors shall be deemed to be in dereliction of their du...
 
 Try typing  <return>  to proceed.
@@ -21422,7 +21733,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.426 \end{longenum}
+l.430 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -21436,7 +21747,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.427 \newpage
+l.431 \newpage
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -21444,7 +21755,7 @@ or  <return>  to continue without it.
 
 [4]
 ! Undefined control sequence.
-l.428 \section
+l.432 \section
               {Referenda and the Presidential Election}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -21459,7 +21770,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.428 \section{R
+l.432 \section{R
                 eferenda and the Presidential Election}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -21509,16 +21820,16 @@ Enter file name:
 ! Emergency stop.
 <read *> 
          
-l.429  \input{Elections/General_Election_Bylaw}
+l.433  \input{Elections/General_Election_Bylaw}
                                                
 *** (cannot \read from terminal in nonstop modes)
 
  
 Here is how much of TeX's memory you used:
- 15 strings out of 493323
- 165 string characters out of 3139066
- 67648 words of memory out of 3000000
- 3651 multiletter control sequences out of 15000+200000
+ 14 strings out of 492973
+ 241 string characters out of 3126692
+ 71424 words of memory out of 3000000
+ 3982 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  19i,4n,14p,435b,115s stack positions out of 5000i,500n,10000p,200000b,50000s
