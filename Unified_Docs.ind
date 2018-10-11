@@ -12,7 +12,7 @@
 
   \item Absenteeism, 45
     \subitem Committee
-      \subsubitem Speaker's Ruling, 91--93
+      \subsubitem Speaker's Ruling, 100--102
   \item Accountant, 21
   \item Accounts Manager, 21
   \item Ad Hoc Committee
@@ -263,6 +263,7 @@
       \subsubitem Ex-Officio, 45
     \subitem Official Liaison Table, 53
     \subitem Orientation and Social Committee
+      \subsubitem Committee Policy, 83
       \subsubitem Handbook/dayplanner, 49
       \subsubitem Mandate, 49
       \subsubitem Orientation, 49
@@ -281,13 +282,15 @@
     \subitem Quorum, 45
       \subsubitem Determining Quorum, 45
     \subitem Recall, 42
-      \subsubitem Procedure, 91
+      \subsubitem Procedure, 100
     \subitem Removal
-      \subsubitem Absenteeism, 91
+      \subsubitem Absenteeism, 100
     \subitem Submitting Business to Council, 62
     \subitem Sustainability
       \subsubitem Mandate, 51
     \subitem Term Limit, 14
+  \item Committee Policy
+    \subitem Orientation and Social Committee, 83
   \item Communications
     \subitem Vice-President Advocacy, 67
       \subsubitem Exigent Circumstances, 67
@@ -755,7 +758,7 @@
     \subitem Purpose, 7
   \item Speaker
     \subitem Rulings
-      \subsubitem Absenteeism on Committees, 91
+      \subsubitem Absenteeism on Committees, 100
   \item Speaker's Ruling, 23
     \subitem Dissenting Opinion, 27
   \item Speaker, The, 23
@@ -824,7 +827,9 @@
   \item Vice--President Student Services, 20
     \subitem Athletic Events, 20
     \subitem Bus Pass, 20
-    \subitem Health Plan, 20
+    \subitem Ex-Officio
+      \subsubitem Health Plan Committee, 88
+    \subitem Health Plan, 20, 88
     \subitem Recall, 40
       \subsubitem Vote, 41
     \subitem Social Events, 20
