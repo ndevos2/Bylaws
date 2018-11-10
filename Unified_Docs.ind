@@ -155,7 +155,7 @@
       \subsubitem Challege of Validity, 33
       \subsubitem Disqualification, 33
       \subsubitem Investigation, 32
-      \subsubitem Subsidy, 33
+      \subsubitem Subsidy, 32
       \subsubitem Void Election, 33
     \subitem Campaign Subsidy, 33
     \subitem Eligibility, 25
@@ -415,7 +415,7 @@
       \subsubitem Challenge of Validity, 33
     \subitem Campaign Improriety
       \subsubitem Disqualification, 33
-      \subsubitem Subsidy, 33
+      \subsubitem Subsidy, 32
       \subsubitem Void Election, 33
     \subitem Campaign Subsidy, 33
     \subitem Chief Returning Officer, 25
@@ -443,7 +443,6 @@
       \subsubitem Nomination, 34
       \subsubitem Qualification, 34
     \subitem Vote
-      \subsubitem Advanced Poll, 32
       \subsubitem Ballot, 32
       \subsubitem Results, 32
       \subsubitem Tie, 32
@@ -724,14 +723,13 @@
       \subsubitem Allegation, 32
       \subsubitem Challege of Validity, 33
       \subsubitem Disqualification, 33
-      \subsubitem Subsidy, 33
+      \subsubitem Subsidy, 32
       \subsubitem Void Election, 33
     \subitem Campaign Subsidy, 33
     \subitem Invalid, 31
     \subitem Quorum, 32
     \subitem Spending Limit, 31
     \subitem Vote
-      \subsubitem Advanced Poll, 32
       \subsubitem Ballot, 32
       \subsubitem Results, 32
       \subsubitem Tie, 32
