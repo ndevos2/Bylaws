@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.4)  13 DEC 2016 14:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  10 NOV 2018 14:06
 entering extended mode
-**General_Election_Bylaw.tex
+**./General_Election_Bylaw.tex
 (General_Election_Bylaw.tex
-LaTeX2e <2014/05/01>
-Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+LaTeX2e <2018-04-01> patch level 5
 ! Undefined control sequence.
 l.1 \subsection
                {Responsibility}
@@ -2071,11 +2070,23 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no f in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
 Missing character: There is no i in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
@@ -2083,26 +2094,13 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no l in font nullfont!
-Missing character: There is no m in font nullfont!
+Missing character: There is no M in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no J in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no y in font nullfont!
 Missing character: There is no . in font nullfont!
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
@@ -2169,7 +2167,13 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ( in font nullfont!
 Missing character: There is no 4 in font nullfont!
+Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 
 ! LaTeX Error: \begin{document} ended by \end{longenum}.
@@ -2186,7 +2190,7 @@ or  <return>  to continue without it.
 
 ! Undefined control sequence.
 l.45 \subsection
-                {Referendum specific Rules}
+                {Referendum Specific Rules}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2201,7 +2205,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.45 \subsection{R
-                  eferendum specific Rules}
+                  eferendum Specific Rules}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2215,7 +2219,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no m in font nullfont!
-Missing character: There is no s in font nullfont!
+Missing character: There is no S in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -3174,7 +3178,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.71 \item  A
-             ll Graduate Students (as defined by SGPS) are eligible to vote ...
+             ll Graduate Students (as defined by the School of Graduate and ...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3210,10 +3214,47 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no y in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no S in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
 Missing character: There is no G in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
 Missing character: There is no P in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
 Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -3380,13 +3421,26 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.79 	\item A
-              Presidential election shall be held once each year as per the ...
+l.79 	\item T
+             imeline for the Presidential Election shall be set by the Unive...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no A in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -3399,45 +3453,6 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
 Missing character: There is no E in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -3446,11 +3461,43 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
-Missing character: There is no T in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
 Missing character: There is no a in font nullfont!
-Missing character: There is no b in font nullfont!
 Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no b in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -3922,6 +3969,28 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -3998,7 +4067,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.93     \item C
+l.94     \item C
                 ampaigning must cease by midnight (11:59 pm local time) befo...
 
 Try typing  <return>  to proceed.
@@ -4125,7 +4194,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96     \item N
+l.97     \item N
                 o candidate may address either Council or any other Society-...
 
 Try typing  <return>  to proceed.
@@ -4269,14 +4338,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.99 \end{longenum}
-                   
+l.100 \end{longenum}
+                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.100 \subsection
+l.101 \subsection
                  {Voting}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4297,7 +4366,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.101 \begin{longenum}
+l.102 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -4312,7 +4381,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.101 \begin{longenum}[ label*=\thesubsection
+l.102 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4324,7 +4393,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.101 ...longenum}[ label*=\thesubsection.\arabic*
+l.102 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -4351,7 +4420,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.102 	\item A
+l.103 	\item A
                secret ballot shall be held following the close of the campai...
 
 Try typing  <return>  to proceed.
@@ -4496,13 +4565,166 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no . in font nullfont!
 
+! LaTeX Error: Environment longenum undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 	\begin{longenum}
+                       [ label*=\arabic*., align=left]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no = in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.106 	\begin{longenum}[ label*=\arabic*
+                                        ., align=left]
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105     \item T
+l.107 		\item O
+               n-line polling for the Presidential election shall be conduct...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{longenum}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108 		 	\end{longenum}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109     \item T
                  he regular polling period shall consist of three (3) consec...
 
 Try typing  <return>  to proceed.
@@ -4643,10 +4865,16 @@ Missing character: There is no w in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no S in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -4735,282 +4963,6 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no . in font nullfont!
-
-! LaTeX Error: Environment longenum undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.108     \begin{longenum}
-                          [ label*=\arabic*., align=left]
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no [ in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no * in font nullfont!
-Missing character: There is no = in font nullfont!
-! Missing number, treated as zero.
-<to be read again> 
-                   \c@* 
-l.108     \begin{longenum}[ label*=\arabic*
-                                           ., align=left]
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no ] in font nullfont!
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.109 		\item T
-               here shall be an advanced poll starting on the Monday of the ...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no T in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no . in font nullfont!
-
-! LaTeX Error: \begin{document} ended by \end{longenum}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.112 	\end{longenum}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -5690,6 +5642,530 @@ or  <return>  to continue without it.
 
 ! Undefined control sequence.
 l.131 \subsection
+                 {Transition}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 \subsection{T
+                   ransition}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 131--135
+[]
+ []
+
+
+! LaTeX Error: Environment longenum undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 \begin{longenum}
+                      [ label*=\thesubsection.\arabic*., align=left]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 \begin{longenum}[
+                        label*=\thesubsection.\arabic*., align=left]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no = in font nullfont!
+! Undefined control sequence.
+l.136 \begin{longenum}[ label*=\thesubsection
+                                             .\arabic*., align=left]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no . in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.136 ...longenum}[ label*=\thesubsection.\arabic*
+                                                  ., align=left]
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 136--137
+[] 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137 	\item F
+              or the month prior to taking office, the President-Elect shall:
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no : in font nullfont!
+
+! LaTeX Error: Environment longenum undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 	 \begin{longenum}
+                        [ label*=\thesubsection.\arabic*., align=left]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no = in font nullfont!
+! Undefined control sequence.
+l.138 	 \begin{longenum}[ label*=\thesubsection
+                                               .\arabic*., align=left]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no . in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.138 ...longenum}[ label*=\thesubsection.\arabic*
+                                                  ., align=left]
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 	\item B
+              e expected to work with the outgoing President, the Executive,...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ; in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 	\item b
+              e considered an ex-officio non-voting member of Council, the E...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.141 	\item  b
+               e compensated at the rate of a Vice-President
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{longenum}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144 \end{longenum}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{longenum}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 \end{longenum}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.148 \subsection
                  {Campaign Impropriety and Appeals}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5704,7 +6180,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.131 \subsection{C
+l.148 \subsection{C
                    ampaign Impropriety and Appeals}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5739,7 +6215,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 131--132
+Overfull \hbox (20.0pt too wide) in paragraph at lines 148--149
 []
  []
 
@@ -5750,7 +6226,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.133 \begin{longenum}
+l.150 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -5763,7 +6239,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.133 \begin{longenum}[
+l.150 \begin{longenum}[
                         label*=\thesubsection.\arabic*., align=left]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5777,7 +6253,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.133 \begin{longenum}[ label*=\thesubsection
+l.150 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5789,7 +6265,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.133 ...longenum}[ label*=\thesubsection.\arabic*
+l.150 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -5810,7 +6286,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 133--134
+Overfull \hbox (20.0pt too wide) in paragraph at lines 150--151
 [] 
  []
 
@@ -5821,7 +6297,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.134 	\item A
+l.151 	\item A
               ll members of the Society have the right to submit a charge of...
 
 Try typing  <return>  to proceed.
@@ -5905,8 +6381,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.138     \item E
-                 xcept in those instances outlined in the SOGS Elections Pol...
+l.155     \item E
+                 xcept in those instances outlined in the Society Elections ...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5947,9 +6423,12 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no S in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
 Missing character: There is no E in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -6123,7 +6602,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.140     \begin{longenum}
+l.157     \begin{longenum}
                           [ label*=\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -6140,7 +6619,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.140     \begin{longenum}[ label*=\arabic*
+l.157     \begin{longenum}[ label*=\arabic*
                                            ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -6161,7 +6640,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 140--141
+Overfull \hbox (20.0pt too wide) in paragraph at lines 157--158
 [] 
  []
 
@@ -6172,7 +6651,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.141 		\item R
+l.158 		\item R
                educe or eliminate a candidate's/referendum group's subsidy;
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6239,7 +6718,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145         \item D
+l.162         \item D
                      isqualify the candidate;
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6274,7 +6753,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.149         \item D
+l.166         \item D
                      eclare the election to be void.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6313,7 +6792,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.153 	\end{longenum}
+l.170 	\end{longenum}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -6326,7 +6805,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.154     \item I
+l.171     \item I
                  n the event a winning candidate is disqualified, the runner...
 
 Try typing  <return>  to proceed.
@@ -6433,7 +6912,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.155     \begin{longenum}
+l.172     \begin{longenum}
                           [ label*=\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -6450,7 +6929,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.155     \begin{longenum}[ label*=\arabic*
+l.172     \begin{longenum}[ label*=\arabic*
                                            ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -6477,7 +6956,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.156 		\item I
+l.173 		\item I
                n the event that the election is declared void, the election ...
 
 Try typing  <return>  to proceed.
@@ -6620,10 +7099,16 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no S in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
 Missing character: There is no E in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -6652,7 +7137,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.157 	\end{longenum}
+l.174 	\end{longenum}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -6665,7 +7150,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.158     \item A
+l.175     \item A
                  ppeals regarding sanctions or disqualifications levied by t...
 
 Try typing  <return>  to proceed.
@@ -6827,8 +7312,21 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 8 in font nullfont!
+Missing character: There is no ) in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
@@ -6932,6 +7430,9 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no w in font nullfont!
 Missing character: There is no o in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ) in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no y in font nullfont!
@@ -6965,7 +7466,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.159     \item T
+l.176     \item T
                  he results of the Society's elections/referenda, as accumul...
 
 Try typing  <return>  to proceed.
@@ -7122,14 +7623,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.160 \end{longenum}
+l.177 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.162 \subsection
+l.179 \subsection
                  {Validity}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7144,7 +7645,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.162 \subsection{V
+l.179 \subsection{V
                    alidity}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7158,7 +7659,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 162--163
+Overfull \hbox (20.0pt too wide) in paragraph at lines 179--180
 [] 
  []
 
@@ -7169,7 +7670,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.164 \begin{longenum}
+l.181 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -7182,7 +7683,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.164 \begin{longenum}[
+l.181 \begin{longenum}[
                         label*=\thesubsection.\arabic*., align=left]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7196,7 +7697,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.164 \begin{longenum}[ label*=\thesubsection
+l.181 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7208,7 +7709,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.164 ...longenum}[ label*=\thesubsection.\arabic*
+l.181 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -7229,7 +7730,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 164--165
+Overfull \hbox (20.0pt too wide) in paragraph at lines 181--182
 [] 
  []
 
@@ -7240,7 +7741,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.165 	\item A
+l.182 	\item A
               ny full or associate member of the Society may challenge the v...
 
 Try typing  <return>  to proceed.
@@ -7593,14 +8094,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.170 \end{longenum}
+l.187 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.172 \subsection
+l.189 \subsection
                  {Campaign Expenses and Subsidy}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7615,7 +8116,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.172 \subsection{C
+l.189 \subsection{C
                    ampaign Expenses and Subsidy}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7647,7 +8148,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no y in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 172--173
+Overfull \hbox (20.0pt too wide) in paragraph at lines 189--190
 []
  []
 
@@ -7658,7 +8159,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 \begin{longenum}
+l.191 \begin{longenum}
                       [ label*=\thesubsection.\arabic*., align=left]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -7671,7 +8172,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 \begin{longenum}[
+l.191 \begin{longenum}[
                         label*=\thesubsection.\arabic*., align=left]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7685,7 +8186,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no * in font nullfont!
 Missing character: There is no = in font nullfont!
 ! Undefined control sequence.
-l.174 \begin{longenum}[ label*=\thesubsection
+l.191 \begin{longenum}[ label*=\thesubsection
                                              .\arabic*., align=left]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7697,7 +8198,7 @@ Missing character: There is no . in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.174 ...longenum}[ label*=\thesubsection.\arabic*
+l.191 ...longenum}[ label*=\thesubsection.\arabic*
                                                   ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -7718,7 +8219,7 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 174--175
+Overfull \hbox (20.0pt too wide) in paragraph at lines 191--192
 [] 
  []
 
@@ -7729,7 +8230,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.175 	\item T
+l.192 	\item T
               he Society shall provide reimbursement for campaign expenses i...
 
 Try typing  <return>  to proceed.
@@ -7799,18 +8300,44 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no y in font nullfont!
-Missing character: There is no c in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
 Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no % in font nullfont!
@@ -7839,6 +8366,135 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no % in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
@@ -7847,7 +8503,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.179     \item T
+l.198     \item T
                  he CRO shall have the authority to disallow any campaign ex...
 
 Try typing  <return>  to proceed.
@@ -7920,7 +8576,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.180 \end{longenum}
+l.199 \end{longenum}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -7928,17 +8584,17 @@ or  <return>  to continue without it.
 
 )
 ! Emergency stop.
-<*> General_Election_Bylaw.tex
-                              
+<*> ./General_Election_Bylaw.tex
+                                
 *** (job aborted, no legal \end found)
 
  
 Here is how much of TeX's memory you used:
- 9 strings out of 493698
- 184 string characters out of 3144409
- 62149 words of memory out of 3000000
- 3435 multiletter control sequences out of 15000+200000
+ 9 strings out of 492973
+ 274 string characters out of 3126692
+ 67424 words of memory out of 3000000
+ 3980 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
- 7i,1n,7p,437b,70s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 1141 hyphenation exceptions out of 8191
+ 7i,1n,7p,439b,70s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
