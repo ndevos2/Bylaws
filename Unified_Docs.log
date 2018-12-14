@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  14 DEC 2018 13:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  14 DEC 2018 13:10
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -1001,19 +1001,19 @@ cam-paign pe-riod, for the Pres-i-den-tial
  []
 
 [31]
-Overfull \hbox (6.73157pt too wide) in paragraph at lines 120--125
+Overfull \hbox (6.73157pt too wide) in paragraph at lines 117--122
 []\T1/lmss/m/n/12 The Pres-i-den-tial elec-tion and all ref-er-enda shall have 
 no quo-rum un-less oth-er-wise man-dated
  []
 
 
-Overfull \hbox (7.90782pt too wide) in paragraph at lines 155--156
+Overfull \hbox (7.90782pt too wide) in paragraph at lines 152--153
 \T1/lmss/m/n/12 Im-pro-pri-ety and Ap-peals), where the CRO has de-ter-mined th
 at an act of cam-paign im-pro-pri-ety
  []
 
 [32]
-Overfull \hbox (36.20438pt too wide) in paragraph at lines 182--186
+Overfull \hbox (36.20438pt too wide) in paragraph at lines 179--183
 []\T1/lmss/m/n/12 Any full or as-so-ciate mem-ber of the So-ci-ety may chal-len
 ge the va-lid-ity of an elec-tion/referendum
  []
@@ -1748,7 +1748,9 @@ Package multicol Warning: I moved some lines to the next page.
 
 
 ] [132] [133] [134] [135] [136]
-[137] [138] [139] [140]) (Unified_Docs.aux (Constitution/Constitution.aux)
+[137] [138] [139] [140
+
+]) (Unified_Docs.aux (Constitution/Constitution.aux)
 (Bylaw/Bylaws.aux) (Elections/Elections_Table.aux)
 (Bylaw/Bylaws_Post_Election_Table.aux)
 (Operations_Policy/Conflict_of_Interest.aux)
@@ -1781,7 +1783,7 @@ onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (140 pages, 454517 bytes).
+Output written on Unified_Docs.pdf (140 pages, 454070 bytes).
 PDF statistics:
  488 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

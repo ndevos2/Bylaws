@@ -153,10 +153,10 @@
     \subitem All Candidates Meeting, 31
     \subitem Campaign Impropreity
       \subsubitem Challege of Validity, 33
-      \subsubitem Disqualification, 33
+      \subsubitem Disqualification, 32
       \subsubitem Investigation, 32
       \subsubitem Subsidy, 32
-      \subsubitem Void Election, 33
+      \subsubitem Void Election, 32
     \subitem Campaign Subsidy, 33
     \subitem Eligibility, 25
     \subitem Recall
@@ -414,9 +414,9 @@
       \subsubitem Allegation, 32
       \subsubitem Challenge of Validity, 33
     \subitem Campaign Improriety
-      \subsubitem Disqualification, 33
+      \subsubitem Disqualification, 32
       \subsubitem Subsidy, 32
-      \subsubitem Void Election, 33
+      \subsubitem Void Election, 32
     \subitem Campaign Subsidy, 33
     \subitem Chief Returning Officer, 25
     \subitem Commissioner
@@ -444,7 +444,6 @@
       \subsubitem Qualification, 34
     \subitem Vote
       \subsubitem Ballot, 32
-      \subsubitem Results, 32
       \subsubitem Tie, 32
       \subsubitem Voting Period, 32
   \item Elections
@@ -721,16 +720,15 @@
     \subitem Campaign Impropriety
       \subsubitem Allegation, 32
       \subsubitem Challege of Validity, 33
-      \subsubitem Disqualification, 33
+      \subsubitem Disqualification, 32
       \subsubitem Subsidy, 32
-      \subsubitem Void Election, 33
+      \subsubitem Void Election, 32
     \subitem Campaign Subsidy, 33
     \subitem Invalid, 31
     \subitem Quorum, 32
     \subitem Spending Limit, 31
     \subitem Vote
       \subsubitem Ballot, 32
-      \subsubitem Results, 32
       \subsubitem Tie, 32
       \subsubitem Voting Period, 32
   \item Reports
