@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  14 DEC 2018 12:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  14 DEC 2018 13:05
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -1041,7 +1041,13 @@ Overfull \hbox (9.18173pt too wide) in paragraph at lines 688--689
 -ate Stu-dent As-so-ci-a-tion
  []
 
-[41] [42] [43])
+[41] [42]
+Overfull \hbox (11.49515pt too wide) in paragraph at lines 763--764
+[]\T1/lmss/m/n/12 The po-si-tion va-cated by re-call shall be filled ac-cord-in
+g to the ap-pro-pri-ate by--election
+ []
+
+[43])
 \openout2 = `Elections/Elections_Table.aux'.
 
  (Elections/Elections_Table.tex
@@ -1259,25 +1265,19 @@ Overfull \hbox (4.63243pt too wide) in paragraph at lines 109--110
  []
 
 [82]
-Overfull \hbox (9.85815pt too wide) in paragraph at lines 124--125
-[]\T1/lmss/m/n/12 Membership for the ARC Panel will be drawn from the Ap-peals 
-Re-view Com-mis-sion. 
- []
-
-
-Overfull \hbox (0.1757pt too wide) in paragraph at lines 132--133
+Overfull \hbox (0.1757pt too wide) in paragraph at lines 127--128
 []\T1/lmss/m/n/12 Name, stu-dent num-ber, email ad-dress, cur-rent phone num-be
 r, and cur-rent
  []
 
-[83]
-Overfull \hbox (28.18634pt too wide) in paragraph at lines 145--146
+
+Overfull \hbox (28.18634pt too wide) in paragraph at lines 140--141
 \T1/lmss/m/n/12 against whom the de-ci-sion has been made (Ap-pel-lant) and the
  Om-budsper-son (Re-spon-dent). 
  []
 
-
-Overfull \hbox (1.1254pt too wide) in paragraph at lines 149--150
+[83]
+Overfull \hbox (1.1254pt too wide) in paragraph at lines 144--145
 []\T1/lmss/m/n/12 Constitute a Panel of at least three (3) mem-bers in-clud-ing
  the chair-per-son.
  []
@@ -1285,35 +1285,41 @@ Overfull \hbox (1.1254pt too wide) in paragraph at lines 149--150
 [84]) [85]
 \openout2 = `Operations_Policy/Elections.aux'.
 
- (Operations_Policy/Elections.tex [86
+ (Operations_Policy/Elections.tex
+Overfull \hbox (18.09604pt too wide) in paragraph at lines 12--13
+[]\T1/lmss/m/n/12 Any mem-ber who joins the Ap-peals Re-view Com-mis-sion or Ap
+-peals Re-view Com-mis-sion
+ []
+
+[86
 
 
 ]
-Overfull \hbox (1.26022pt too wide) in paragraph at lines 22--23
+Overfull \hbox (1.26022pt too wide) in paragraph at lines 24--25
 []\T1/lmss/m/n/12 In the event that the elected Pres-i-dent is a de-part-men-ta
 l or part-time rep-re-sen-ta-tive,
  []
 
 
-Overfull \hbox (2.63312pt too wide) in paragraph at lines 22--23
+Overfull \hbox (2.63312pt too wide) in paragraph at lines 24--25
 \T1/lmss/m/n/12 de-part-men-tal rep-re-sen-ta-tive, Speaker or other Ex-ec-u-ti
 ve mem-ber while be-ing Pres-i-dent. 
  []
 
 
-Overfull \hbox (0.748pt too wide) in paragraph at lines 23--24
+Overfull \hbox (0.748pt too wide) in paragraph at lines 25--26
 []\T1/lmss/m/n/12 Actual trans-fer of sign-ing au-thor-ity and re-spon-si-bil-i
 -ties of the Of-fice of the Pres-i-dent
  []
 
 
-Overfull \hbox (0.72375pt too wide) in paragraph at lines 31--32
+Overfull \hbox (0.72375pt too wide) in paragraph at lines 33--34
 []\T1/lmss/m/n/12 At that meet-ing an agree-ment will be signed by all par-ties
  wherein they ac-knowl-edge
  []
 
 [87]
-Overfull \hbox (3.74823pt too wide) in paragraph at lines 56--58
+Overfull \hbox (3.74823pt too wide) in paragraph at lines 58--60
 []\T1/lmss/m/n/12 No can-di-date/referendum group or in-di-vid-ual mem-ber may,
  us-ing their own ini-tia-tive
  []
@@ -1775,7 +1781,7 @@ onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (140 pages, 454624 bytes).
+Output written on Unified_Docs.pdf (140 pages, 454517 bytes).
 PDF statistics:
  488 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
