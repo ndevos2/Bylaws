@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  14 DEC 2018 13:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  23 FEB 2019 16:22
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -970,14 +970,14 @@ Overfull \hbox (14.604pt too wide) in paragraph at lines 332--334
 roup when pos-si-ble and ap-pro-pri-ate
  []
 
-[26]
-Overfull \hbox (11.30719pt too wide) in paragraph at lines 389--390
+[26] [27]
+Overfull \hbox (11.30719pt too wide) in paragraph at lines 390--391
 []\T1/lmss/m/n/12 shall not oc-cupy a vot-ing po-si-tion on any com-mit-tee, ex
 -cept-ing ex--officio vot-ing per-mis-sions
  []
 
-[27] [28]
-Overfull \hbox (15.61336pt too wide) in paragraph at lines 418--419
+[28]
+Overfull \hbox (15.61336pt too wide) in paragraph at lines 419--420
 \T1/lmss/m/n/12 grad-u-ate stu-dent or-gan-iza-tion ex-ists, be se-lected by th
 at or-gan-iza-tion, which shall com-mu-ni-cate
  []
@@ -1019,30 +1019,30 @@ ge the va-lid-ity of an elec-tion/referendum
  []
 
 ) [33]
-Overfull \hbox (0.40962pt too wide) in paragraph at lines 455--457
+Overfull \hbox (0.40962pt too wide) in paragraph at lines 456--458
 []\T1/lmss/m/n/12 Nominations for all Vice-Presidential po-si-tions shall close
  at the Coun-cil pack-age dead-line.
  []
 
 [34] [35] [36] [37]
-Overfull \hbox (0.6631pt too wide) in paragraph at lines 576--577
+Overfull \hbox (0.6631pt too wide) in paragraph at lines 577--578
 []\T1/lmss/m/n/12 by a mem-ber elected Speaker pro tem at a Coun-cil meet-ing. 
 The Pres-i-dent
  []
 
 [38] [39] [40]
-Underfull \hbox (badness 10000) in paragraph at lines 685--686
+Underfull \hbox (badness 10000) in paragraph at lines 686--687
 
  []
 
 
-Overfull \hbox (9.18173pt too wide) in paragraph at lines 688--689
+Overfull \hbox (9.18173pt too wide) in paragraph at lines 689--690
 []\T1/lmss/m/n/12 Departments or Pro-grams with-out a duly con-sti-tuted Grad-u
 -ate Stu-dent As-so-ci-a-tion
  []
 
 [41] [42]
-Overfull \hbox (11.49515pt too wide) in paragraph at lines 763--764
+Overfull \hbox (11.49515pt too wide) in paragraph at lines 764--765
 []\T1/lmss/m/n/12 The po-si-tion va-cated by re-call shall be filled ac-cord-in
 g to the ap-pro-pri-ate by--election
  []
@@ -1768,7 +1768,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  14334 strings out of 492973
  287528 string characters out of 3126692
- 354896 words of memory out of 3000000
+ 354898 words of memory out of 3000000
  17704 multiletter control sequences out of 15000+200000
  68500 words of font info for 51 fonts, out of 3000000 for 9000
  1148 hyphenation exceptions out of 8191
@@ -1783,7 +1783,7 @@ onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (140 pages, 454070 bytes).
+Output written on Unified_Docs.pdf (140 pages, 454396 bytes).
 PDF statistics:
  488 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
