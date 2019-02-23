@@ -1,11 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 APR 2018 14:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  23 FEB 2019 18:24
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**HPC.tex
-(./HPC.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+**./HPC.tex
+(HPC.tex
+LaTeX2e <2018-04-01> patch level 5
 ! Undefined control sequence.
 l.1 \section
             {Health Plan Committee}
@@ -610,7 +607,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.10 \begin{enumerate} [
-                        label*=\arabic*., align=left]
+                        label*=\arabic*., align=left]	
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -626,7 +623,7 @@ Missing character: There is no = in font nullfont!
 <to be read again> 
                    \c@* 
 l.10 \begin{enumerate} [label*=\arabic*
-                                       ., align=left]
+                                       ., align=left]	
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -1245,7 +1242,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 \item T
+l.19 \item T
             he above shall remain in accordance with Bylaws 1.6.4.2, 2.9.3.7...
 
 Try typing  <return>  to proceed.
@@ -1258,7 +1255,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 \item T
+l.19 \item T
             he above shall remain in accordance with Bylaws 1.6.4.2, 2.9.3.7...
 
 Try typing  <return>  to proceed.
@@ -1271,7 +1268,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 \item T
+l.19 \item T
             he above shall remain in accordance with Bylaws 1.6.4.2, 2.9.3.7...
 
 Try typing  <return>  to proceed.
@@ -1352,7 +1349,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 \item M
+l.20 \item M
             embership Limit: As per Bylaw 2.9.4.2.2, membership limit for th...
 
 Try typing  <return>  to proceed.
@@ -1365,7 +1362,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 \item M
+l.20 \item M
             embership Limit: As per Bylaw 2.9.4.2.2, membership limit for th...
 
 Try typing  <return>  to proceed.
@@ -1378,7 +1375,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 \item M
+l.20 \item M
             embership Limit: As per Bylaw 2.9.4.2.2, membership limit for th...
 
 Try typing  <return>  to proceed.
@@ -1544,13 +1541,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 \end{enumerate}
+l.21 \end{enumerate}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.21 \subsection
+l.23 \subsection
                 {Article 2: Committee Management}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1587,7 +1584,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 21--22
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--24
 []
  []
 
@@ -1602,8 +1599,8 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.22 \begin{enumerate} [label*=\arabic*
-                                       ., align=left]
+l.24 \begin{enumerate} [label*=\arabic*
+                                       ., align=left]	
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -1629,7 +1626,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 \item C
+l.25 \item C
             ommittee Archiving: The Communications Administrator will submit...
 
 Try typing  <return>  to proceed.
@@ -1642,7 +1639,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 \item C
+l.25 \item C
             ommittee Archiving: The Communications Administrator will submit...
 
 Try typing  <return>  to proceed.
@@ -1655,7 +1652,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 \item C
+l.25 \item C
             ommittee Archiving: The Communications Administrator will submit...
 
 Try typing  <return>  to proceed.
@@ -1903,7 +1900,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 \item G
+l.27 \item G
             eneral Policies
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1915,7 +1912,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 \item G
+l.27 \item G
             eneral Policies
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1927,7 +1924,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 \item G
+l.27 \item G
             eneral Policies
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1958,8 +1955,8 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.26 \begin{enumerate} [label*=\arabic*
-                                       ., align=left]
+l.28 \begin{enumerate} [label*=\arabic*
+                                       ., align=left]	
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -1985,7 +1982,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 \item T
+l.29 \item T
             he HPC will act in accordance with Bylaw 2.9.3.5 and 2.9.3.7 to ...
 
 Try typing  <return>  to proceed.
@@ -2215,8 +2212,8 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.31 \begin{enumerate} [label*=\arabic*
-                                       ., align=left]
+l.33 \begin{enumerate} [label*=\arabic*
+                                       ., align=left]	
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -2242,7 +2239,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \item F
+l.34 \item F
             or general voting via email, members will "Reply All" to the HPC...
 
 Try typing  <return>  to proceed.
@@ -2255,7 +2252,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \item F
+l.34 \item F
             or general voting via email, members will "Reply All" to the HPC...
 
 Try typing  <return>  to proceed.
@@ -2268,7 +2265,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \item F
+l.34 \item F
             or general voting via email, members will "Reply All" to the HPC...
 
 Try typing  <return>  to proceed.
@@ -2344,7 +2341,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 \item F
+l.35 \item F
             or private votes (e.g. elections), votes will be sent to the Cha...
 
 Try typing  <return>  to proceed.
@@ -2357,7 +2354,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 \item F
+l.35 \item F
             or private votes (e.g. elections), votes will be sent to the Cha...
 
 Try typing  <return>  to proceed.
@@ -2370,7 +2367,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 \item F
+l.35 \item F
             or private votes (e.g. elections), votes will be sent to the Cha...
 
 Try typing  <return>  to proceed.
@@ -2454,7 +2451,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.34 \item o
+l.36 \item o
             ting members shall be given one week to respond (unless in urgen...
 
 Try typing  <return>  to proceed.
@@ -2467,7 +2464,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.34 \item o
+l.36 \item o
             ting members shall be given one week to respond (unless in urgen...
 
 Try typing  <return>  to proceed.
@@ -2480,7 +2477,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.34 \item o
+l.36 \item o
             ting members shall be given one week to respond (unless in urgen...
 
 Try typing  <return>  to proceed.
@@ -2621,7 +2618,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 \item I
+l.38 \item I
             f any voting member objects to business being voted on by email,...
 
 Try typing  <return>  to proceed.
@@ -2634,7 +2631,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 \item I
+l.38 \item I
             f any voting member objects to business being voted on by email,...
 
 Try typing  <return>  to proceed.
@@ -2647,7 +2644,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 \item I
+l.38 \item I
             f any voting member objects to business being voted on by email,...
 
 Try typing  <return>  to proceed.
@@ -2775,7 +2772,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 \item E
+l.40 \item E
             mail voting shall be allowed under the following circumstances:
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2787,7 +2784,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 \item E
+l.40 \item E
             mail voting shall be allowed under the following circumstances:
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2799,7 +2796,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 \item E
+l.40 \item E
             mail voting shall be allowed under the following circumstances:
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2879,7 +2876,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.40 \item F
+l.42 \item F
             or correcting wording or mistakes in documents already approved ...
 
 Try typing  <return>  to proceed.
@@ -3054,8 +3051,8 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.46 \begin{enumerate} [label*=\arabic*
-                                       ., align=left]
+l.48 \begin{enumerate} [label*=\arabic*
+                                       ., align=left]	
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -3081,7 +3078,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 \item P
+l.49 \item P
             resident
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3093,7 +3090,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 \item P
+l.49 \item P
             resident
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3105,7 +3102,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 \item P
+l.49 \item P
             resident
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3126,7 +3123,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.49 \item S
+l.51 \item S
             hall be a non-voting member, Ex-officio, of the HPC.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5079,8 +5076,8 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.94 \begin{enumerate} [label*=\arabic*
-                                       ., align=left]
+l.96 \begin{enumerate} [label*=\arabic*
+                                       ., align=left]	
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -5106,7 +5103,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.95 \item C
+l.97 \item C
             ommunications Administrator: Oversees the HPC listserv and commi...
 
 Try typing  <return>  to proceed.
@@ -5119,7 +5116,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.95 \item C
+l.97 \item C
             ommunications Administrator: Oversees the HPC listserv and commi...
 
 Try typing  <return>  to proceed.
@@ -5132,7 +5129,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.95 \item C
+l.97 \item C
             ommunications Administrator: Oversees the HPC listserv and commi...
 
 Try typing  <return>  to proceed.
@@ -5218,7 +5215,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 \item V
+l.98 \item V
             P Student Services: Ratifies Committee members at Council and in...
 
 Try typing  <return>  to proceed.
@@ -5231,7 +5228,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 \item V
+l.98 \item V
             P Student Services: Ratifies Committee members at Council and in...
 
 Try typing  <return>  to proceed.
@@ -5244,7 +5241,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 \item V
+l.98 \item V
             P Student Services: Ratifies Committee members at Council and in...
 
 Try typing  <return>  to proceed.
@@ -5342,7 +5339,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.97 \item C
+l.99 \item C
             hair: Enforces SOGS Committee policies as per Bylaws 2.9.3. and ...
 
 Try typing  <return>  to proceed.
@@ -5355,7 +5352,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.97 \item C
+l.99 \item C
             hair: Enforces SOGS Committee policies as per Bylaws 2.9.3. and ...
 
 Try typing  <return>  to proceed.
@@ -5368,7 +5365,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.97 \item C
+l.99 \item C
             hair: Enforces SOGS Committee policies as per Bylaws 2.9.3. and ...
 
 Try typing  <return>  to proceed.
@@ -5528,8 +5525,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.98 \item I
-            n the situation where the Chair position becomes vacant:
+l.100 \item I
+             n the situation where the Chair position becomes vacant:
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -5540,8 +5537,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.98 \item I
-            n the situation where the Chair position becomes vacant:
+l.100 \item I
+             n the situation where the Chair position becomes vacant:
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -5552,8 +5549,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.98 \item I
-            n the situation where the Chair position becomes vacant:
+l.100 \item I
+             n the situation where the Chair position becomes vacant:
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -5613,7 +5610,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.100 \item T
+l.102 \item T
              he HPC Deputy Chairperson serves as chair pro tempore until the...
 
 Try typing  <return>  to proceed.
@@ -6314,7 +6311,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.113 \subsection
+l.115 \subsection
                  {Article 3: Health Plan Opt-Ins / Opt-Outs}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6358,7 +6355,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 113--114
+Overfull \hbox (20.0pt too wide) in paragraph at lines 115--116
 []
  []
 
@@ -6373,8 +6370,8 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.114 \begin{enumerate}[label*=\arabic*
-                                       ., align=left]
+l.116 \begin{enumerate}[label*=\arabic*
+                                       ., align=left]	
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -6400,7 +6397,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.115 \item O
+l.117 \item O
              pt-In/Opt-Out Deadlines: Health Plan opt-ins/opt-outs shall be ...
 
 Try typing  <return>  to proceed.
@@ -6413,7 +6410,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.115 \item O
+l.117 \item O
              pt-In/Opt-Out Deadlines: Health Plan opt-ins/opt-outs shall be ...
 
 Try typing  <return>  to proceed.
@@ -6426,7 +6423,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.115 \item O
+l.117 \item O
              pt-In/Opt-Out Deadlines: Health Plan opt-ins/opt-outs shall be ...
 
 Try typing  <return>  to proceed.
@@ -6603,7 +6600,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.116 \item O
+l.118 \item O
              pt-In/Opt-Out Appeals: Health Plan opt-ins/opt-outs shall be pe...
 
 Try typing  <return>  to proceed.
@@ -6616,7 +6613,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.116 \item O
+l.118 \item O
              pt-In/Opt-Out Appeals: Health Plan opt-ins/opt-outs shall be pe...
 
 Try typing  <return>  to proceed.
@@ -6629,7 +6626,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.116 \item O
+l.118 \item O
              pt-In/Opt-Out Appeals: Health Plan opt-ins/opt-outs shall be pe...
 
 Try typing  <return>  to proceed.
@@ -6768,7 +6765,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.117 \begin{enumerate}[label*=\arabic*
+l.119 \begin{enumerate}[label*=\arabic*
                                        ., align=left]
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -6795,7 +6792,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.118 \item P
+l.120 \item P
              roof of completion of non-full-time student status, such as com...
 
 Try typing  <return>  to proceed.
@@ -6982,7 +6979,7 @@ Missing character: There is no P in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.124 \subsection
+l.126 \subsection
                  {Article 4: Health and Dental Plan}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7019,7 +7016,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 124--125
+Overfull \hbox (20.0pt too wide) in paragraph at lines 126--127
 []
  []
 
@@ -7034,8 +7031,8 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.125 \begin{enumerate} [label*=\arabic*
-                                        ., align=left]
+l.127 \begin{enumerate} [label*=\arabic*
+                                        ., align=left]	
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -7061,7 +7058,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.126 \item T
+l.128 \item T
              he HPC Official Liaison and the President are responsible for e...
 
 Try typing  <return>  to proceed.
@@ -7074,7 +7071,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.126 \item T
+l.128 \item T
              he HPC Official Liaison and the President are responsible for e...
 
 Try typing  <return>  to proceed.
@@ -7087,7 +7084,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.126 \item T
+l.128 \item T
              he HPC Official Liaison and the President are responsible for e...
 
 Try typing  <return>  to proceed.
@@ -7186,7 +7183,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.127 \item I
+l.129 \item I
              n a non-tendering year, the HPC will devote its time to researc...
 
 Try typing  <return>  to proceed.
@@ -7199,7 +7196,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.127 \item I
+l.129 \item I
              n a non-tendering year, the HPC will devote its time to researc...
 
 Try typing  <return>  to proceed.
@@ -7212,7 +7209,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.127 \item I
+l.129 \item I
              n a non-tendering year, the HPC will devote its time to researc...
 
 Try typing  <return>  to proceed.
@@ -7345,7 +7342,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.128 \item G
+l.130 \item G
              eneral Procurement Policy
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7357,7 +7354,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.128 \item G
+l.130 \item G
              eneral Procurement Policy
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7369,7 +7366,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.128 \item G
+l.130 \item G
              eneral Procurement Policy
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7409,8 +7406,8 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.129 \begin{enumerate}[label*=\arabic*
-                                       ., align=left]
+l.131 \begin{enumerate}[label*=\arabic*
+                                       ., align=left]	
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -7436,7 +7433,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.130 \item T
+l.132 \item T
              he HPC shall act in accordance with Society bylaws on "Procurem...
 
 Try typing  <return>  to proceed.
@@ -7718,8 +7715,8 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.136 \begin{enumerate} [label*=\arabic*
-                                        ., align=left]
+l.138 \begin{enumerate} [label*=\arabic*
+                                        ., align=left]	
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -7745,7 +7742,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.137 \item T
+l.139 \item T
              he HPC shall act in accordance with Society bylaws on the "Heal...
 
 Try typing  <return>  to proceed.
@@ -7758,7 +7755,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.137 \item T
+l.139 \item T
              he HPC shall act in accordance with Society bylaws on the "Heal...
 
 Try typing  <return>  to proceed.
@@ -7771,7 +7768,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.137 \item T
+l.139 \item T
              he HPC shall act in accordance with Society bylaws on the "Heal...
 
 Try typing  <return>  to proceed.
@@ -7845,7 +7842,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.138 \item T
+l.140 \item T
              he HPC shall act in accordance with Society bylaws on "Conflict...
 
 Try typing  <return>  to proceed.
@@ -7858,7 +7855,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.138 \item T
+l.140 \item T
              he HPC shall act in accordance with Society bylaws on "Conflict...
 
 Try typing  <return>  to proceed.
@@ -7871,7 +7868,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.138 \item T
+l.140 \item T
              he HPC shall act in accordance with Society bylaws on "Conflict...
 
 Try typing  <return>  to proceed.
@@ -7950,7 +7947,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.139 \end{enumerate}
+l.141 \end{enumerate}
                      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7981,18 +7978,9 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 153.
+(Font)              <7> on input line 144.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 153.
-Missing character: There is no M in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
+(Font)              <5> on input line 144.
 Missing character: There is no P in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -8520,6 +8508,11 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
+
+Overfull \hbox (48.9942pt too wide) in paragraph at lines 144--167
+[][] 
+ []
+
 Missing character: There is no H in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -8560,8 +8553,8 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.179 \begin{enumerate}[label*=\arabic*
-                                       ., align=left]
+l.171 \begin{enumerate}[label*=\arabic*
+                                       ., align=left]	
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -8587,7 +8580,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.180 \item I
+l.172 \item I
              nvolves vetting of submitted bids in addition to a 45-minute in...
 
 Try typing  <return>  to proceed.
@@ -8600,7 +8593,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.180 \item I
+l.172 \item I
              nvolves vetting of submitted bids in addition to a 45-minute in...
 
 Try typing  <return>  to proceed.
@@ -8613,7 +8606,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.180 \item I
+l.172 \item I
              nvolves vetting of submitted bids in addition to a 45-minute in...
 
 Try typing  <return>  to proceed.
@@ -8700,7 +8693,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.181 \item T
+l.173 \item T
              he HPC will construct its shortlist based on the following crit...
 
 Try typing  <return>  to proceed.
@@ -8713,7 +8706,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.181 \item T
+l.173 \item T
              he HPC will construct its shortlist based on the following crit...
 
 Try typing  <return>  to proceed.
@@ -8726,7 +8719,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.181 \item T
+l.173 \item T
              he HPC will construct its shortlist based on the following crit...
 
 Try typing  <return>  to proceed.
@@ -8798,7 +8791,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.183 \item P
+l.175 \item P
              rice -- 30\% (e.g. Lowest premium)
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -9260,7 +9253,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.195 \subsection
+l.187 \subsection
                  {Article 5: Graduate Student Mental Health and Wellness}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9316,7 +9309,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 195--196
+Overfull \hbox (20.0pt too wide) in paragraph at lines 187--188
 []
  []
 
@@ -9331,8 +9324,8 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    \c@* 
-l.196 \begin{enumerate}[label*=\arabic*
-                                       ., align=left]
+l.188 \begin{enumerate}[label*=\arabic*
+                                       ., align=left]	
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -9358,7 +9351,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \item W
+l.189 \item W
              ork in partnership with the Vice-President Student Services, Gr...
 
 Try typing  <return>  to proceed.
@@ -9371,7 +9364,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \item W
+l.189 \item W
              ork in partnership with the Vice-President Student Services, Gr...
 
 Try typing  <return>  to proceed.
@@ -9384,7 +9377,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 \item W
+l.189 \item W
              ork in partnership with the Vice-President Student Services, Gr...
 
 Try typing  <return>  to proceed.
@@ -9568,7 +9561,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.199 \item D
+l.191 \item D
              uring non-tendering years, the HPC will work in partnership wit...
 
 Try typing  <return>  to proceed.
@@ -9581,7 +9574,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.199 \item D
+l.191 \item D
              uring non-tendering years, the HPC will work in partnership wit...
 
 Try typing  <return>  to proceed.
@@ -9594,7 +9587,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.199 \item D
+l.191 \item D
              uring non-tendering years, the HPC will work in partnership wit...
 
 Try typing  <return>  to proceed.
@@ -9756,24 +9749,24 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.201 \end{enumerate}
+l.193 \end{enumerate}
                      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 )
 ! Emergency stop.
-<*> HPC.tex
-           
+<*> ./HPC.tex
+             
 *** (job aborted, no legal \end found)
 
  
 Here is how much of TeX's memory you used:
- 16 strings out of 492995
- 214 string characters out of 6132704
- 71074 words of memory out of 5000000
- 3669 multiletter control sequences out of 15000+600000
- 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 21 strings out of 492973
+ 313 string characters out of 3126692
+ 73424 words of memory out of 3000000
+ 3991 multiletter control sequences out of 15000+200000
+ 3948 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 19i,7n,12p,513b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 19i,7n,13p,516b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
