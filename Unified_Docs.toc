@@ -51,7 +51,7 @@
 \contentsline {subsection}{\numberline {2.4.7}Voting}{32}
 \contentsline {subsection}{\numberline {2.4.8}Counting Ballots}{32}
 \contentsline {subsection}{\numberline {2.4.9}Transition}{32}
-\contentsline {subsection}{\numberline {2.4.10}Campaign Impropriety and Appeals}{32}
+\contentsline {subsection}{\numberline {2.4.10}Campaign Impropriety and Appeals}{33}
 \contentsline {subsection}{\numberline {2.4.11}Validity}{33}
 \contentsline {subsection}{\numberline {2.4.12}Campaign Expenses and Subsidy}{33}
 \contentsline {section}{\numberline {2.5}Other Elections}{34}
