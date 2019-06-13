@@ -90,11 +90,11 @@
 \contentsline {subsubsection}{\numberline {2.9.5.10}The Graduate Student Issues Committee}{50}
 \contentsline {subsubsection}{\numberline {2.9.5.11}The Policy Committee}{51}
 \contentsline {subsubsection}{\numberline {2.9.5.12}Equity Issues Committee}{51}
-\contentsline {subsubsection}{\numberline {2.9.5.13}Health Plan Committee (HPC)}{52}
+\contentsline {subsubsection}{\numberline {2.9.5.13}Health Plan Committee (HPC)}{51}
 \contentsline {subsubsection}{\numberline {2.9.5.14}Sustainability Committee (SC)}{52}
 \contentsline {subsubsection}{\numberline {2.9.5.15}Graduate Peer Support Committee (GPS}{52}
-\contentsline {subsection}{\numberline {2.9.6}Commissions}{53}
-\contentsline {subsubsection}{\numberline {2.9.6.1}General}{53}
+\contentsline {subsection}{\numberline {2.9.6}Commissions}{52}
+\contentsline {subsubsection}{\numberline {2.9.6.1}General}{52}
 \contentsline {subsubsection}{\numberline {2.9.6.2}Women's Concern Commission}{53}
 \contentsline {subsection}{\numberline {2.9.7}Official Liaison Table}{54}
 \contentsline {section}{\numberline {2.10}Personnel}{55}
