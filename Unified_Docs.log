@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  6 JUL 2019 15:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  6 JUL 2019 17:42
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -931,51 +931,57 @@ Overfull \hbox (7.4104pt too wide) in paragraph at lines 146--150
  []
 
 
-Overfull \hbox (7.70728pt too wide) in paragraph at lines 150--153
+Overfull \hbox (7.70728pt too wide) in paragraph at lines 150--152
 []\T1/lmss/m/n/12 shall con-sult with the So-ci-ety Com-mu-ni-ca-tions Ad-min-i
 s-tra-tor on the Grad-u-ate Ori-en-ta-tion
  []
 
 
-Overfull \hbox (5.13884pt too wide) in paragraph at lines 177--181
+Overfull \hbox (5.13884pt too wide) in paragraph at lines 176--180
 []\T1/lmss/m/n/12 shall, with the Pres-i-dent, and with Coun-cil's ap-proval, b
 e re-spon-si-ble for the ad-mi-nis-tra-tion
  []
 
 [22] [23]
-Overfull \hbox (4.95152pt too wide) in paragraph at lines 243--245
-[]\T1/lmss/m/n/12 shall de-ter-mine the num-ber of de-part-men-tal and part--ti
-me rep-re-sen-ta-tives and co--ordinate
+Overfull \hbox (1.0349pt too wide) in paragraph at lines 242--244
+[]\T1/lmss/m/n/12 shall de-ter-mine the num-ber of de-part-men-tal and part-tim
+e rep-re-sen-ta-tives and co-ordinate
  []
 
 
-Overfull \hbox (4.20877pt too wide) in paragraph at lines 256--258
+Overfull \hbox (4.20877pt too wide) in paragraph at lines 255--257
 \T1/lmss/m/n/12 of-fi-cial sum-mary of Robert's Rules, de-scrip-tions of the co
 m-mit-tees of the So-ci-ety, de-scrip-tions
  []
 
 [24]
-Overfull \hbox (0.33524pt too wide) in paragraph at lines 300--302
+Overfull \hbox (0.33524pt too wide) in paragraph at lines 299--301
 []\T1/lmss/m/n/12 be re-spon-si-ble for over-see-ing in-ves-ti-ga-tions of cam-
 paign im-pro-pri-eties and charges
  []
 
+
+Overfull \hbox (1.52524pt too wide) in paragraph at lines 301--304
+[]\T1/lmss/m/n/12 vacate the po-si-tion of DCRO in any pres-i-den-tial elec-tio
+n or pres-i-den-tial by-election
+ []
+
 [25]
-Overfull \hbox (19.9537pt too wide) in paragraph at lines 311--313
+Overfull \hbox (22.23872pt too wide) in paragraph at lines 310--312
 []\T1/lmss/m/n/12 The Ex-ec-u-tive and Coun-cil shall have the au-thor-ity to c
-re-ate, dis-solve, or amend com-mis-sioner
+re-ate, dis-solve, or amend Com-mis-sioner
  []
 
 
-Overfull \hbox (14.604pt too wide) in paragraph at lines 332--334
+Overfull \hbox (14.604pt too wide) in paragraph at lines 331--333
 \T1/lmss/m/n/12 con-stituency group mem-bers and al-lies to the con-stituency g
 roup when pos-si-ble and ap-pro-pri-ate
  []
 
 [26] [27]
-Overfull \hbox (11.30719pt too wide) in paragraph at lines 390--391
-[]\T1/lmss/m/n/12 shall not oc-cupy a vot-ing po-si-tion on any com-mit-tee, ex
--cept-ing ex--officio vot-ing per-mis-sions
+Overfull \hbox (6.48044pt too wide) in paragraph at lines 397--398
+[]\T1/lmss/m/n/12 update the So-ci-ety's Con-sti-tu-tion, By-laws, Pol-icy, and
+ Speaker's Rul-ings doc-u-ment
  []
 
 [28]
@@ -1044,9 +1050,9 @@ Overfull \hbox (9.18173pt too wide) in paragraph at lines 689--690
  []
 
 [41] [42]
-Overfull \hbox (11.49515pt too wide) in paragraph at lines 765--766
+Overfull \hbox (9.53683pt too wide) in paragraph at lines 765--766
 []\T1/lmss/m/n/12 The po-si-tion va-cated by re-call shall be filled ac-cord-in
-g to the ap-pro-pri-ate by--election
+g to the ap-pro-pri-ate by-election
  []
 
 [43])
@@ -1078,96 +1084,96 @@ Overfull \hbox (3.85255pt too wide) in paragraph at lines 85--86
  dis-tinct from other com-mit-tees'
  []
 
-[46] [47] [48] [49]
-Overfull \hbox (6.97331pt too wide) in paragraph at lines 216--219
+[46] [47] [48]
+Overfull \hbox (4.44356pt too wide) in paragraph at lines 196--197
+[]\T1/lmss/m/n/12 shall mon-i-tor spend-ing and con-sider amend-ments to the Gr
+ad Club bud-get for sub-mis-sion
+ []
+
+[49]
+Overfull \hbox (6.97331pt too wide) in paragraph at lines 217--220
 []\T1/lmss/m/n/12 shall over-see and up-date, in con-sul-ta-tion with the So-ci
 -ety Com-mu-ni-ca-tions Ad-min-is-tra-tor
  []
 
 
-Overfull \hbox (0.9878pt too wide) in paragraph at lines 219--220
+Overfull \hbox (0.9878pt too wide) in paragraph at lines 220--221
 \T1/lmss/m/n/12 In-ter-na-tional, the IESC, and the School of Grad-u-ate and Po
 st-Doctoral Stud-ies, as nec-es-sary. 
  []
 
 
-Overfull \hbox (40.41017pt too wide) in paragraph at lines 229--232
+Overfull \hbox (40.41017pt too wide) in paragraph at lines 230--233
 []\T1/lmss/m/n/12 shall en-deav-our to co-or-di-nate with rep-re-sen-ta-tions f
 rom each Grad-u-ate As-so-ci-a-tion/Department
  []
 
 [50] [51]
-Overfull \hbox (5.1897pt too wide) in paragraph at lines 347--348
+Overfull \hbox (5.1897pt too wide) in paragraph at lines 348--349
 []\T1/lmss/m/n/12 shall dis-cuss and make rec-om-men-da-tions to Coun-cil on is
 -sues af-fect-ing grad-u-ate stu-dents
  []
 
-[52]
-Overfull \hbox (11.72055pt too wide) in paragraph at lines 352--353
-[]\T1/lmss/m/n/12 members of the Com-mis-sion must be grad-u-ate stu-dents who 
-are women and/or in-di-vid-u-als
- []
-
-[53] [54] [55]
-LaTeX Font Info:    Try loading font information for OMS+lmss on input line 408
+[52] [53] [54] [55]
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 409
 .
-LaTeX Font Info:    No file OMSlmss.fd. on input line 408.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 409.
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 408.
+(Font)              for symbol `textbullet' on input line 409.
 
 
-Overfull \hbox (6.74786pt too wide) in paragraph at lines 425--426
+Overfull \hbox (6.74786pt too wide) in paragraph at lines 426--427
 []\T1/lmss/m/n/12 Recuse one-self from all par-tic-i-pa-tion, in-clud-ing ad-mi
 n-is-tra-tive, in the ac-tiv-ity
  []
 
 [56] [57]
-Overfull \hbox (3.50224pt too wide) in paragraph at lines 467--469
+Overfull \hbox (3.50224pt too wide) in paragraph at lines 468--470
 []\T1/lmss/m/n/12 The ad-min-is-tra-tive and mem-ber-ship fees to be levied on 
 full and as-so-ciate mem-bers
  []
 
 
-Overfull \hbox (8.8447pt too wide) in paragraph at lines 474--477
+Overfull \hbox (8.8447pt too wide) in paragraph at lines 475--478
 []\T1/lmss/m/n/12 Any in-crease over and above the max-i-mum in-creases listed 
 above shall be in-tro-duced
  []
 
 [58] [59] [60]
-Overfull \hbox (2.51387pt too wide) in paragraph at lines 527--530
+Overfull \hbox (2.51387pt too wide) in paragraph at lines 528--531
 []\T1/lmss/m/n/12 Upon re-quest of a full or as-so-ciate mem-ber of the So-ci-e
 ty, the Pres-i-dent must con-fi-den-tially
  []
 
 [61] [62] [63]
-Overfull \hbox (13.77252pt too wide) in paragraph at lines 684--685
-[]\T1/lmss/m/n/12 Filled-seat al-ter-nate Coun-cil-lor, who re-places a Coun-ci
+Overfull \hbox (15.91151pt too wide) in paragraph at lines 685--686
+[]\T1/lmss/m/n/12 Filled-seat Al-ter-nate Coun-cil-lor, who re-places a Coun-ci
 l-lor from their de-part-ment/unit
  []
 
 [64] [65] [66] [67] [68] [69]
-Overfull \hbox (10.0102pt too wide) in paragraph at lines 821--822
+Overfull \hbox (10.0102pt too wide) in paragraph at lines 822--823
 \T1/lmss/m/n/12 notwith-stand-ing the right granted by the Con-sti-tu-tion of t
 he So-ci-ety and notwith-stand-ing
  []
 
 [70]
-Overfull \hbox (4.20718pt too wide) in paragraph at lines 833--834
+Overfull \hbox (4.20718pt too wide) in paragraph at lines 834--835
 []\T1/lmss/m/n/12 A mem-ber of the Ex-ec-u-tive may be pro-hib-ited from sign-i
 ng or en-dors-ing con-tracts
  []
 
 [71] [72]
-Overfull \hbox (28.99516pt too wide) in paragraph at lines 851--851
+Overfull \hbox (28.99516pt too wide) in paragraph at lines 852--852
 |[]\T1/lmss/bx/n/17.28 Dissemination of Amend-ments to the So-ci-ety's Gov-ern-
 ing
  []
 
 
-Overfull \hbox (10.42212pt too wide) in paragraph at lines 856--857
+Overfull \hbox (10.42212pt too wide) in paragraph at lines 857--858
 []\T1/lmss/m/n/12 Enforcement of amend-ments dur-ing the Im-ple-men-ta-tion Pha
 se shall be lim-ited to cor-rec-tions
  []
@@ -1834,7 +1840,7 @@ onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (150 pages, 471493 bytes).
+Output written on Unified_Docs.pdf (150 pages, 471414 bytes).
 PDF statistics:
  520 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
