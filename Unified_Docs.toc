@@ -199,5 +199,10 @@
 \contentsline {subsection}{\numberline {4.10.2}Mandate}{128}
 \contentsline {subsection}{\numberline {4.10.3}Membership}{128}
 \contentsline {subsection}{\numberline {4.10.4}Article 2: Committee Management}{128}
+\contentsline {section}{\numberline {4.11}Sustainability Committee}{129}
+\contentsline {subsection}{\numberline {4.11.1}Ratified}{129}
+\contentsline {subsection}{\numberline {4.11.2}Mandate}{129}
+\contentsline {subsection}{\numberline {4.11.3}Article 1: Membership}{129}
+\contentsline {subsection}{\numberline {4.11.4}Article 2: Committee Responsibilities}{130}
 \setcounter {tocdepth}{2}
-\contentsline {chapter}{\numberline {5}Speaker's Rulings}{129}
+\contentsline {chapter}{\numberline {5}Speaker's Rulings}{131}
