@@ -154,44 +154,50 @@
 \contentsline {subsection}{\numberline {4.2.2}Article 1: Membership}{104}
 \contentsline {subsection}{\numberline {4.2.3}Article 2: Duties and Responsibilities}{105}
 \contentsline {subsection}{\numberline {4.2.4}Article 3: Budget Preparation, Management, and Financial Reporting}{105}
-\contentsline {section}{\numberline {4.3}Graduate Student Issues Committee}{107}
-\contentsline {subsection}{\numberline {4.3.1}Ratified}{107}
-\contentsline {subsection}{\numberline {4.3.2}Mandate}{107}
-\contentsline {subsection}{\numberline {4.3.3}Article 1: Membership}{107}
-\contentsline {subsection}{\numberline {4.3.4}Article 2: Committee Management}{107}
-\contentsline {section}{\numberline {4.4}Graduate Student Teaching Awards (GTSA) Committee}{109}
-\contentsline {subsection}{\numberline {4.4.1}Article I: Membership}{109}
-\contentsline {section}{\numberline {4.5}GradCast Editorial Board}{110}
-\contentsline {subsection}{\numberline {4.5.1}Article 1: Membership}{110}
-\contentsline {subsection}{\numberline {4.5.2}Article 2: GradCast Radio Show and Podcast}{111}
-\contentsline {section}{\numberline {4.6}International Graduate Student Issues Committee}{112}
-\contentsline {subsection}{\numberline {4.6.1}Ratified}{112}
-\contentsline {subsection}{\numberline {4.6.2}Mandate}{112}
-\contentsline {subsection}{\numberline {4.6.3}Article 1: Membership}{112}
-\contentsline {subsection}{\numberline {4.6.4}Article 2: Committee Management}{112}
-\contentsline {subsection}{\numberline {4.6.5}Article 3: Fall Orientation}{114}
-\contentsline {subsection}{\numberline {4.6.6}Article 4: Socials and Trips}{114}
-\contentsline {subsection}{\numberline {4.6.7}Article 5: Advocacy and Partnerships}{115}
-\contentsline {section}{\numberline {4.7}Orientation and Social Committee}{116}
-\contentsline {subsection}{\numberline {4.7.1}Ratified}{116}
-\contentsline {subsection}{\numberline {4.7.2}Mandate}{116}
-\contentsline {subsection}{\numberline {4.7.3}Article 1: Membership}{116}
-\contentsline {subsection}{\numberline {4.7.4}Article 2: Committee Management}{116}
-\contentsline {subsection}{\numberline {4.7.5}Article 3: Fall, Winter, and Summer Orientations}{119}
-\contentsline {subsection}{\numberline {4.7.6}Article 4: Socials and Recreation}{119}
-\contentsline {subsection}{\numberline {4.7.7}Article 5: Graduate Student Life: Partnership and Outreach}{120}
-\contentsline {section}{\numberline {4.8}Health Plan Committee}{121}
-\contentsline {subsection}{\numberline {4.8.1}Ratified}{121}
-\contentsline {subsection}{\numberline {4.8.2}Mandate}{121}
-\contentsline {subsection}{\numberline {4.8.3}Article 1: Membership}{121}
-\contentsline {subsection}{\numberline {4.8.4}Article 2: Committee Management}{121}
-\contentsline {subsection}{\numberline {4.8.5}Article 3: Health Plan Opt-Ins / Opt-Outs}{124}
-\contentsline {subsection}{\numberline {4.8.6}Article 4: Health and Dental Plan}{124}
-\contentsline {subsection}{\numberline {4.8.7}Article 5: Graduate Student Mental Health and Wellness}{125}
-\contentsline {section}{\numberline {4.9}Policy Committtee}{126}
-\contentsline {subsection}{\numberline {4.9.1}Ratified}{126}
-\contentsline {subsection}{\numberline {4.9.2}Mandate}{126}
-\contentsline {subsection}{\numberline {4.9.3}Membership}{126}
-\contentsline {subsection}{\numberline {4.9.4}Article 2: Committee Management}{126}
+\contentsline {section}{\numberline {4.3}GradCast Editorial Board}{107}
+\contentsline {subsection}{\numberline {4.3.1}Article 1: Membership}{107}
+\contentsline {subsection}{\numberline {4.3.2}Article 2: GradCast Radio Show and Podcast}{108}
+\contentsline {section}{\numberline {4.4}Graduate Peer Support Committee}{109}
+\contentsline {subsection}{\numberline {4.4.1}Ratified}{109}
+\contentsline {subsection}{\numberline {4.4.2}Mandate}{109}
+\contentsline {subsection}{\numberline {4.4.3}Article 1: Membership}{109}
+\contentsline {subsection}{\numberline {4.4.4}Article 2: Committee Management}{109}
+\contentsline {subsection}{\numberline {4.4.5}Article 3: Managing the SOGS Food Bank}{110}
+\contentsline {section}{\numberline {4.5}Graduate Student Issues Committee}{111}
+\contentsline {subsection}{\numberline {4.5.1}Ratified}{111}
+\contentsline {subsection}{\numberline {4.5.2}Mandate}{111}
+\contentsline {subsection}{\numberline {4.5.3}Article 1: Membership}{111}
+\contentsline {subsection}{\numberline {4.5.4}Article 2: Committee Management}{111}
+\contentsline {section}{\numberline {4.6}Graduate Student Teaching Awards (GTSA) Committee}{113}
+\contentsline {subsection}{\numberline {4.6.1}Article I: Membership}{113}
+\contentsline {section}{\numberline {4.7}Health Plan Committee}{114}
+\contentsline {subsection}{\numberline {4.7.1}Ratified}{114}
+\contentsline {subsection}{\numberline {4.7.2}Mandate}{114}
+\contentsline {subsection}{\numberline {4.7.3}Article 1: Membership}{114}
+\contentsline {subsection}{\numberline {4.7.4}Article 2: Committee Management}{114}
+\contentsline {subsection}{\numberline {4.7.5}Article 3: Health Plan Opt-Ins / Opt-Outs}{117}
+\contentsline {subsection}{\numberline {4.7.6}Article 4: Health and Dental Plan}{117}
+\contentsline {subsection}{\numberline {4.7.7}Article 5: Graduate Student Mental Health and Wellness}{118}
+\contentsline {section}{\numberline {4.8}International Graduate Student Issues Committee}{119}
+\contentsline {subsection}{\numberline {4.8.1}Ratified}{119}
+\contentsline {subsection}{\numberline {4.8.2}Mandate}{119}
+\contentsline {subsection}{\numberline {4.8.3}Article 1: Membership}{119}
+\contentsline {subsection}{\numberline {4.8.4}Article 2: Committee Management}{119}
+\contentsline {subsection}{\numberline {4.8.5}Article 3: Fall Orientation}{121}
+\contentsline {subsection}{\numberline {4.8.6}Article 4: Socials and Trips}{121}
+\contentsline {subsection}{\numberline {4.8.7}Article 5: Advocacy and Partnerships}{122}
+\contentsline {section}{\numberline {4.9}Orientation and Social Committee}{123}
+\contentsline {subsection}{\numberline {4.9.1}Ratified}{123}
+\contentsline {subsection}{\numberline {4.9.2}Mandate}{123}
+\contentsline {subsection}{\numberline {4.9.3}Article 1: Membership}{123}
+\contentsline {subsection}{\numberline {4.9.4}Article 2: Committee Management}{123}
+\contentsline {subsection}{\numberline {4.9.5}Article 3: Fall, Winter, and Summer Orientations}{126}
+\contentsline {subsection}{\numberline {4.9.6}Article 4: Socials and Recreation}{126}
+\contentsline {subsection}{\numberline {4.9.7}Article 5: Graduate Student Life: Partnership and Outreach}{127}
+\contentsline {section}{\numberline {4.10}Policy Committtee}{128}
+\contentsline {subsection}{\numberline {4.10.1}Ratified}{128}
+\contentsline {subsection}{\numberline {4.10.2}Mandate}{128}
+\contentsline {subsection}{\numberline {4.10.3}Membership}{128}
+\contentsline {subsection}{\numberline {4.10.4}Article 2: Committee Management}{128}
 \setcounter {tocdepth}{2}
-\contentsline {chapter}{\numberline {5}Speaker's Rulings}{127}
+\contentsline {chapter}{\numberline {5}Speaker's Rulings}{129}
