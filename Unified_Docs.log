@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  23 AUG 2019 15:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  23 AUG 2019 15:43
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -638,13 +638,13 @@ Writing index file Unified_Docs.idx
 (Operations_Policy/Discipline_Code_2018.aux) (Operations_Policy/Elections.aux)
 (Operations_Policy/Minutes_2018.aux) (Operations_Policy/Procurement.aux)
 (Position_Statements/Position_Statements.aux) (Committee_Documents/Academic.aux
-) (Committee_Documents/BCC.aux) (Committee_Documents/Finance.aux)
-(Committee_Documents/Gradcast.aux) (Committee_Documents/GPS.aux)
-(Committee_Documents/GSIC.aux) (Committee_Documents/GSTA.aux)
-(Committee_Documents/HPC.aux) (Committee_Documents/IGSIC.aux)
-(Committee_Documents/OSC.aux) (Committee_Documents/Policy.aux)
-(Committee_Documents/Sustainability.aux) (Rulings/July2013.aux)
-(Rulings/Nov2014.aux) (Rulings/Nov2017.aux))
+) (Committee_Documents/BSC.aux) (Committee_Documents/BCC.aux)
+(Committee_Documents/Finance.aux) (Committee_Documents/Gradcast.aux)
+(Committee_Documents/GPS.aux) (Committee_Documents/GSIC.aux)
+(Committee_Documents/GSTA.aux) (Committee_Documents/HPC.aux)
+(Committee_Documents/IGSIC.aux) (Committee_Documents/OSC.aux)
+(Committee_Documents/Policy.aux) (Committee_Documents/Sustainability.aux)
+(Rulings/July2013.aux) (Rulings/Nov2014.aux) (Rulings/Nov2017.aux))
 \openout1 = `Unified_Docs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
@@ -1558,17 +1558,17 @@ Overfull \hbox (0.75473pt too wide) in paragraph at lines 24--25
 r-son, but ex-clud-ing the ex-officio
  []
 
-
-Overfull \hbox (3.5028pt too wide) in paragraph at lines 33--34
-[]\T1/lmss/m/n/12 The BCC will act in ac-cor-dance with By-law 2.9.3.9 to man-a
-ge and main-tain at-ten-dance. 
- []
-
 [110
 
 
 ]
-Overfull \hbox (5.05095pt too wide) in paragraph at lines 55--56
+Overfull \hbox (13.85995pt too wide) in paragraph at lines 34--35
+\T1/lmss/m/n/12 Com-mit-tee mem-bers may also re-quest that non-committee mem-b
+ers at-tend as non-voting
+ []
+
+
+Overfull \hbox (5.05095pt too wide) in paragraph at lines 56--57
 \T1/lmss/m/n/12 re-spec-tive doc-u-ment and an-nounced to the mem-ber-ship with
 in two (2) months of rat-i-fi-ca-tion. 
  []
@@ -1933,10 +1933,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 14382 strings out of 492973
- 289575 string characters out of 3126692
- 359185 words of memory out of 3000000
- 17710 multiletter control sequences out of 15000+200000
+ 14385 strings out of 492973
+ 289694 string characters out of 3126692
+ 359839 words of memory out of 3000000
+ 17711 multiletter control sequences out of 15000+200000
  68500 words of font info for 51 fonts, out of 3000000 for 9000
  1148 hyphenation exceptions out of 8191
  62i,8n,56p,1048b,585s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1950,7 +1950,7 @@ onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (157 pages, 486668 bytes).
+Output written on Unified_Docs.pdf (157 pages, 486929 bytes).
 PDF statistics:
  543 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
