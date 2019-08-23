@@ -10,8 +10,9 @@
 \contentsline {section}{\numberline {1.5}Membership}{11}
 \contentsline {subsection}{\numberline {1.5.1}Full Membership}{11}
 \contentsline {subsection}{\numberline {1.5.2}Associate Membership}{11}
-\contentsline {subsection}{\numberline {1.5.3}Honorary Membership}{12}
-\contentsline {subsection}{\numberline {1.5.4}Membership Granted by Council}{12}
+\contentsline {subsection}{\numberline {1.5.3}Leave-of-Absence Membership}{12}
+\contentsline {subsection}{\numberline {1.5.4}Honorary Membership}{13}
+\contentsline {subsection}{\numberline {1.5.5}Membership Granted by Council}{13}
 \contentsline {section}{\numberline {1.6}Government}{14}
 \contentsline {subsection}{\numberline {1.6.1}The Council}{14}
 \contentsline {subsection}{\numberline {1.6.2}The Executive}{14}

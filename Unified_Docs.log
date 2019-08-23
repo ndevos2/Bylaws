@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  23 AUG 2019 12:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  23 AUG 2019 13:13
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -846,31 +846,55 @@ Package pdftex.def Info: logo.jpg  used on input line 9.
 [6
 
 
-] [7] [8] [9] [10] [11] [12] [13]
-Overfull \hbox (28.61154pt too wide) in paragraph at lines 146--147
+] [7] [8] [9] [10] [11]
+Overfull \hbox (15.05783pt too wide) in paragraph at lines 120--121
+[]\T1/lmss/m/n/12 participation in So-ci-ety pro-grams which pro-hibit the par-
+tic-i-pa-tion of leave-of-absence
+ []
+
+
+Overfull \hbox (1.75885pt too wide) in paragraph at lines 124--125
+[]\T1/lmss/m/n/12 satisfying the re-quire-ments for leave-of-absence mem-ber-sh
+ip from Sec-tion 1.5.3.1,
+ []
+
+[12] [13]
+Overfull \hbox (28.61154pt too wide) in paragraph at lines 159--160
 []\T1/lmss/m/n/12 Council shall be re-spon-si-ble for de-ter-min-ing mat-ters o
 f pol-icy and su-per-vis-ing the ad-mi-nis-tra-tion
  []
 
 
-Overfull \hbox (1.70105pt too wide) in paragraph at lines 151--153
+Overfull \hbox (1.70105pt too wide) in paragraph at lines 164--166
 []\T1/lmss/m/n/12 Enrolment for the fall term shall de-ter-mine the num-ber of 
 rep-re-sen-ta-tives each de-part-ment
  []
 
 
-Overfull \hbox (18.93445pt too wide) in paragraph at lines 151--153
+Overfull \hbox (18.93445pt too wide) in paragraph at lines 164--166
 \T1/lmss/m/n/12 (or pro-gram) shall have on Coun-cil for the aca-demic year. Th
 e spe-cific num-ber of rep-re-sen-ta-tives
  []
 
 [14]
-Overfull \hbox (9.60587pt too wide) in paragraph at lines 186--187
+Overfull \hbox (9.60587pt too wide) in paragraph at lines 199--200
 []\T1/lmss/m/n/12 The Ex-ec-u-tive shall, at its dis-cre-tion, call a meet-ing 
 of all Ex-ec-u-tive Of-fi-cers, Com-mis-sion-ers
  []
 
-(Elections/Term_limits.tex) [15] [16] [17])
+(Elections/Term_limits.tex)
+Overfull \hbox (2.51746pt too wide) in paragraph at lines 214--215
+[]\T1/lmss/m/n/12 Only full, as-so-ciate, and leave-of-absence mem-bers of the 
+So-ci-ety may vote on com-mit-tees
+ []
+
+
+Overfull \hbox (1.58527pt too wide) in paragraph at lines 214--215
+\T1/lmss/m/n/12 es-tab-lished by the So-ci-ety. Only vot-ing mem-bers shall cou
+nt for quo-rum on such com-mit-tees. 
+ []
+
+[15] [16] [17])
 \openout2 = `Bylaw/Bylaws.aux'.
 
  (Bylaw/Bylaws.tex
@@ -1020,13 +1044,7 @@ Overfull \hbox (7.90782pt too wide) in paragraph at lines 158--159
 at an act of cam-paign im-pro-pri-ety
  []
 
-[32]
-Overfull \hbox (36.20438pt too wide) in paragraph at lines 185--189
-[]\T1/lmss/m/n/12 Any full or as-so-ciate mem-ber of the So-ci-ety may chal-len
-ge the va-lid-ity of an elec-tion/referendum
- []
-
-) [33]
+[32]) [33]
 Overfull \hbox (0.40962pt too wide) in paragraph at lines 456--458
 []\T1/lmss/m/n/12 Nominations for all Vice-Presidential po-si-tions shall close
  at the Coun-cil pack-age dead-line.
@@ -1085,6 +1103,12 @@ Overfull \hbox (3.85255pt too wide) in paragraph at lines 85--86
  []
 
 [46] [47] [48]
+Overfull \hbox (2.17496pt too wide) in paragraph at lines 177--178
+[]\T1/lmss/m/n/12 shall rec-om-mend the fee(s) to be levied on full, as-so-ciat
+e, and leave-of-absence mem-bers
+ []
+
+
 Overfull \hbox (4.44356pt too wide) in paragraph at lines 197--198
 []\T1/lmss/m/n/12 shall mon-i-tor spend-ing and con-sider amend-ments to the Gr
 ad Club bud-get for sub-mis-sion
@@ -1131,24 +1155,12 @@ n-is-tra-tive, in the ac-tiv-ity
  []
 
 [56] [57]
-Overfull \hbox (3.50224pt too wide) in paragraph at lines 469--471
-[]\T1/lmss/m/n/12 The ad-min-is-tra-tive and mem-ber-ship fees to be levied on 
-full and as-so-ciate mem-bers
- []
-
-
 Overfull \hbox (8.8447pt too wide) in paragraph at lines 476--479
 []\T1/lmss/m/n/12 Any in-crease over and above the max-i-mum in-creases listed 
 above shall be in-tro-duced
  []
 
-[58] [59] [60]
-Overfull \hbox (2.51387pt too wide) in paragraph at lines 529--532
-[]\T1/lmss/m/n/12 Upon re-quest of a full or as-so-ciate mem-ber of the So-ci-e
-ty, the Pres-i-dent must con-fi-den-tially
- []
-
-[61] [62] [63]
+[58] [59] [60] [61] [62] [63]
 Overfull \hbox (15.91151pt too wide) in paragraph at lines 686--687
 []\T1/lmss/m/n/12 Filled-seat Al-ter-nate Coun-cil-lor, who re-places a Coun-ci
 l-lor from their de-part-ment/unit
@@ -1840,7 +1852,7 @@ onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (150 pages, 471686 bytes).
+Output written on Unified_Docs.pdf (150 pages, 472683 bytes).
 PDF statistics:
  520 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
