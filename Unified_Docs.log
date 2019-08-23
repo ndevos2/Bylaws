@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  23 AUG 2019 13:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  23 AUG 2019 13:47
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -997,12 +997,30 @@ re-ate, dis-solve, or amend Com-mis-sioner
  []
 
 
-Overfull \hbox (14.604pt too wide) in paragraph at lines 331--333
-\T1/lmss/m/n/12 con-stituency group mem-bers and al-lies to the con-stituency g
-roup when pos-si-ble and ap-pro-pri-ate
+Overfull \hbox (20.1041pt too wide) in paragraph at lines 328--330
+[]\T1/lmss/m/n/12 The Com-mis-sioner's con-stituency mem-ber-ship is de-fined a
+s So-ci-ety mem-bers who self-identify
  []
 
-[26] [27]
+
+Overfull \hbox (3.0107pt too wide) in paragraph at lines 328--330
+\T1/lmss/m/n/12 as mem-bers of the con-stituency com-mu-nity (e.g. a meet-ing c
+alled by the Pride Com-mis-sioner
+ []
+
+
+Overfull \hbox (8.7714pt too wide) in paragraph at lines 338--340
+[]\T1/lmss/m/n/12 foster a sense of com-mu-nity and build re-la-tions within th
+e con-stituency mem-ber-ship
+ []
+
+[26]
+Overfull \hbox (25.15204pt too wide) in paragraph at lines 363--364
+[]\T1/lmss/m/n/12 determine pro-ce-dure ac-cord-ing to the par-tic-u-lar needs 
+of the con-stituency mem-ber-ship. 
+ []
+
+[27]
 Overfull \hbox (6.48044pt too wide) in paragraph at lines 397--398
 []\T1/lmss/m/n/12 update the So-ci-ety's Con-sti-tu-tion, By-laws, Pol-icy, and
  Speaker's Rul-ings doc-u-ment
@@ -1852,7 +1870,7 @@ onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (150 pages, 472683 bytes).
+Output written on Unified_Docs.pdf (150 pages, 472674 bytes).
 PDF statistics:
  520 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
