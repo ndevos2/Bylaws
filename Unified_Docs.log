@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  23 AUG 2019 16:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  25 AUG 2019 14:54
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -1635,19 +1635,19 @@ d-dress West-ern, mu-nic-i-pal,
 
 
 ]
-Overfull \hbox (28.04501pt too wide) in paragraph at lines 59--59
+Overfull \hbox (28.04501pt too wide) in paragraph at lines 60--60
 |[]\T1/lmss/bx/n/14.4 Article 3: Bud-get Prepa-ra-tion, Man-age-ment, and Fi-na
 n-cial Re-port-ing| 
  []
 
 
-Overfull \hbox (29.20258pt too wide) in paragraph at lines 64--65
+Overfull \hbox (29.20258pt too wide) in paragraph at lines 65--66
 []\T1/lmss/m/n/12 The FC shall con-sider and de-lib-er-ate the bud-get and shal
 l make sub-se-quent rec-om-men-da-tions
  []
 
 
-Overfull \hbox (24.01183pt too wide) in paragraph at lines 74--75
+Overfull \hbox (24.01183pt too wide) in paragraph at lines 75--76
 \T1/lmss/m/n/12 non-executive of-fi-cers and shall in-clude the fol-low-ing in-
 for-ma-tion: name of pro-gram/project,
  []
@@ -2006,7 +2006,7 @@ onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (162 pages, 497058 bytes).
+Output written on Unified_Docs.pdf (162 pages, 497115 bytes).
 PDF statistics:
  558 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
