@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  25 AUG 2019 15:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  25 AUG 2019 16:22
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -1752,14 +1752,25 @@ Overfull \hbox (2.20871pt too wide) in paragraph at lines 47--48
 [125]) [126]
 \openout2 = `Committee_Documents/GPS.aux'.
 
- (Committee_Documents/GPS.tex [127
+ (Committee_Documents/GPS.tex
+Overfull \hbox (1.54124pt too wide) in paragraph at lines 23--24
+\T1/lmss/m/n/12 at the dis-cre-tion of the Chair-per-son or the com-mit-tee in 
+the ab-sence of the Chair-per-son. 
+ []
+
+[127
 
 
-]) [128]
+]
+Overfull \hbox (2.20871pt too wide) in paragraph at lines 43--44
+[]\T1/lmss/m/n/12 Non-committee mem-bers may at-tend as non-voting guests if in
+-vited by the chair. Com-mit-tee
+ []
+
+) [128]
 \openout2 = `Committee_Documents/GSIC.aux'.
 
-
-(Committee_Documents/GSIC.tex
+ (Committee_Documents/GSIC.tex
 Overfull \hbox (1.64755pt too wide) in paragraph at lines 23--24
 []\T1/lmss/m/n/12 The GSIC com-mit-tee will act in ac-cor-dance with By-law 2.9
 .3.5 and 2.9.3.7 to de-ter-mine
@@ -2092,7 +2103,7 @@ onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (167 pages, 507735 bytes).
+Output written on Unified_Docs.pdf (167 pages, 508355 bytes).
 PDF statistics:
  574 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

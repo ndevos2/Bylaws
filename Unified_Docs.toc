@@ -206,9 +206,9 @@
 \contentsline {section}{\numberline {5.9}Graduate Peer Support Committee}{127}
 \contentsline {subsection}{\numberline {5.9.1}Ratified}{127}
 \contentsline {subsection}{\numberline {5.9.2}Mandate}{127}
-\contentsline {subsection}{\numberline {5.9.3}Article 1: Membership}{127}
-\contentsline {subsection}{\numberline {5.9.4}Article 2: Committee Management}{127}
-\contentsline {subsection}{\numberline {5.9.5}Article 3: Managing the SOGS Food Bank}{128}
+\contentsline {subsection}{\numberline {5.9.3}Article I: Membership}{127}
+\contentsline {subsection}{\numberline {5.9.4}Article II: Committee Management}{127}
+\contentsline {subsection}{\numberline {5.9.5}Article III: Operations}{128}
 \contentsline {section}{\numberline {5.10}Graduate Student Issues Committee}{129}
 \contentsline {subsection}{\numberline {5.10.1}Ratified}{129}
 \contentsline {subsection}{\numberline {5.10.2}Mandate}{129}
