@@ -220,11 +220,9 @@
 \contentsline {section}{\numberline {5.12}Health Plan Committee}{132}
 \contentsline {subsection}{\numberline {5.12.1}Ratified}{132}
 \contentsline {subsection}{\numberline {5.12.2}Mandate}{132}
-\contentsline {subsection}{\numberline {5.12.3}Article 1: Membership}{132}
-\contentsline {subsection}{\numberline {5.12.4}Article 2: Committee Management}{132}
-\contentsline {subsection}{\numberline {5.12.5}Article 3: Health Plan Opt-Ins / Opt-Outs}{135}
-\contentsline {subsection}{\numberline {5.12.6}Article 4: Health and Dental Plan}{135}
-\contentsline {subsection}{\numberline {5.12.7}Article 5: Graduate Student Mental Health and Wellness}{136}
+\contentsline {subsection}{\numberline {5.12.3}Article I: Membership}{132}
+\contentsline {subsection}{\numberline {5.12.4}Article II: Committee Management}{133}
+\contentsline {subsection}{\numberline {5.12.5}Article III: Operations}{135}
 \contentsline {section}{\numberline {5.13}International Graduate Student Issues Committee}{137}
 \contentsline {subsection}{\numberline {5.13.1}Ratified}{137}
 \contentsline {subsection}{\numberline {5.13.2}Mandate}{137}
