@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  25 AUG 2019 17:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  25 AUG 2019 19:59
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -1862,52 +1862,28 @@ th/Wellness ini-tia-tives,
 ) [136]
 \openout2 = `Committee_Documents/IGSIC.aux'.
 
- (Committee_Documents/IGSIC.tex
-Overfull \hbox (7.06584pt too wide) in paragraph at lines 11--13
-[]\T1/lmss/m/n/12 Non-voting mem-bers: Vice-President Stu-dent Ser-vices (Of-fi
--cial Li-ai-son, Ex-officio), Pres-i-dent
- []
-
-[137
+ (Committee_Documents/IGSIC.tex [137
 
 
 ]
-Overfull \hbox (8.88176pt too wide) in paragraph at lines 54--56
-[]\T1/lmss/m/n/12 shall work with the Com-mu-ni-ca-tions Ad-min-is-tra-tor to m
-ain-tain web-site in-ter-na-tional
- []
-
-
-Overfull \hbox (5.94608pt too wide) in paragraph at lines 70--73
-[]\T1/lmss/m/n/12 Shall sub-mit IGSIC up-dates, AGM Re-ports, Fi-nal Re-ports, 
-and Sur-veys, as ap-proved
- []
-
-
-Overfull \hbox (2.12624pt too wide) in paragraph at lines 70--73
-\T1/lmss/m/n/12 by IGSIC, for con-sid-er-a-tion at SOGS Coun-cil as per By-laws
- 2.15.3.7 and 2.15.3.7.1. 
+Overfull \hbox (2.20871pt too wide) in paragraph at lines 39--40
+[]\T1/lmss/m/n/12 Non-committee mem-bers may at-tend as non-voting guests if in
+-vited by the chair. Com-mit-tee
  []
 
 [138]
-Overfull \hbox (1.30528pt too wide) in paragraph at lines 89--90
-[]\T1/lmss/m/n/12 Communications Ad-min-is-tra-tor over-sees the IGSIC list-ser
-v and com-mit-tee mem-ber
+Overfull \hbox (17.90111pt too wide) in paragraph at lines 56--57
+[]\T1/lmss/m/n/12 host at cost and/or sub-si-dized off-campus trips each month 
+of the sum-mer for in-ter-na-tional
  []
 
 
-Overfull \hbox (5.79567pt too wide) in paragraph at lines 90--91
-[]\T1/lmss/m/n/12 Vice-President Stu-dent Ser-vices rat-i-fies com-mit-tee mem-
-bers at Coun-cil and in-forms
+Overfull \hbox (4.65784pt too wide) in paragraph at lines 63--64
+\T1/lmss/m/n/12 stu-dent stake-hold-ers (e.g. Grad-u-ate Stu-dent Life Ad-vi-so
+ry Group) for IGSIC Ori-en-ta-tion
  []
 
-[139]
-Overfull \hbox (4.12851pt too wide) in paragraph at lines 133--134
-[]\T1/lmss/m/n/12 IGSIC, through the Vice-President Stu-dent Ser-vices, shall e
-n-deav-our to part-ner with grad-u-ate
- []
-
-) [140]
+) [139]
 \openout2 = `Committee_Documents/OSC.aux'.
 
  (Committee_Documents/OSC.tex
@@ -1922,7 +1898,7 @@ Overfull \hbox (7.06584pt too wide) in paragraph at lines 13--14
 -cial Li-ai-son, Ex-officio), Pres-i-dent
  []
 
-[141
+[140
 
 
 ]
@@ -1931,7 +1907,7 @@ Overfull \hbox (18.02791pt too wide) in paragraph at lines 54--56
 n-sure the suc-cess-ful pro-mo-tion
  []
 
-[142] [143]
+[141] [142]
 Overfull \hbox (7.26782pt too wide) in paragraph at lines 109--111
 []\T1/lmss/m/n/12 Shall in-form the Chair and Vice-President Stu-dent Ser-vices
 , and copy the Communi-
@@ -1949,13 +1925,13 @@ Overfull \hbox (14.22519pt too wide) in paragraph at lines 133--134
 om-mit-tee (fam-ily friendly, non-alcohol
  []
 
-[144]
+[143]
 Overfull \hbox (25.10992pt too wide) in paragraph at lines 134--135
 []\T1/lmss/m/n/12 The OSC shall en-deavor to reach out to rep-re-sen-ta-tives f
 rom Grad-u-ate As-so-ci-a-tions/Departments
  []
 
-) [145]
+) [144]
 \openout2 = `Committee_Documents/Policy.aux'.
 
  (Committee_Documents/Policy.tex
@@ -1964,7 +1940,7 @@ Overfull \hbox (13.429pt too wide) in paragraph at lines 32--33
 ir-per-son, and ex-officio mem-bers)
  []
 
-) [146
+) [145
 
 
 ]
@@ -1988,12 +1964,12 @@ Overfull \hbox (30.93231pt too wide) in paragraph at lines 35--36
 Com-mit-tee in-clud-ing the Chair/Co-Chairs
  []
 
-[147
+[146
 
 
-]) [148]
+]) [147]
 Chapter 6.
-[149
+[148
 
 
 ]
@@ -2005,7 +1981,7 @@ Overfull \hbox (5.09343pt too wide) in paragraph at lines 35--36
 ers of the In-ves-tiga-tive
  []
 
-[150
+[149
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -2014,12 +1990,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 54.
- [151] [152]
+ [150] [151]
 Underfull \hbox (badness 10000) in paragraph at lines 87--97
 
  []
 
-) [153]
+) [152]
 \openout2 = `Rulings/Nov2014.aux'.
 
  (Rulings/Nov2014.tex
@@ -2033,7 +2009,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--40
 
  []
 
-) [154
+) [153
 
 
 ]
@@ -2047,17 +2023,17 @@ their un-der-stood res-ig-na-tion.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 155 might be wrong on input line 48
+(multicol)                Footnotes on page 154 might be wrong on input line 48
 .
 
-[155
+[154
 
 
-] [156]) [157] (Unified_Docs.ind [158
+] [155]) [156] (Unified_Docs.ind [157
 
 
-] [159] [160] [161] [162] [163]
-[164] [165] [166] [167
+] [158] [159] [160] [161] [162]
+[163] [164] [165] [166
 
 ]) (Unified_Docs.aux (Constitution/Constitution.aux)
 (Bylaw/Bylaws.aux) (Elections/Elections_Table.aux)
@@ -2097,9 +2073,9 @@ onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (167 pages, 510181 bytes).
+Output written on Unified_Docs.pdf (166 pages, 507422 bytes).
 PDF statistics:
- 574 PDF objects out of 1000 (max. 8388607)
+ 571 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
