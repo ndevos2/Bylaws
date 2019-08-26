@@ -232,20 +232,18 @@
 \contentsline {section}{\numberline {5.14}Orientation and Social Committee}{140}
 \contentsline {subsection}{\numberline {5.14.1}Ratified}{140}
 \contentsline {subsection}{\numberline {5.14.2}Mandate}{140}
-\contentsline {subsection}{\numberline {5.14.3}Article 1: Membership}{140}
-\contentsline {subsection}{\numberline {5.14.4}Article 2: Committee Management}{140}
-\contentsline {subsection}{\numberline {5.14.5}Article 3: Fall, Winter, and Summer Orientations}{143}
-\contentsline {subsection}{\numberline {5.14.6}Article 4: Socials and Recreation}{143}
-\contentsline {subsection}{\numberline {5.14.7}Article 5: Graduate Student Life: Partnership and Outreach}{144}
-\contentsline {section}{\numberline {5.15}Policy Committtee}{145}
-\contentsline {subsection}{\numberline {5.15.1}Ratified}{145}
-\contentsline {subsection}{\numberline {5.15.2}Mandate}{145}
-\contentsline {subsection}{\numberline {5.15.3}Membership}{145}
-\contentsline {subsection}{\numberline {5.15.4}Article 2: Committee Management}{145}
-\contentsline {section}{\numberline {5.16}Sustainability Committee}{146}
-\contentsline {subsection}{\numberline {5.16.1}Ratified}{146}
-\contentsline {subsection}{\numberline {5.16.2}Mandate}{146}
-\contentsline {subsection}{\numberline {5.16.3}Article 1: Membership}{146}
-\contentsline {subsection}{\numberline {5.16.4}Article 2: Committee Responsibilities}{147}
+\contentsline {subsection}{\numberline {5.14.3}Article I: Membership}{140}
+\contentsline {subsection}{\numberline {5.14.4}Article II: Committee Management}{140}
+\contentsline {subsection}{\numberline {5.14.5}Article III: Operations}{141}
+\contentsline {section}{\numberline {5.15}Policy Committtee}{143}
+\contentsline {subsection}{\numberline {5.15.1}Ratified}{143}
+\contentsline {subsection}{\numberline {5.15.2}Mandate}{143}
+\contentsline {subsection}{\numberline {5.15.3}Membership}{143}
+\contentsline {subsection}{\numberline {5.15.4}Article 2: Committee Management}{143}
+\contentsline {section}{\numberline {5.16}Sustainability Committee}{144}
+\contentsline {subsection}{\numberline {5.16.1}Ratified}{144}
+\contentsline {subsection}{\numberline {5.16.2}Mandate}{144}
+\contentsline {subsection}{\numberline {5.16.3}Article 1: Membership}{144}
+\contentsline {subsection}{\numberline {5.16.4}Article 2: Committee Responsibilities}{145}
 \setcounter {tocdepth}{2}
-\contentsline {chapter}{\numberline {6}Speaker's Rulings}{148}
+\contentsline {chapter}{\numberline {6}Speaker's Rulings}{146}

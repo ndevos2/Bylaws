@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  25 AUG 2019 19:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  25 AUG 2019 20:16
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -1892,46 +1892,52 @@ Overfull \hbox (4.90865pt too wide) in paragraph at lines 7--8
 creational--including non-alcoholic--events
  []
 
-
-Overfull \hbox (7.06584pt too wide) in paragraph at lines 13--14
-[]\T1/lmss/m/n/12 Non-voting mem-bers: Vice-President Stu-dent Ser-vices (Of-fi
--cial Li-ai-son, Ex-officio), Pres-i-dent
- []
-
 [140
 
 
 ]
-Overfull \hbox (18.02791pt too wide) in paragraph at lines 54--56
-[]\T1/lmss/m/n/12 Shall work with the Com-mu-ni-ca-tions Ad-min-is-tra-tor to e
-n-sure the suc-cess-ful pro-mo-tion
- []
-
-[141] [142]
-Overfull \hbox (7.26782pt too wide) in paragraph at lines 109--111
-[]\T1/lmss/m/n/12 Shall in-form the Chair and Vice-President Stu-dent Ser-vices
-, and copy the Communi-
+Overfull \hbox (2.20871pt too wide) in paragraph at lines 40--41
+[]\T1/lmss/m/n/12 Non-committee mem-bers may at-tend as non-voting guests if in
+-vited by the chair. Com-mit-tee
  []
 
 
-Overfull \hbox (13.75371pt too wide) in paragraph at lines 119--120
-[]\T1/lmss/m/n/12 For de-tailed in-for-ma-tion on Ori-en-ta-tion, the Chair(s) 
-should re-fer to the OSC Chair Tran-si-tional
+Overfull \hbox (1.52751pt too wide) in paragraph at lines 59--60
+[]\T1/lmss/m/n/12 The OSC, in part-ner-ship with the Vice-President Stu-dent Se
+r-vices, Grad Club Man-ager,
  []
 
 
-Overfull \hbox (14.22519pt too wide) in paragraph at lines 133--134
-\T1/lmss/m/n/12 Well-ness Week), In-ter-na-tional Grad-u-ate Stu-dent Is-sues C
-om-mit-tee (fam-ily friendly, non-alcohol
+Overfull \hbox (1.03929pt too wide) in paragraph at lines 60--61
+[]\T1/lmss/m/n/12 The OSC will be-gin plan-ning Fall Ori-en-ta-tion in April, W
+in-ter Ori-en-ta-tion in Novem-ber,
  []
 
-[143]
-Overfull \hbox (25.10992pt too wide) in paragraph at lines 134--135
+[141]
+Overfull \hbox (6.07632pt too wide) in paragraph at lines 66--67
+\T1/lmss/m/n/12 non-alcohol fo-cused events in an ef-fort to bet-ter meet the n
+eeds/interests/demographics
+ []
+
+
+Overfull \hbox (0.54579pt too wide) in paragraph at lines 72--73
+\T1/lmss/m/n/12 for ex-am-ple, Grad Club Com-mit-tee (Stitch & Bitch), Grad-u-a
+te Peer Sup-port (Grad-u-ate
+ []
+
+
+Overfull \hbox (50.95961pt too wide) in paragraph at lines 73--74
 []\T1/lmss/m/n/12 The OSC shall en-deavor to reach out to rep-re-sen-ta-tives f
 rom Grad-u-ate As-so-ci-a-tions/Departments
  []
 
-) [144]
+
+Overfull \hbox (0.68903pt too wide) in paragraph at lines 73--74
+\T1/lmss/m/n/12 re-gard-ing Ori-en-ta-tion and so-cial events through-out the y
+ear for the pur-pose of feed-back
+ []
+
+) [142]
 \openout2 = `Committee_Documents/Policy.aux'.
 
  (Committee_Documents/Policy.tex
@@ -1940,7 +1946,7 @@ Overfull \hbox (13.429pt too wide) in paragraph at lines 32--33
 ir-per-son, and ex-officio mem-bers)
  []
 
-) [145
+) [143
 
 
 ]
@@ -1964,12 +1970,12 @@ Overfull \hbox (30.93231pt too wide) in paragraph at lines 35--36
 Com-mit-tee in-clud-ing the Chair/Co-Chairs
  []
 
-[146
+[144
 
 
-]) [147]
+]) [145]
 Chapter 6.
-[148
+[146
 
 
 ]
@@ -1981,7 +1987,7 @@ Overfull \hbox (5.09343pt too wide) in paragraph at lines 35--36
 ers of the In-ves-tiga-tive
  []
 
-[149
+[147
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1990,12 +1996,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 54.
- [150] [151]
+ [148] [149]
 Underfull \hbox (badness 10000) in paragraph at lines 87--97
 
  []
 
-) [152]
+) [150]
 \openout2 = `Rulings/Nov2014.aux'.
 
  (Rulings/Nov2014.tex
@@ -2009,7 +2015,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--40
 
  []
 
-) [153
+) [151
 
 
 ]
@@ -2023,17 +2029,17 @@ their un-der-stood res-ig-na-tion.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 154 might be wrong on input line 48
+(multicol)                Footnotes on page 152 might be wrong on input line 48
 .
 
-[154
+[152
 
 
-] [155]) [156] (Unified_Docs.ind [157
+] [153]) [154] (Unified_Docs.ind [155
 
 
-] [158] [159] [160] [161] [162]
-[163] [164] [165] [166
+] [156] [157] [158] [159] [160]
+[161] [162] [163] [164
 
 ]) (Unified_Docs.aux (Constitution/Constitution.aux)
 (Bylaw/Bylaws.aux) (Elections/Elections_Table.aux)
@@ -2073,9 +2079,9 @@ onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (166 pages, 507422 bytes).
+Output written on Unified_Docs.pdf (164 pages, 503207 bytes).
 PDF statistics:
- 571 PDF objects out of 1000 (max. 8388607)
+ 565 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
