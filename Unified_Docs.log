@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  21 JUN 2020 21:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.17)  21 JUN 2020 21:37
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -1166,60 +1166,66 @@ Overfull \hbox (5.1897pt too wide) in paragraph at lines 349--350
 -sues af-fect-ing grad-u-ate stu-dents
  []
 
-[54] [55] [56]
-LaTeX Font Info:    Try loading font information for OMS+lmss on input line 410
+[54] [55]
+Overfull \hbox (32.18266pt too wide) in paragraph at lines 396--400
+\T1/lmss/m/n/12 on Coun-cil: the Ac-count-ing Man-ager, Ad-min-is-tra-tive Co-o
+r-di-na-tor, Com-mu-ni-ca-tions Ad-min-is-tra-tor,
+ []
+
+[56]
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 411
 .
-LaTeX Font Info:    No file OMSlmss.fd. on input line 410.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 411.
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 410.
+(Font)              for symbol `textbullet' on input line 411.
 
 
-Overfull \hbox (6.74786pt too wide) in paragraph at lines 427--428
+Overfull \hbox (6.74786pt too wide) in paragraph at lines 428--429
 []\T1/lmss/m/n/12 Recuse one-self from all par-tic-i-pa-tion, in-clud-ing ad-mi
 n-is-tra-tive, in the ac-tiv-ity
  []
 
 [57] [58]
-Overfull \hbox (8.8447pt too wide) in paragraph at lines 476--479
+Overfull \hbox (8.8447pt too wide) in paragraph at lines 477--480
 []\T1/lmss/m/n/12 Any in-crease over and above the max-i-mum in-creases listed 
 above shall be in-tro-duced
  []
 
 [59] [60] [61] [62] [63] [64]
-Overfull \hbox (15.91151pt too wide) in paragraph at lines 686--687
+Overfull \hbox (15.91151pt too wide) in paragraph at lines 687--688
 []\T1/lmss/m/n/12 Filled-seat Al-ter-nate Coun-cil-lor, who re-places a Coun-ci
 l-lor from their de-part-ment/unit
  []
 
 [65]
-Overfull \hbox (1.37724pt too wide) in paragraph at lines 715--716
+Overfull \hbox (1.37724pt too wide) in paragraph at lines 716--717
 \T1/lmss/m/n/12 will be the re-sult of the cal-cu-la-tion in 2.15.3.16.2.1. mul
 -ti-plied by the de-part-ment's
  []
 
 [66] [67] [68] [69] [70]
-Overfull \hbox (10.0102pt too wide) in paragraph at lines 821--822
+Overfull \hbox (10.0102pt too wide) in paragraph at lines 822--823
 \T1/lmss/m/n/12 notwith-stand-ing the right granted by the Con-sti-tu-tion of t
 he So-ci-ety and notwith-stand-ing
  []
 
 [71]
-Overfull \hbox (4.20718pt too wide) in paragraph at lines 833--834
+Overfull \hbox (4.20718pt too wide) in paragraph at lines 834--835
 []\T1/lmss/m/n/12 A mem-ber of the Ex-ec-u-tive may be pro-hib-ited from sign-i
 ng or en-dors-ing con-tracts
  []
 
 [72] [73]
-Overfull \hbox (28.99516pt too wide) in paragraph at lines 851--851
+Overfull \hbox (28.99516pt too wide) in paragraph at lines 852--852
 |[]\T1/lmss/bx/n/17.28 Dissemination of Amend-ments to the So-ci-ety's Gov-ern-
 ing
  []
 
 
-Overfull \hbox (10.42212pt too wide) in paragraph at lines 856--857
+Overfull \hbox (10.42212pt too wide) in paragraph at lines 857--858
 []\T1/lmss/m/n/12 Enforcement of amend-ments dur-ing the Im-ple-men-ta-tion Pha
 se shall be lim-ited to cor-rec-tions
  []
@@ -2134,7 +2140,7 @@ onts/type1/public/lm/lmss17.pfb><C:/Users/April/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/lm/lmss8.pfb><C:/Users/April/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/April/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (170 pages, 514434 bytes).
+Output written on Unified_Docs.pdf (170 pages, 514583 bytes).
 PDF statistics:
  584 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
