@@ -66,7 +66,7 @@
 \contentsline {subsection}{\numberline {2.6.4}Councillor By-elections}{40}%
 \contentsline {section}{\numberline {2.7}Recall}{41}%
 \contentsline {subsection}{\numberline {2.7.1}General}{41}%
-\contentsline {subsection}{\numberline {2.7.2}Jurisdiction}{41}%
+\contentsline {subsection}{\numberline {2.7.2}Jurisdiction}{42}%
 \contentsline {subsection}{\numberline {2.7.3}Recall of the President}{42}%
 \contentsline {subsection}{\numberline {2.7.4}Recall of Executive, Non-Executive Officers and Committee \hfill \break Chairpersons}{43}%
 \contentsline {subsection}{\numberline {2.7.5}Recall of Councillors}{43}%
