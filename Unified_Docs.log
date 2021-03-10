@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 MAR 2021 14:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 MAR 2021 14:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1393,6 +1393,12 @@ Overfull \hbox (3.74823pt too wide) in paragraph at lines 58--60
  us-ing their own ini-tia-tive
  []
 
+
+Overfull \hbox (1.65332pt too wide) in paragraph at lines 77--78
+[]\T1/lmss/m/n/12 Warning ^^U the CRO shall is-sue a warn-ing to the can-di-dat
+e via email re-gard-ing
+ []
+
 [89]) [90]
 \openout2 = `Operations_Policy/Minutes_2018.aux'.
 
@@ -2132,7 +2138,7 @@ Here is how much of TeX's memory you used:
  30716 multiletter control sequences out of 15000+600000
  596557 words of font info for 60 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
- 68i,8n,83p,1108b,570s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,8n,83p,1108b,543s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/tex
 mf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2020/texmf-dist/fonts/
 enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/
@@ -2142,7 +2148,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (170 pages, 453978 bytes).
+Output written on Unified_Docs.pdf (170 pages, 454289 bytes).
 PDF statistics:
  613 PDF objects out of 1000 (max. 8388607)
  412 compressed objects within 5 object streams
