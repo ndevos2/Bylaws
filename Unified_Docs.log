@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 MAR 2021 18:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 MAR 2021 19:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1558,7 +1558,7 @@ a-tions, an on-line (web-based)
 \openout2 = `Committee_Documents/BSC.aux'.
 
  (./Committee_Documents/BSC.tex
-Overfull \hbox (5.23022pt too wide) in paragraph at lines 40--41
+Overfull \hbox (5.23022pt too wide) in paragraph at lines 39--40
 []\T1/lmss/m/n/12 Aside from the sched-uled meet-ings, on-line vot-ing is also 
 per-mit-ted on the con-di-tion
  []
@@ -1567,19 +1567,19 @@ per-mit-ted on the con-di-tion
 
 
 ]
-Overfull \hbox (15.26486pt too wide) in paragraph at lines 43--44
+Overfull \hbox (15.26486pt too wide) in paragraph at lines 42--43
 []\T1/lmss/m/n/12 Non-committee mem-bers may at-tend as non-voting guests if in
 -vited by the chair. Com-mit-tee
  []
 
 [109]
-Overfull \hbox (9.79591pt too wide) in paragraph at lines 75--76
+Overfull \hbox (9.79591pt too wide) in paragraph at lines 74--75
 []\T1/lmss/m/n/12 Additional Cir-cum-stances (20%): de-fined as the abil-ity to
  fol-low in-struc-tions
  []
 
 
-Overfull \hbox (9.79591pt too wide) in paragraph at lines 88--89
+Overfull \hbox (9.79591pt too wide) in paragraph at lines 87--88
 []\T1/lmss/m/n/12 Additional Cir-cum-stances (20%): de-fined as the abil-ity to
  fol-low in-struc-tions
  []
@@ -2130,7 +2130,11 @@ Overfull \hbox (13.1581pt too wide) in paragraph at lines 469--470
 (./Committee_Documents/IGSIC.aux) (./Committee_Documents/OSC.aux)
 (./Committee_Documents/Policy.aux) (./Committee_Documents/Sustainability.aux)
 (./Rulings/July2013.aux) (./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux)
-(./Rulings/Nov2019.aux) (./Rulings/Nov2019b.aux)) ) 
+(./Rulings/Nov2019.aux) (./Rulings/Nov2019b.aux))
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  15412 strings out of 480608
  305256 string characters out of 5903631
@@ -2139,16 +2143,15 @@ Here is how much of TeX's memory you used:
  596557 words of font info for 60 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
  68i,8n,83p,1108b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/tex
-mf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2020/texmf-dist/fonts/
-enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/
-lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
-.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr
-/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/tex
-live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
-exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
-t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (170 pages, 454720 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2020/
+texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dis
+t/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2020/texmf-dist/fonts/ty
+pe1/public/lm/lmss12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
+/lm/lmss17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss8.
+pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></us
+r/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
+Output written on Unified_Docs.pdf (170 pages, 454709 bytes).
 PDF statistics:
  613 PDF objects out of 1000 (max. 8388607)
  412 compressed objects within 5 object streams
