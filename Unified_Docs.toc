@@ -233,7 +233,7 @@
 \contentsline {subsection}{\numberline {5.14.1}Ratified}{142}%
 \contentsline {subsection}{\numberline {5.14.2}Mandate}{142}%
 \contentsline {subsection}{\numberline {5.14.3}Article I: Membership}{142}%
-\contentsline {subsection}{\numberline {5.14.4}Article II: Committee Management}{143}%
+\contentsline {subsection}{\numberline {5.14.4}Article II: Committee Management}{142}%
 \contentsline {subsection}{\numberline {5.14.5}Article III: Operations}{143}%
 \contentsline {section}{\numberline {5.15}Policy Committtee}{145}%
 \contentsline {subsection}{\numberline {5.15.1}Ratified}{145}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  12 MAR 2021 17:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  20 MAR 2021 12:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1925,47 +1925,53 @@ Overfull \hbox (4.90865pt too wide) in paragraph at lines 7--8
 creational--including non-alcoholic--events
  []
 
+
+Overfull \hbox (24.2692pt too wide) in paragraph at lines 19--20
+[]\T1/lmss/m/n/12 A mem-ber-ship limit, set at fif-teen (15) vot-ing mem-bers, 
+in-clud-ing the Chair-per-son(s); 
+ []
+
 [142
 
 
 ]
-Overfull \hbox (2.20871pt too wide) in paragraph at lines 40--41
+Overfull \hbox (2.20871pt too wide) in paragraph at lines 35--36
 []\T1/lmss/m/n/12 Non-committee mem-bers may at-tend as non-voting guests if in
 -vited by the chair. Com-mit-tee
  []
 
 
-Overfull \hbox (1.52751pt too wide) in paragraph at lines 59--60
+Overfull \hbox (1.52751pt too wide) in paragraph at lines 53--54
 []\T1/lmss/m/n/12 The OSC, in part-ner-ship with the Vice-President Stu-dent Se
 r-vices, Grad Club Man-ager,
  []
 
 
-Overfull \hbox (1.03929pt too wide) in paragraph at lines 60--61
+Overfull \hbox (1.03929pt too wide) in paragraph at lines 54--55
 []\T1/lmss/m/n/12 The OSC will be-gin plan-ning Fall Ori-en-ta-tion in April, W
 in-ter Ori-en-ta-tion in Novem-ber,
  []
 
 [143]
-Overfull \hbox (6.07632pt too wide) in paragraph at lines 66--67
+Overfull \hbox (6.07632pt too wide) in paragraph at lines 60--61
 \T1/lmss/m/n/12 non-alcohol fo-cused events in an ef-fort to bet-ter meet the n
 eeds/interests/demographics
  []
 
 
-Overfull \hbox (0.54579pt too wide) in paragraph at lines 72--73
+Overfull \hbox (0.54579pt too wide) in paragraph at lines 66--67
 \T1/lmss/m/n/12 for ex-am-ple, Grad Club Com-mit-tee (Stitch & Bitch), Grad-u-a
 te Peer Sup-port (Grad-u-ate
  []
 
 
-Overfull \hbox (50.95961pt too wide) in paragraph at lines 73--74
+Overfull \hbox (50.95961pt too wide) in paragraph at lines 67--68
 []\T1/lmss/m/n/12 The OSC shall en-deavor to reach out to rep-re-sen-ta-tives f
 rom Grad-u-ate As-so-ci-a-tions/Departments
  []
 
 
-Overfull \hbox (0.68903pt too wide) in paragraph at lines 73--74
+Overfull \hbox (0.68903pt too wide) in paragraph at lines 67--68
 \T1/lmss/m/n/12 re-gard-ing Ori-en-ta-tion and so-cial events through-out the y
 ear for the pur-pose of feed-back
  []
@@ -2148,7 +2154,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (170 pages, 454851 bytes).
+Output written on Unified_Docs.pdf (170 pages, 454860 bytes).
 PDF statistics:
  613 PDF objects out of 1000 (max. 8388607)
  412 compressed objects within 5 object streams
