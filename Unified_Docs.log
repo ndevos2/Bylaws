@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  20 MAR 2021 12:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  20 MAR 2021 14:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1931,52 +1931,70 @@ Overfull \hbox (24.2692pt too wide) in paragraph at lines 19--20
 in-clud-ing the Chair-per-son(s); 
  []
 
+
+Overfull \hbox (7.60649pt too wide) in paragraph at lines 37--38
+[]\T1/lmss/m/n/12 Committee mem-bers (in-clud-ing the Of-fi-cial Li-ai-son, Cha
+ir-per-son(s), and ex-officio
+ []
+
 [142
 
 
 ]
-Overfull \hbox (2.20871pt too wide) in paragraph at lines 35--36
-[]\T1/lmss/m/n/12 Non-committee mem-bers may at-tend as non-voting guests if in
--vited by the chair. Com-mit-tee
+Overfull \hbox (5.00612pt too wide) in paragraph at lines 60--61
+[]\T1/lmss/m/n/12 Coordinate with the Chair-per-son(s) for SOGS mer-chan-dise o
+r-der pick-ups; 
+ []
+
+[143]
+Overfull \hbox (19.48224pt too wide) in paragraph at lines 90--91
+[]\T1/lmss/m/n/12 Submit each com-mit-tee mem-ber's name for re-ratification at
+ the Septem-ber
  []
 
 
-Overfull \hbox (1.52751pt too wide) in paragraph at lines 53--54
+Overfull \hbox (2.29767pt too wide) in paragraph at lines 91--92
+[]\T1/lmss/m/n/12 Liaise with the Vice-Presidents, Com-mis-sion-ers, Non-Execut
+ive Of-fi-cers,
+ []
+
+[144]
+Overfull \hbox (1.52751pt too wide) in paragraph at lines 121--122
 []\T1/lmss/m/n/12 The OSC, in part-ner-ship with the Vice-President Stu-dent Se
 r-vices, Grad Club Man-ager,
  []
 
 
-Overfull \hbox (1.03929pt too wide) in paragraph at lines 54--55
+Overfull \hbox (1.03929pt too wide) in paragraph at lines 122--123
 []\T1/lmss/m/n/12 The OSC will be-gin plan-ning Fall Ori-en-ta-tion in April, W
 in-ter Ori-en-ta-tion in Novem-ber,
  []
 
-[143]
-Overfull \hbox (6.07632pt too wide) in paragraph at lines 60--61
+
+Overfull \hbox (6.07632pt too wide) in paragraph at lines 128--129
 \T1/lmss/m/n/12 non-alcohol fo-cused events in an ef-fort to bet-ter meet the n
 eeds/interests/demographics
  []
 
-
-Overfull \hbox (0.54579pt too wide) in paragraph at lines 66--67
+[145]
+Overfull \hbox (0.54579pt too wide) in paragraph at lines 134--135
 \T1/lmss/m/n/12 for ex-am-ple, Grad Club Com-mit-tee (Stitch & Bitch), Grad-u-a
 te Peer Sup-port (Grad-u-ate
  []
 
 
-Overfull \hbox (50.95961pt too wide) in paragraph at lines 67--68
+Overfull \hbox (50.95961pt too wide) in paragraph at lines 135--136
 []\T1/lmss/m/n/12 The OSC shall en-deavor to reach out to rep-re-sen-ta-tives f
 rom Grad-u-ate As-so-ci-a-tions/Departments
  []
 
 
-Overfull \hbox (0.68903pt too wide) in paragraph at lines 67--68
+Overfull \hbox (0.68903pt too wide) in paragraph at lines 135--136
 \T1/lmss/m/n/12 re-gard-ing Ori-en-ta-tion and so-cial events through-out the y
 ear for the pur-pose of feed-back
  []
 
-) [144]
+) [146]
 \openout2 = `Committee_Documents/Policy.aux'.
 
  (./Committee_Documents/Policy.tex
@@ -1985,7 +2003,7 @@ Overfull \hbox (5.62282pt too wide) in paragraph at lines 5--6
 -tu-tion Com-mit-tee to en-sure con-sis-tency
  []
 
-[145
+[147
 
 
 ]
@@ -1994,10 +2012,10 @@ Overfull \hbox (13.429pt too wide) in paragraph at lines 43--44
 ir-per-son, and ex-officio mem-bers)
  []
 
-) [146]
+) [148]
 \openout2 = `Committee_Documents/Sustainability.aux'.
 
- (./Committee_Documents/Sustainability.tex [147
+ (./Committee_Documents/Sustainability.tex [149
 
 
 ]
@@ -2012,9 +2030,9 @@ Overfull \hbox (5.25862pt too wide) in paragraph at lines 49--50
 p-ing com-mit-tee meet-ing min-utes; 
  []
 
-) [148]
+) [150]
 Chapter 6.
-[149
+[151
 
 
 ]
@@ -2026,7 +2044,7 @@ Overfull \hbox (5.09343pt too wide) in paragraph at lines 35--36
 ers of the In-ves-tiga-tive
  []
 
-[150
+[152
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -2035,12 +2053,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 54.
- [151] [152]
+ [153] [154]
 Underfull \hbox (badness 10000) in paragraph at lines 87--97
 
  []
 
-) [153]
+) [155]
 \openout2 = `Rulings/Nov2014.aux'.
 
  (./Rulings/Nov2014.tex
@@ -2054,7 +2072,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--40
 
  []
 
-) [154
+) [156
 
 
 ]
@@ -2068,16 +2086,16 @@ their un-der-stood res-ig-na-tion.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 155 might be wrong on input line 48
+(multicol)                Footnotes on page 157 might be wrong on input line 48
 .
 
-[155
+[157
 
 
-] [156]) [157]
+] [158]) [159]
 \openout2 = `Rulings/Nov2019.aux'.
 
- (./Rulings/Nov2019.tex) [158
+ (./Rulings/Nov2019.tex) [160
 
 
 ]
@@ -2098,7 +2116,7 @@ Underfull \hbox (badness 7851) in paragraph at lines 34--35
 \T1/lmss/m/n/12 Com-mit-tee's rec-om-men-da-tions to Coun-cil
  []
 
-[159
+[161
 
 
 ]
@@ -2106,15 +2124,15 @@ Underfull \hbox (badness 6608) in paragraph at lines 37--38
 \T1/lmss/m/n/12 changes ^^Vor changes in the bud-getary
  []
 
-) [160] (./Unified_Docs.ind [161
+) [162] (./Unified_Docs.ind [163
 
 
-] [162] [163] [164] [165]
+] [164] [165] [166] [167]
 Overfull \hbox (13.1581pt too wide) in paragraph at lines 469--470
 []| \T1/lmss/m/n/12 Out-go-ing Vice-President Tran-si-tion Hon-o-raria,
  []
 
-[166] [167] [168] [169] [170
+[168] [169] [170] [171] [172
 
 ])
 \openout4 = `Unified_Docs.ent'.
@@ -2144,7 +2162,7 @@ Here is how much of TeX's memory you used:
  30716 multiletter control sequences out of 15000+600000
  596557 words of font info for 60 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
- 68i,8n,83p,1108b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,8n,83p,1108b,564s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/tex
 mf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2020/texmf-dist/fonts/
 enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/
@@ -2154,10 +2172,10 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (170 pages, 454860 bytes).
+Output written on Unified_Docs.pdf (172 pages, 458342 bytes).
 PDF statistics:
- 613 PDF objects out of 1000 (max. 8388607)
- 412 compressed objects within 5 object streams
+ 619 PDF objects out of 1000 (max. 8388607)
+ 416 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  114 words of extra memory for PDF output out of 10000 (max. 10000000)
 

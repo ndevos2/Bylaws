@@ -234,18 +234,18 @@
 \contentsline {subsection}{\numberline {5.14.2}Mandate}{142}%
 \contentsline {subsection}{\numberline {5.14.3}Article I: Membership}{142}%
 \contentsline {subsection}{\numberline {5.14.4}Article II: Committee Management}{142}%
-\contentsline {subsection}{\numberline {5.14.5}Article III: Operations}{143}%
-\contentsline {section}{\numberline {5.15}Policy Committtee}{145}%
-\contentsline {subsection}{\numberline {5.15.1}Ratified}{145}%
-\contentsline {subsection}{\numberline {5.15.2}Mandate}{145}%
-\contentsline {subsection}{\numberline {5.15.3}Membership}{145}%
-\contentsline {subsection}{\numberline {5.15.4}Article II: Committee Management}{146}%
-\contentsline {subsection}{\numberline {5.15.5}Article III: Operations}{146}%
-\contentsline {section}{\numberline {5.16}Sustainability Committee}{147}%
-\contentsline {subsection}{\numberline {5.16.1}Ratified}{147}%
-\contentsline {subsection}{\numberline {5.16.2}Mandate}{147}%
-\contentsline {subsection}{\numberline {5.16.3}Article I: Membership}{147}%
-\contentsline {subsection}{\numberline {5.16.4}Article II: Committee Responsibilities}{147}%
-\contentsline {subsection}{\numberline {5.16.5}Article III: Operations}{148}%
+\contentsline {subsection}{\numberline {5.14.5}Article III: Operations}{145}%
+\contentsline {section}{\numberline {5.15}Policy Committtee}{147}%
+\contentsline {subsection}{\numberline {5.15.1}Ratified}{147}%
+\contentsline {subsection}{\numberline {5.15.2}Mandate}{147}%
+\contentsline {subsection}{\numberline {5.15.3}Membership}{147}%
+\contentsline {subsection}{\numberline {5.15.4}Article II: Committee Management}{148}%
+\contentsline {subsection}{\numberline {5.15.5}Article III: Operations}{148}%
+\contentsline {section}{\numberline {5.16}Sustainability Committee}{149}%
+\contentsline {subsection}{\numberline {5.16.1}Ratified}{149}%
+\contentsline {subsection}{\numberline {5.16.2}Mandate}{149}%
+\contentsline {subsection}{\numberline {5.16.3}Article I: Membership}{149}%
+\contentsline {subsection}{\numberline {5.16.4}Article II: Committee Responsibilities}{149}%
+\contentsline {subsection}{\numberline {5.16.5}Article III: Operations}{150}%
 \setcounter {tocdepth}{2}
-\contentsline {chapter}{\numberline {6}Speaker's Rulings}{149}%
+\contentsline {chapter}{\numberline {6}Speaker's Rulings}{151}%
