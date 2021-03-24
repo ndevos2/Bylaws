@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  23 MAR 2021 22:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  23 MAR 2021 22:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1797,11 +1797,23 @@ Overfull \hbox (1.54124pt too wide) in paragraph at lines 23--24
 the ab-sence of the Chair-per-son. 
  []
 
+
+Overfull \hbox (5.23022pt too wide) in paragraph at lines 40--41
+[]\T1/lmss/m/n/12 Aside from the sched-uled meet-ings, on-line vot-ing is also 
+per-mit-ted on the con-di-tion
+ []
+
 [129
 
 
 ]
-Overfull \hbox (2.20871pt too wide) in paragraph at lines 43--44
+Overfull \hbox (22.79414pt too wide) in paragraph at lines 41--42
+[]\T1/lmss/m/n/12 Committee mem-bers (in-clud-ing the Of-fi-cial Li-ai-son, Cha
+ir-per-son, Deputy Chair-per-son,
+ []
+
+
+Overfull \hbox (15.26486pt too wide) in paragraph at lines 43--44
 []\T1/lmss/m/n/12 Non-committee mem-bers may at-tend as non-voting guests if in
 -vited by the chair. Com-mit-tee
  []
@@ -2196,7 +2208,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (177 pages, 469835 bytes).
+Output written on Unified_Docs.pdf (177 pages, 469844 bytes).
 PDF statistics:
  635 PDF objects out of 1000 (max. 8388607)
  427 compressed objects within 5 object streams
