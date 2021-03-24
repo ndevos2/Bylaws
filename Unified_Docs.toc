@@ -209,44 +209,44 @@
 \contentsline {subsection}{\numberline {5.9.3}Article I: Membership}{129}%
 \contentsline {subsection}{\numberline {5.9.4}Article II: Committee Management}{129}%
 \contentsline {subsection}{\numberline {5.9.5}Article III: Operations}{130}%
-\contentsline {section}{\numberline {5.10}Graduate Student Issues Committee}{131}%
-\contentsline {subsection}{\numberline {5.10.1}Ratified}{131}%
-\contentsline {subsection}{\numberline {5.10.2}Mandate}{131}%
-\contentsline {subsection}{\numberline {5.10.3}Article I: Membership}{131}%
-\contentsline {subsection}{\numberline {5.10.4}Article II: Committee Management}{131}%
-\contentsline {subsection}{\numberline {5.10.5}Article III: Operations}{132}%
-\contentsline {section}{\numberline {5.11}Graduate Student Teaching Awards (GTSA) Committee}{133}%
-\contentsline {subsection}{\numberline {5.11.1}Article I: Membership}{133}%
-\contentsline {section}{\numberline {5.12}Health Plan Committee}{134}%
-\contentsline {subsection}{\numberline {5.12.1}Ratified}{134}%
-\contentsline {subsection}{\numberline {5.12.2}Mandate}{134}%
-\contentsline {subsection}{\numberline {5.12.3}Article I: Membership}{134}%
-\contentsline {subsection}{\numberline {5.12.4}Article II: Committee Management}{135}%
-\contentsline {subsection}{\numberline {5.12.5}Article III: Operations}{137}%
-\contentsline {section}{\numberline {5.13}International Graduate Student Issues Committee}{139}%
-\contentsline {subsection}{\numberline {5.13.1}Ratified}{139}%
-\contentsline {subsection}{\numberline {5.13.2}Mandate}{139}%
-\contentsline {subsection}{\numberline {5.13.3}Article 1: Membership}{139}%
-\contentsline {subsection}{\numberline {5.13.4}Article II: Committee Management}{140}%
-\contentsline {subsection}{\numberline {5.13.5}Article III: Operations}{140}%
-\contentsline {section}{\numberline {5.14}Orientation and Social Committee}{142}%
-\contentsline {subsection}{\numberline {5.14.1}Ratified}{142}%
-\contentsline {subsection}{\numberline {5.14.2}Mandate}{142}%
-\contentsline {subsection}{\numberline {5.14.3}Article I: Membership}{142}%
-\contentsline {subsection}{\numberline {5.14.4}Article II: Committee Management}{142}%
-\contentsline {subsection}{\numberline {5.14.5}Article III: Operations}{145}%
-\contentsline {subsection}{\numberline {5.14.6}Article IV: Discord Server Management}{147}%
-\contentsline {section}{\numberline {5.15}Policy Committtee}{152}%
-\contentsline {subsection}{\numberline {5.15.1}Ratified}{152}%
-\contentsline {subsection}{\numberline {5.15.2}Mandate}{152}%
-\contentsline {subsection}{\numberline {5.15.3}Membership}{152}%
-\contentsline {subsection}{\numberline {5.15.4}Article II: Committee Management}{153}%
-\contentsline {subsection}{\numberline {5.15.5}Article III: Operations}{153}%
-\contentsline {section}{\numberline {5.16}Sustainability Committee}{154}%
-\contentsline {subsection}{\numberline {5.16.1}Ratified}{154}%
-\contentsline {subsection}{\numberline {5.16.2}Mandate}{154}%
-\contentsline {subsection}{\numberline {5.16.3}Article I: Membership}{154}%
-\contentsline {subsection}{\numberline {5.16.4}Article II: Committee Responsibilities}{154}%
-\contentsline {subsection}{\numberline {5.16.5}Article III: Operations}{155}%
+\contentsline {section}{\numberline {5.10}Graduate Student Issues Committee}{132}%
+\contentsline {subsection}{\numberline {5.10.1}Ratified}{132}%
+\contentsline {subsection}{\numberline {5.10.2}Mandate}{132}%
+\contentsline {subsection}{\numberline {5.10.3}Article I: Membership}{132}%
+\contentsline {subsection}{\numberline {5.10.4}Article II: Committee Management}{132}%
+\contentsline {subsection}{\numberline {5.10.5}Article III: Operations}{133}%
+\contentsline {section}{\numberline {5.11}Graduate Student Teaching Awards (GTSA) Committee}{134}%
+\contentsline {subsection}{\numberline {5.11.1}Article I: Membership}{134}%
+\contentsline {section}{\numberline {5.12}Health Plan Committee}{135}%
+\contentsline {subsection}{\numberline {5.12.1}Ratified}{135}%
+\contentsline {subsection}{\numberline {5.12.2}Mandate}{135}%
+\contentsline {subsection}{\numberline {5.12.3}Article I: Membership}{135}%
+\contentsline {subsection}{\numberline {5.12.4}Article II: Committee Management}{136}%
+\contentsline {subsection}{\numberline {5.12.5}Article III: Operations}{138}%
+\contentsline {section}{\numberline {5.13}International Graduate Student Issues Committee}{140}%
+\contentsline {subsection}{\numberline {5.13.1}Ratified}{140}%
+\contentsline {subsection}{\numberline {5.13.2}Mandate}{140}%
+\contentsline {subsection}{\numberline {5.13.3}Article 1: Membership}{140}%
+\contentsline {subsection}{\numberline {5.13.4}Article II: Committee Management}{141}%
+\contentsline {subsection}{\numberline {5.13.5}Article III: Operations}{141}%
+\contentsline {section}{\numberline {5.14}Orientation and Social Committee}{143}%
+\contentsline {subsection}{\numberline {5.14.1}Ratified}{143}%
+\contentsline {subsection}{\numberline {5.14.2}Mandate}{143}%
+\contentsline {subsection}{\numberline {5.14.3}Article I: Membership}{143}%
+\contentsline {subsection}{\numberline {5.14.4}Article II: Committee Management}{143}%
+\contentsline {subsection}{\numberline {5.14.5}Article III: Operations}{146}%
+\contentsline {subsection}{\numberline {5.14.6}Article IV: Discord Server Management}{148}%
+\contentsline {section}{\numberline {5.15}Policy Committtee}{153}%
+\contentsline {subsection}{\numberline {5.15.1}Ratified}{153}%
+\contentsline {subsection}{\numberline {5.15.2}Mandate}{153}%
+\contentsline {subsection}{\numberline {5.15.3}Membership}{153}%
+\contentsline {subsection}{\numberline {5.15.4}Article II: Committee Management}{154}%
+\contentsline {subsection}{\numberline {5.15.5}Article III: Operations}{154}%
+\contentsline {section}{\numberline {5.16}Sustainability Committee}{155}%
+\contentsline {subsection}{\numberline {5.16.1}Ratified}{155}%
+\contentsline {subsection}{\numberline {5.16.2}Mandate}{155}%
+\contentsline {subsection}{\numberline {5.16.3}Article I: Membership}{155}%
+\contentsline {subsection}{\numberline {5.16.4}Article II: Committee Responsibilities}{155}%
+\contentsline {subsection}{\numberline {5.16.5}Article III: Operations}{156}%
 \setcounter {tocdepth}{2}
-\contentsline {chapter}{\numberline {6}Speaker's Rulings}{156}%
+\contentsline {chapter}{\numberline {6}Speaker's Rulings}{157}%
