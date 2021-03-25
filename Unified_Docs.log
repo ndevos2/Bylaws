@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 15:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 15:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1636,24 +1636,48 @@ in two (2) months of rat-i-fi-ca-tion.
 \openout2 = `Committee_Documents/Equity.aux'.
 
  (./Committee_Documents/Equity.tex
-Overfull \hbox (1.54124pt too wide) in paragraph at lines 25--26
+Overfull \hbox (8.35838pt too wide) in paragraph at lines 14--15
+[]\T1/lmss/m/n/12 The So-ci-ety Com-mis-sion-ers sit as non-voting, ex-officio 
+mem-bers of the com-mit-tee. 
+ []
+
+
+Overfull \hbox (14.16989pt too wide) in paragraph at lines 24--25
+[]\T1/lmss/m/n/12 A Deputy Chair-per-son (if ap-pli-ca-ble), who shall as-sume 
+the du-ties of the Chair-per-son
+ []
+
+
+Overfull \hbox (1.54124pt too wide) in paragraph at lines 24--25
 \T1/lmss/m/n/12 at the dis-cre-tion of the Chair-per-son or the com-mit-tee in 
 the ab-sence of the Chair-per-son. 
+ []
+
+
+Overfull \hbox (5.23022pt too wide) in paragraph at lines 41--42
+[]\T1/lmss/m/n/12 Aside from the sched-uled meet-ings, on-line vot-ing is also 
+per-mit-ted on the con-di-tion
  []
 
 [114
 
 
 ]
-Overfull \hbox (2.20871pt too wide) in paragraph at lines 45--46
+Overfull \hbox (22.79414pt too wide) in paragraph at lines 42--43
+[]\T1/lmss/m/n/12 Committee mem-bers (in-clud-ing the Of-fi-cial Li-ai-son, Cha
+ir-per-son, Deputy Chair-per-son,
+ []
+
+
+Overfull \hbox (15.26486pt too wide) in paragraph at lines 44--45
 []\T1/lmss/m/n/12 Non-committee mem-bers may at-tend as non-voting guests if in
 -vited by the chair. Com-mit-tee
  []
 
 
-Overfull \hbox (64.11845pt too wide) in paragraph at lines 70--71
-[]\T1/lmss/m/n/12 Work in con-junc-tion with SOGS Ex-ec-u-tives to keep the web
--site (http://nats.sogs.ca./)
+Overfull \hbox (18.2713pt too wide) in paragraph at lines 59--60
+[]\T1/lmss/m/n/12 Collaborate with the In-ter-na-tional Grad-u-ate Stu-dents Is
+-sues Com-mit-tee
  []
 
 ) [115]
@@ -2292,7 +2316,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (178 pages, 471908 bytes).
+Output written on Unified_Docs.pdf (178 pages, 471937 bytes).
 PDF statistics:
  638 PDF objects out of 1000 (max. 8388607)
  429 compressed objects within 5 object streams
