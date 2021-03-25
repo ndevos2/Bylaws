@@ -201,8 +201,7 @@
 \contentsline {subsection}{\numberline {5.8.1}Ratified}{126}%
 \contentsline {subsection}{\numberline {5.8.2}Mandate}{126}%
 \contentsline {subsection}{\numberline {5.8.3}Article 1: Membership}{126}%
-\contentsline {subsection}{\numberline {5.8.4}Article II: Committee Management}{126}%
-\contentsline {subsection}{\numberline {5.8.5}Article III: Operations}{127}%
+\contentsline {subsection}{\numberline {5.8.4}Article II: Committee Management}{127}%
 \contentsline {section}{\numberline {5.9}Graduate Peer Support Committee}{129}%
 \contentsline {subsection}{\numberline {5.9.1}Ratified}{129}%
 \contentsline {subsection}{\numberline {5.9.2}Mandate}{129}%

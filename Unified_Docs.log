@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 11:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 12:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1762,27 +1762,39 @@ each-ing Awards Com-mit-tee,
 \openout2 = `Committee_Documents/Gradcast.aux'.
 
  (./Committee_Documents/Gradcast.tex
-Overfull \hbox (2.70207pt too wide) in paragraph at lines 26--27
-[]\T1/lmss/m/n/12 A mem-ber-ship limit, as per By-law 2.9.4.2.2., set at 15 vot
--ing mem-bers, in-clud-ing
+Overfull \hbox (3.19754pt too wide) in paragraph at lines 27--28
+[]\T1/lmss/m/n/12 A Pro-mo-tions, Ad-ver-tise-ment and So-cial Me-dia Man-ager,
+ who shall be re-spon-si-ble
+ []
+
+
+Overfull \hbox (2.93518pt too wide) in paragraph at lines 31--32
+\T1/lmss/m/n/12 pro-duc-tion of #GradLife seg-ments and com-mu-ni-ca-tions with
+ #GradLife Sub-com-mit-tee
  []
 
 [126
 
 
 ]
-Overfull \hbox (3.18266pt too wide) in paragraph at lines 45--46
-[]\T1/lmss/m/n/12 A Record-ing Sec-re-tary, who will be re-spon-si-ble for keep
--ing and dis-sem-i-nat-ing com-mit-tee
+Overfull \hbox (16.82396pt too wide) in paragraph at lines 48--49
+[]\T1/lmss/m/n/12 Provide in-struc-tions for con-trib-u-tors^^Vepisode pro-duce
+r(s), guest(s), and host(s)^^Vin
+ []
+
+[127]
+Overfull \hbox (3.298pt too wide) in paragraph at lines 67--68
+[]\T1/lmss/m/n/12 Aim to ap-peal to var-i-ous au-di-ences in-clud-ing other gra
+d-u-ate stu-dents, the West-ern
  []
 
 
-Overfull \hbox (2.20871pt too wide) in paragraph at lines 47--48
-[]\T1/lmss/m/n/12 Non-committee mem-bers may at-tend as non-voting guests if in
--vited by the chair. Com-mit-tee
+Overfull \hbox (7.86786pt too wide) in paragraph at lines 76--77
+[]\T1/lmss/m/n/12 Aim to in-clude a pic-ture of guests and hosts, along with a 
+brief cap-tion sum-ma-riz-ing
  []
 
-[127]) [128]
+) [128]
 \openout2 = `Committee_Documents/GPS.aux'.
 
  (./Committee_Documents/GPS.tex
@@ -2256,7 +2268,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (178 pages, 471793 bytes).
+Output written on Unified_Docs.pdf (178 pages, 471849 bytes).
 PDF statistics:
  638 PDF objects out of 1000 (max. 8388607)
  429 compressed objects within 5 object streams
