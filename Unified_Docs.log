@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 MAR 2021 00:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 MAR 2021 23:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1885,6 +1885,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 \openout2 = `Committee_Documents/HPC.aux'.
 
  (./Committee_Documents/HPC.tex
+Overfull \hbox (1.00533pt too wide) in paragraph at lines 27--28
+[]\T1/lmss/m/n/12 A mem-ber-ship limit, as per By-law 2.9.4.2.2., set at 12 vot
+-ing mem-bers, in-clud-ing
+ []
+
+
 Overfull \hbox (3.15952pt too wide) in paragraph at lines 29--30
 \T1/lmss/m/n/12 and SOGS Ac-count-ing Man-ager (Ex-officio), and Com-mu-ni-ca-t
 ions Ad-min-is-tra-tor (Ex-officio)
@@ -1894,50 +1900,68 @@ ions Ad-min-is-tra-tor (Ex-officio)
 
 
 ]
-Overfull \hbox (0.37486pt too wide) in paragraph at lines 53--54
-[]\T1/lmss/m/n/12 oversee the ad-mi-nis-tra-tion of the Health Plan in con-sul-
-ta-tion with the Pres-i-dent,
+Overfull \hbox (7.07092pt too wide) in paragraph at lines 39--40
+[]\T1/lmss/m/n/12 Committee mem-bers (in-clud-ing the Of-fi-cial Li-ai-son, Cha
+ir(s), Deputy Chair-per-son
  []
 
 
-Overfull \hbox (16.58841pt too wide) in paragraph at lines 55--56
+Overfull \hbox (6.35231pt too wide) in paragraph at lines 46--47
+[]\T1/lmss/m/n/12 be a sign-ing au-thor-ity on the Health Plan Con-tract with t
+he Vice-President
+ []
+
+
+Overfull \hbox (49.88033pt too wide) in paragraph at lines 55--56
 []\T1/lmss/m/n/12 work with the Ac-count-ing Man-ager, Ad-min-is-tra-tive As-si
 s-tant, and Com-mu-ni-ca-tions
  []
 
+
+Overfull \hbox (2.17668pt too wide) in paragraph at lines 63--64
+[]\T1/lmss/m/n/12 distribute Com-mit-tee min-utes via the HPC list-serv as per 
+By-law 2.9.2.8.1; 
+ []
+
 [136]
-Overfull \hbox (7.26334pt too wide) in paragraph at lines 77--78
+Overfull \hbox (5.56659pt too wide) in paragraph at lines 78--79
 []\T1/lmss/m/n/12 The Com-mu-ni-ca-tions Ad-min-is-tra-tor shall over-see the H
 PC list-serv and com-mit-tee
  []
 
 
-Overfull \hbox (32.39136pt too wide) in paragraph at lines 82--83
+Overfull \hbox (34.57208pt too wide) in paragraph at lines 83--84
 []\T1/lmss/m/n/12 If the Chair-per-son is tem-porar-ily un-able to com-plete th
 e roles and re-spon-si-bil-i-ties
  []
 
 
-Overfull \hbox (0.4182pt too wide) in paragraph at lines 95--96
-\T1/lmss/m/n/12 Chair-per-son. Com-mit-tee mem-bers may also re-quest that non-
-committee mem-bers
+Overfull \hbox (19.9581pt too wide) in paragraph at lines 95--96
+[]\T1/lmss/m/n/12 The Vice-President Stu-dent Ser-vices will store HPC min-utes
+ and rel-e-vant doc-u-ments
  []
 
 [137]
-Overfull \hbox (39.70763pt too wide) in paragraph at lines 131--154
-[][] 
+Overfull \hbox (27.1925pt too wide) in paragraph at lines 122--123
+[]\T1/lmss/m/n/12 The HPC shall act in ac-cor-dance with So-ci-ety by-laws on "
+Pro-cure-ment." 
  []
 
 [138]
-Overfull \hbox (49.96152pt too wide) in paragraph at lines 168--170
-[]\T1/lmss/m/n/12 Other -- 5% (Dis-counts, Net-work, Bur-saries, Spon-sor-ship,
- Pro-mo-tional, Com-mu-ni-ca-tion,
+Overfull \hbox (67.1036pt too wide) in paragraph at lines 135--158
+[][] 
  []
 
 
-Overfull \hbox (2.34149pt too wide) in paragraph at lines 168--170
-\T1/lmss/m/n/12 Ad-min-is-tra-tive, Data An-a-lyt-ics, Flex Plans, Men-tal heal
-th/Wellness ini-tia-tives,
+Overfull \hbox (20.23836pt too wide) in paragraph at lines 169--171
+[]\T1/lmss/m/n/12 other -- 5% (Dis-counts, Net-work, Bur-saries, Spon-sor-ship,
+ Pro-mo-tional,
+ []
+
+
+Overfull \hbox (32.8496pt too wide) in paragraph at lines 169--171
+\T1/lmss/m/n/12 Com-mu-ni-ca-tion, Ad-min-is-tra-tive, Data An-a-lyt-ics, Flex 
+Plans, Men-tal health/Wellness
  []
 
 ) [139]
@@ -2220,25 +2244,28 @@ Overfull \hbox (13.1581pt too wide) in paragraph at lines 469--470
 (./Committee_Documents/IGSIC.aux) (./Committee_Documents/OSC.aux)
 (./Committee_Documents/Policy.aux) (./Committee_Documents/Sustainability.aux)
 (./Rulings/July2013.aux) (./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux)
-(./Rulings/Nov2019.aux) (./Rulings/Nov2019b.aux)) ) 
+(./Rulings/Nov2019.aux) (./Rulings/Nov2019b.aux))
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  15412 strings out of 480608
  305256 string characters out of 5903631
- 565713 words of memory out of 5000000
+ 565715 words of memory out of 5000000
  30716 multiletter control sequences out of 15000+600000
  596557 words of font info for 60 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
  68i,8n,83p,1108b,660s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/tex
-mf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2020/texmf-dist/fonts/
-enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/
-lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
-.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr
-/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/tex
-live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
-exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
-t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (178 pages, 471008 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2020/
+texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dis
+t/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2020/texmf-dist/fonts/ty
+pe1/public/lm/lmss12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
+/lm/lmss17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss8.
+pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></us
+r/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
+Output written on Unified_Docs.pdf (178 pages, 471089 bytes).
 PDF statistics:
  638 PDF objects out of 1000 (max. 8388607)
  429 compressed objects within 5 object streams
