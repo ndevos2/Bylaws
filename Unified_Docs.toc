@@ -215,7 +215,8 @@
 \contentsline {subsection}{\numberline {5.10.4}Article II: Committee Management}{133}%
 \contentsline {subsection}{\numberline {5.10.5}Article III: Operations}{134}%
 \contentsline {section}{\numberline {5.11}Graduate Student Teaching Awards (GTSA) Committee}{135}%
-\contentsline {subsection}{\numberline {5.11.1}Article I: Membership}{135}%
+\contentsline {subsection}{\numberline {5.11.1}Mandate}{135}%
+\contentsline {subsection}{\numberline {5.11.2}Article I: Membership}{135}%
 \contentsline {section}{\numberline {5.12}Health Plan Committee}{136}%
 \contentsline {subsection}{\numberline {5.12.1}Ratified}{136}%
 \contentsline {subsection}{\numberline {5.12.2}Mandate}{136}%
