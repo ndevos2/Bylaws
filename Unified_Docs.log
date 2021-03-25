@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 16:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2261,24 +2261,36 @@ Overfull \hbox (10.33463pt too wide) in paragraph at lines 59--60
 ) [155]
 \openout2 = `Committee_Documents/Sustainability.aux'.
 
- (./Committee_Documents/Sustainability.tex [156
+ (./Committee_Documents/Sustainability.tex
+Overfull \hbox (1.00533pt too wide) in paragraph at lines 26--27
+[]\T1/lmss/m/n/12 A mem-ber-ship limit, as per By-law 2.9.4.2.2., set at 12 vot
+-ing mem-bers, in-clud-ing
+ []
+
+[156
 
 
 ]
-Overfull \hbox (2.20871pt too wide) in paragraph at lines 43--44
-[]\T1/lmss/m/n/12 Non-committee mem-bers may at-tend as non-voting guests if in
--vited by the chair. Com-mit-tee
+Overfull \hbox (15.86652pt too wide) in paragraph at lines 48--49
+[]\T1/lmss/m/n/12 Promotions, Ad-ver-tise-ment, and So-cial Me-dia Man-ager(s),
+ who shall be re-spon-si-ble
  []
 
 
-Overfull \hbox (5.25862pt too wide) in paragraph at lines 49--50
-[]\T1/lmss/m/n/12 A Record-ing Sec-re-tary, who shall be re-spon-si-ble for kee
-p-ing com-mit-tee meet-ing min-utes; 
+Overfull \hbox (7.53793pt too wide) in paragraph at lines 62--63
+[]\T1/lmss/m/n/12 Collaborate where ap-pro-pri-ate with other stu-dent groups t
+o pro-mote sus-tain-abil-ity
  []
 
-) [157]
+
+Overfull \hbox (12.33553pt too wide) in paragraph at lines 63--64
+[]\T1/lmss/m/n/12 Collaborate where ap-pro-pri-ate with Fa-cil-i-ties Man-age-m
+ent, Sus-tain-abil-ity West-ern,
+ []
+
+[157]) [158]
 Chapter 6.
-[158
+[159
 
 
 ]
@@ -2290,7 +2302,7 @@ Overfull \hbox (5.09343pt too wide) in paragraph at lines 35--36
 ers of the In-ves-tiga-tive
  []
 
-[159
+[160
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -2299,12 +2311,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 54.
- [160] [161]
+ [161] [162]
 Underfull \hbox (badness 10000) in paragraph at lines 87--97
 
  []
 
-) [162]
+) [163]
 \openout2 = `Rulings/Nov2014.aux'.
 
  (./Rulings/Nov2014.tex
@@ -2318,7 +2330,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--40
 
  []
 
-) [163
+) [164
 
 
 ]
@@ -2332,16 +2344,16 @@ their un-der-stood res-ig-na-tion.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 164 might be wrong on input line 48
+(multicol)                Footnotes on page 165 might be wrong on input line 48
 .
 
-[164
+[165
 
 
-] [165]) [166]
+] [166]) [167]
 \openout2 = `Rulings/Nov2019.aux'.
 
- (./Rulings/Nov2019.tex) [167
+ (./Rulings/Nov2019.tex) [168
 
 
 ]
@@ -2362,7 +2374,7 @@ Underfull \hbox (badness 7851) in paragraph at lines 34--35
 \T1/lmss/m/n/12 Com-mit-tee's rec-om-men-da-tions to Coun-cil
  []
 
-[168
+[169
 
 
 ]
@@ -2370,15 +2382,15 @@ Underfull \hbox (badness 6608) in paragraph at lines 37--38
 \T1/lmss/m/n/12 changes ^^Vor changes in the bud-getary
  []
 
-) [169] (./Unified_Docs.ind [170
+) [170] (./Unified_Docs.ind [171
 
 
-] [171] [172] [173] [174]
+] [172] [173] [174] [175]
 Overfull \hbox (13.1581pt too wide) in paragraph at lines 469--470
 []| \T1/lmss/m/n/12 Out-go-ing Vice-President Tran-si-tion Hon-o-raria,
  []
 
-[175] [176] [177] [178] [179
+[176] [177] [178] [179] [180
 
 ])
 \openout4 = `Unified_Docs.ent'.
@@ -2418,10 +2430,10 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (179 pages, 472357 bytes).
+Output written on Unified_Docs.pdf (180 pages, 472661 bytes).
 PDF statistics:
- 641 PDF objects out of 1000 (max. 8388607)
- 431 compressed objects within 5 object streams
+ 644 PDF objects out of 1000 (max. 8388607)
+ 433 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  114 words of extra memory for PDF output out of 10000 (max. 10000000)
 
