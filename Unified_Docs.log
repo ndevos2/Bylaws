@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 12:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 15:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1522,18 +1522,30 @@ Overfull \hbox (8.23073pt too wide) in paragraph at lines 7--8
 he man-date of the Aca-demic Com-mit-tee
  []
 
+
+Overfull \hbox (5.23022pt too wide) in paragraph at lines 40--41
+[]\T1/lmss/m/n/12 Aside from the sched-uled meet-ings, on-line vot-ing is also 
+per-mit-ted on the con-di-tion
+ []
+
 [105
 
 ]
-Overfull \hbox (2.20871pt too wide) in paragraph at lines 43--44
+Overfull \hbox (15.26486pt too wide) in paragraph at lines 43--44
 []\T1/lmss/m/n/12 Non-committee mem-bers may at-tend as non-voting guests if in
 -vited by the chair. Com-mit-tee
  []
 
 
-Overfull \hbox (9.70464pt too wide) in paragraph at lines 51--52
-[]\T1/lmss/m/n/12 Communication Of-fi-cer(s), who will be re-spon-si-ble for ma
-in-tain-ing con-tact with po-ten-tial
+Overfull \hbox (1.05945pt too wide) in paragraph at lines 48--49
+[]\T1/lmss/m/n/12 Promotions, Ad-ver-tise-ment and So-cial Me-dia Man-ager(s), 
+who will be re-spon-si-ble
+ []
+
+
+Overfull \hbox (6.43854pt too wide) in paragraph at lines 65--66
+[]\T1/lmss/m/n/12 Aiming to ap-peal to var-i-ous au-di-ences at the WRF, in-clu
+d-ing un-der-grad-u-ate
  []
 
 
@@ -1543,15 +1555,27 @@ y cam-pus, and the gen-eral
  []
 
 [106]
-Overfull \hbox (12.28696pt too wide) in paragraph at lines 74--75
-[]\T1/lmss/m/n/12 April: WRF de-brief (the Aca-demic Com-mit-tee) and Schol-ar-
-ship@Western plat-form
+Overfull \hbox (5.95721pt too wide) in paragraph at lines 72--73
+[]\T1/lmss/m/n/12 February: Fi-nal-ize itinerary for WRF (e.g., con-firm speak-
+ers and pre-sen-ters) 
  []
 
 
-Overfull \hbox (8.00279pt too wide) in paragraph at lines 78--79
-[]\T1/lmss/m/n/12 In an ef-fort to pro-mote en-vi-ron-men-tally friendly op-er-
-a-tions, an on-line (web-based)
+Overfull \hbox (4.90642pt too wide) in paragraph at lines 79--80
+[]\T1/lmss/m/n/12 Abstracts will be sub-mit-ted and re-viewed through the Schol
+-ar-ship@Western
+ []
+
+
+Overfull \hbox (6.50285pt too wide) in paragraph at lines 81--82
+[]\T1/lmss/m/n/12 Conference pro-ceed-ings, ab-stracts, pho-tos, and any sup-pl
+e-men-tary ma-te-rial
+ []
+
+
+Overfull \hbox (5.42671pt too wide) in paragraph at lines 81--82
+\T1/lmss/m/n/12 will be up-loaded to the Schol-ar-ship@Western web-site within 
+two (2) weeks fol-low-ing
  []
 
 ) [107]
@@ -1587,23 +1611,23 @@ Overfull \hbox (9.79591pt too wide) in paragraph at lines 86--87
 [110]) [111]
 \openout2 = `Committee_Documents/BCC.aux'.
 
- (./Committee_Documents/BCC.tex
-Overfull \hbox (0.75473pt too wide) in paragraph at lines 24--25
-[]\T1/lmss/m/n/12 Membership, in-clud-ing the Chair-per-son and Deputy Chair-pe
-r-son, but ex-clud-ing the ex-officio
- []
-
-[112
+ (./Committee_Documents/BCC.tex [112
 
 
 ]
-Overfull \hbox (13.85995pt too wide) in paragraph at lines 34--35
-\T1/lmss/m/n/12 Com-mit-tee mem-bers may also re-quest that non-committee mem-b
-ers at-tend as non-voting
+Overfull \hbox (5.23022pt too wide) in paragraph at lines 40--41
+[]\T1/lmss/m/n/12 Aside from the sched-uled meet-ings, on-line vot-ing is also 
+per-mit-ted on the con-di-tion
  []
 
 
-Overfull \hbox (5.05095pt too wide) in paragraph at lines 56--57
+Overfull \hbox (7.7827pt too wide) in paragraph at lines 54--55
+[]\T1/lmss/m/n/12 In ac-cor-dance with the Con-sti-tu-tion of the So-ci-ety (1.
+8.3), amend-ments to the Con-sti-tu-tion
+ []
+
+
+Overfull \hbox (5.05095pt too wide) in paragraph at lines 54--55
 \T1/lmss/m/n/12 re-spec-tive doc-u-ment and an-nounced to the mem-ber-ship with
 in two (2) months of rat-i-fi-ca-tion. 
  []
@@ -2254,7 +2278,7 @@ Overfull \hbox (13.1581pt too wide) in paragraph at lines 469--470
 Here is how much of TeX's memory you used:
  15412 strings out of 480608
  305256 string characters out of 5903631
- 565713 words of memory out of 5000000
+ 565712 words of memory out of 5000000
  30716 multiletter control sequences out of 15000+600000
  596557 words of font info for 60 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
@@ -2268,7 +2292,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (178 pages, 471849 bytes).
+Output written on Unified_Docs.pdf (178 pages, 471908 bytes).
 PDF statistics:
  638 PDF objects out of 1000 (max. 8388607)
  429 compressed objects within 5 object streams
