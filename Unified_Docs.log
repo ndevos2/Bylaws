@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 15:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 15:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1749,28 +1749,46 @@ Overfull \hbox (0.80847pt too wide) in paragraph at lines 71--72
 ) [118]
 \openout2 = `Committee_Documents/Finance.aux'.
 
- (./Committee_Documents/Finance.tex [119
+ (./Committee_Documents/Finance.tex
+Overfull \hbox (15.95671pt too wide) in paragraph at lines 21--22
+[]\T1/lmss/m/n/12 have the au-thor-ity to ap-point mem-bers to the com-mit-tee,
+ for a non-renewable
+ []
+
+
+Overfull \hbox (6.62271pt too wide) in paragraph at lines 37--38
+[]\T1/lmss/m/n/12 Maintain com-mit-tee records, in-clud-ing this Pol-icy doc-u-
+ment, in a repos-i-tory
+ []
+
+[119
 
 
 ]
+Overfull \hbox (7.47336pt too wide) in paragraph at lines 51--52
+[]\T1/lmss/m/n/12 Shall mon-i-tor the long-term in-vest-ments of the So-ci-ety 
+and make rec-om-men-da-tions
+ []
+
+
 Overfull \hbox (28.04501pt too wide) in paragraph at lines 60--60
 |[]\T1/lmss/bx/n/14.4 Article 3: Bud-get Prepa-ra-tion, Man-age-ment, and Fi-na
 n-cial Re-port-ing| 
  []
 
-
-Overfull \hbox (29.20258pt too wide) in paragraph at lines 65--66
-[]\T1/lmss/m/n/12 The FC shall con-sider and de-lib-er-ate the bud-get and shal
-l make sub-se-quent rec-om-men-da-tions
- []
-
-
+[120]
 Overfull \hbox (24.01183pt too wide) in paragraph at lines 75--76
 \T1/lmss/m/n/12 non-executive of-fi-cers and shall in-clude the fol-low-ing in-
 for-ma-tion: name of pro-gram/project,
  []
 
-[120]) [121]
+
+Overfull \hbox (15.80656pt too wide) in paragraph at lines 91--92
+[]\T1/lmss/m/n/12 Contract ten-der-ing shall fol-low the SOGS Quo-ta-tion and T
+en-der-ing pol-icy doc-u-ment. 
+ []
+
+) [121]
 \openout2 = `Committee_Documents/GCC.aux'.
 
  (./Committee_Documents/GCC.tex [122
@@ -2352,7 +2370,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (178 pages, 471979 bytes).
+Output written on Unified_Docs.pdf (178 pages, 472094 bytes).
 PDF statistics:
  638 PDF objects out of 1000 (max. 8388607)
  429 compressed objects within 5 object streams
