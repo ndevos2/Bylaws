@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 16:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 16:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2099,25 +2099,55 @@ Plans, Men-tal health/Wellness
 ) [140]
 \openout2 = `Committee_Documents/IGSIC.aux'.
 
- (./Committee_Documents/IGSIC.tex [141
+ (./Committee_Documents/IGSIC.tex
+Overfull \hbox (1.00533pt too wide) in paragraph at lines 27--28
+[]\T1/lmss/m/n/12 A mem-ber-ship limit, as per By-law 2.9.4.2.2., set at 20 vot
+-ing mem-bers, in-clud-ing
+ []
+
+[141
 
 
 ]
-Overfull \hbox (2.20871pt too wide) in paragraph at lines 39--40
-[]\T1/lmss/m/n/12 Non-committee mem-bers may at-tend as non-voting guests if in
--vited by the chair. Com-mit-tee
+Overfull \hbox (28.66913pt too wide) in paragraph at lines 40--41
+[]\T1/lmss/m/n/12 Committee mem-bers (in-clud-ing the Of-fi-cial Li-ai-son, Cha
+ir-per-son, Deputy Chair-per-son,
+ []
+
+
+Overfull \hbox (3.5409pt too wide) in paragraph at lines 58--59
+\T1/lmss/m/n/12 events in an ef-fort to bet-ter meet the needs/interests of in-
+ter-na-tional grad-u-ate stu-dents; 
  []
 
 [142]
-Overfull \hbox (17.90111pt too wide) in paragraph at lines 56--57
-[]\T1/lmss/m/n/12 host at cost and/or sub-si-dized off-campus trips each month 
-of the sum-mer for in-ter-na-tional
+Overfull \hbox (7.95395pt too wide) in paragraph at lines 65--66
+[]\T1/lmss/m/n/12 endeavor to part-ner with other SOGS Com-mit-tees when-ever p
+os-si-ble; for ex-am-ple,
  []
 
 
-Overfull \hbox (4.65784pt too wide) in paragraph at lines 63--64
+Overfull \hbox (8.759pt too wide) in paragraph at lines 66--67
+[]\T1/lmss/m/n/12 endeavour (through the Vice-President Stu-dent Ser-vices) to 
+part-ner with grad-u-ate
+ []
+
+
+Overfull \hbox (4.65784pt too wide) in paragraph at lines 66--67
 \T1/lmss/m/n/12 stu-dent stake-hold-ers (e.g. Grad-u-ate Stu-dent Life Ad-vi-so
 ry Group) for IGSIC Ori-en-ta-tion
+ []
+
+
+Overfull \hbox (13.45802pt too wide) in paragraph at lines 70--71
+[]\T1/lmss/m/n/12 when pos-si-ble, part-ner with SOGS, PSAC 610, and the Cana-d
+ian Fed-er-a-tion
+ []
+
+
+Overfull \hbox (8.63237pt too wide) in paragraph at lines 72--73
+[]\T1/lmss/m/n/12 to host at least one In-ter-na-tional grad-u-ate stu-dent spe
+-cific Tax In-for-ma-tion
  []
 
 ) [143]
@@ -2388,7 +2418,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (179 pages, 472296 bytes).
+Output written on Unified_Docs.pdf (179 pages, 472357 bytes).
 PDF statistics:
  641 PDF objects out of 1000 (max. 8388607)
  431 compressed objects within 5 object streams
