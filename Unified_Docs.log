@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 15:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 MAR 2021 15:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1684,33 +1684,69 @@ Overfull \hbox (18.2713pt too wide) in paragraph at lines 59--60
 \openout2 = `Committee_Documents/Executive.aux'.
 
  (./Committee_Documents/Executive.tex
-Overfull \hbox (6.70847pt too wide) in paragraph at lines 17--20
-[]\T1/lmss/m/n/12 Committee Archiv-ing: In ac-cor-dance with By-law 2.15.4.4, t
-he Com-mu-ni-ca-tions Ad-min-is-tra-tor
+Overfull \hbox (8.83115pt too wide) in paragraph at lines 12--13
+[]\T1/lmss/m/n/12 Other vot-ing mem-bers: Vice-President Aca-demic, Vice-Presid
+ent Ad-vo-cacy, Vice-President
  []
 
 
-Overfull \hbox (1.48244pt too wide) in paragraph at lines 36--37
-[]\T1/lmss/m/n/12 Shall en-deav-our to sup-port the Vice-Presidents with their 
-projects while en-sur-ing
+Overfull \hbox (19.76462pt too wide) in paragraph at lines 17--20
+[]\T1/lmss/m/n/12 Committee Archiv-ing: In ac-cor-dance with By-law 2.15.4.4, t
+he Com-mu-ni-ca-tions Ad-min-is-tra-tor
  []
 
 [116
 
 
 ]
+Overfull \hbox (23.0066pt too wide) in paragraph at lines 37--38
+[]\T1/lmss/m/n/12 Shall en-deav-our to reg-u-larly in-clude the Ac-count-ing Ma
+n-ager, Com-mu-ni-ca-tions
+ []
+
+
+Overfull \hbox (6.71803pt too wide) in paragraph at lines 40--41
+[]\T1/lmss/m/n/12 Shall en-deav-our to col-lab-o-rate with the Vice-Presidents 
+to ad-dress West-ern,
+ []
+
+
+Overfull \hbox (14.1862pt too wide) in paragraph at lines 47--48
+[]\T1/lmss/m/n/12 Shall re-port back to their re-spec-tive com-mit-tees with EC
+ ques-tions/feedback. 
+ []
+
+
+Overfull \hbox (23.0066pt too wide) in paragraph at lines 49--50
+[]\T1/lmss/m/n/12 Shall en-deav-our to reg-u-larly in-clude the Ac-count-ing Ma
+n-ager, Com-mu-ni-ca-tions
+ []
+
+
 Overfull \hbox (3.53616pt too wide) in paragraph at lines 49--50
 \T1/lmss/m/n/12 Ad-min-is-tra-tor, and Ad-min-is-tra-tive Co-or-di-na-tor in ma
 t-ters per-tain-ing to the run-ning
  []
 
 
-Overfull \hbox (2.55966pt too wide) in paragraph at lines 51--52
-[]\T1/lmss/m/n/12 Shall en-deav-our to col-lab-o-rate with the Pres-i-dent to a
-d-dress West-ern, mu-nic-i-pal,
+Overfull \hbox (10.48868pt too wide) in paragraph at lines 50--51
+[]\T1/lmss/m/n/12 Shall en-deav-our to form strong part-ner-ships with their fe
+l-low Vice-Presidents
  []
 
-[117]) [118]
+
+Overfull \hbox (10.59386pt too wide) in paragraph at lines 62--63
+[]\T1/lmss/m/n/12 The SOGS Om-budsper-son should then im-me-di-ately be con-tac
+ted to seek res-o-lu-tion. 
+ []
+
+[117]
+Overfull \hbox (0.80847pt too wide) in paragraph at lines 71--72
+[]\T1/lmss/m/n/12 Bring forth their con-cern to the other mem-bers of the EC to
+ seek feed-back. 
+ []
+
+) [118]
 \openout2 = `Committee_Documents/Finance.aux'.
 
  (./Committee_Documents/Finance.tex [119
@@ -2316,7 +2352,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (178 pages, 471937 bytes).
+Output written on Unified_Docs.pdf (178 pages, 471979 bytes).
 PDF statistics:
  638 PDF objects out of 1000 (max. 8388607)
  429 compressed objects within 5 object streams
