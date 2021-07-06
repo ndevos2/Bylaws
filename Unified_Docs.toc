@@ -89,13 +89,13 @@
 \contentsline {subsubsection}{\numberline {2.9.5.6}The Graduate Club Committee (GCC)}{50}%
 \contentsline {subsubsection}{\numberline {2.9.5.7}The International Graduate Students' Issues Committee (IGSIC)}{51}%
 \contentsline {subsubsection}{\numberline {2.9.5.8}The Orientation and Social Committee (OSC)}{51}%
-\contentsline {subsubsection}{\numberline {2.9.5.9}GradCast Editorial Board}{52}%
+\contentsline {subsubsection}{\numberline {2.9.5.9}GradCast Editorial Board}{51}%
 \contentsline {subsubsection}{\numberline {2.9.5.10}The Graduate Student Issues Committee}{52}%
 \contentsline {subsubsection}{\numberline {2.9.5.11}The Policy Committee}{52}%
-\contentsline {subsubsection}{\numberline {2.9.5.12}Equity Issues Committee}{53}%
+\contentsline {subsubsection}{\numberline {2.9.5.12}Equity Issues Committee}{52}%
 \contentsline {subsubsection}{\numberline {2.9.5.13}Health Plan Committee (HPC)}{53}%
 \contentsline {subsubsection}{\numberline {2.9.5.14}Sustainability Committee (SC)}{53}%
-\contentsline {subsubsection}{\numberline {2.9.5.15}Graduate Peer Support (GPS) Committee}{54}%
+\contentsline {subsubsection}{\numberline {2.9.5.15}Graduate Peer Support (GPS) Committee}{53}%
 \contentsline {subsection}{\numberline {2.9.6}Commissions}{54}%
 \contentsline {subsubsection}{\numberline {2.9.6.1}General}{54}%
 \contentsline {subsubsection}{\numberline {2.9.6.2}Women's Concern Commission}{54}%
