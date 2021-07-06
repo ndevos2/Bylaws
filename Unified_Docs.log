@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 JUL 2021 16:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 JUL 2021 16:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1062,30 +1062,30 @@ at an act of cam-paign im-pro-pri-ety
  []
 
 [33]) [34]
-Overfull \hbox (0.40962pt too wide) in paragraph at lines 454--456
+Overfull \hbox (0.40962pt too wide) in paragraph at lines 452--454
 []\T1/lmss/m/n/12 Nominations for all Vice-Presidential po-si-tions shall close
  at the Coun-cil pack-age dead-line.
  []
 
 [35] [36] [37] [38]
-Overfull \hbox (0.6631pt too wide) in paragraph at lines 575--576
+Overfull \hbox (0.6631pt too wide) in paragraph at lines 573--574
 []\T1/lmss/m/n/12 by a mem-ber elected Speaker pro tem at a Coun-cil meet-ing. 
 The Pres-i-dent
  []
 
 [39] [40] [41]
-Underfull \hbox (badness 10000) in paragraph at lines 684--685
+Underfull \hbox (badness 10000) in paragraph at lines 682--683
 
  []
 
 
-Overfull \hbox (9.18173pt too wide) in paragraph at lines 687--688
+Overfull \hbox (9.18173pt too wide) in paragraph at lines 685--686
 []\T1/lmss/m/n/12 Departments or Pro-grams with-out a duly con-sti-tuted Grad-u
 -ate Stu-dent As-so-ci-a-tion
  []
 
 [42] [43]
-Overfull \hbox (9.53683pt too wide) in paragraph at lines 763--764
+Overfull \hbox (9.53683pt too wide) in paragraph at lines 761--762
 []\T1/lmss/m/n/12 The po-si-tion va-cated by re-call shall be filled ac-cord-in
 g to the ap-pro-pri-ate by-election
  []
@@ -2424,7 +2424,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (180 pages, 472702 bytes).
+Output written on Unified_Docs.pdf (180 pages, 472745 bytes).
 PDF statistics:
  644 PDF objects out of 1000 (max. 8388607)
  433 compressed objects within 5 object streams

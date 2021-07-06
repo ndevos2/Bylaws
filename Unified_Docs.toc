@@ -56,9 +56,10 @@
 \contentsline {subsection}{\numberline {2.4.11}Validity}{34}%
 \contentsline {subsection}{\numberline {2.4.12}Campaign Expenses and Subsidy}{34}%
 \contentsline {section}{\numberline {2.5}Other Elections}{35}%
-\contentsline {subsection}{\numberline {2.5.1}Vice--Presidents}{35}%
-\contentsline {subsection}{\numberline {2.5.2}Speaker}{35}%
-\contentsline {subsection}{\numberline {2.5.3}Commissioners}{35}%
+\contentsline {subsection}{\numberline {2.5.1}General}{35}%
+\contentsline {subsection}{\numberline {2.5.2}Vice--Presidents}{35}%
+\contentsline {subsection}{\numberline {2.5.3}Speaker}{35}%
+\contentsline {subsection}{\numberline {2.5.4}Commissioners}{35}%
 \contentsline {section}{\numberline {2.6}Exceptional Circumstances}{37}%
 \contentsline {subsection}{\numberline {2.6.1}By--Election}{37}%
 \contentsline {subsection}{\numberline {2.6.2}Executive and Non-Executive Officers}{38}%
