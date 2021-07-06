@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 JUL 2021 16:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 JUL 2021 16:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -632,31 +632,20 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 (./Unified_Docs.aux (./Constitution/Constitution.aux) (./Bylaw/Bylaws.aux)
 (./Elections/Elections_Table.aux) (./Bylaw/Bylaws_Post_Election_Table.aux)
 (./Operations_Policy/Conflict_of_Interest.aux)
-No file Operations_Policy/Discipline_Code_2018.aux.
-(./Operations_Policy/Elections.aux)
-No file Operations_Policy/Minutes_2018.aux.
+(./Operations_Policy/Discipline_Code_2018.aux)
+(./Operations_Policy/Elections.aux) (./Operations_Policy/Minutes_2018.aux)
 (./Operations_Policy/Procurement.aux)
-No file Position_Statements/Position_Statements.aux.
-No file Committee_Documents/Academic.aux.
-No file Committee_Documents/BSC.aux.
-(./Committee_Documents/BCC.aux)
-No file Committee_Documents/Equity.aux.
-No file Committee_Documents/Executive.aux.
-No file Committee_Documents/Finance.aux.
-No file Committee_Documents/GCC.aux.
-No file Committee_Documents/Gradcast.aux.
-No file Committee_Documents/GPS.aux.
-No file Committee_Documents/GSIC.aux.
-(./Committee_Documents/GSTA.aux)
-No file Committee_Documents/HPC.aux.
-No file Committee_Documents/IGSIC.aux.
-No file Committee_Documents/OSC.aux.
-No file Committee_Documents/Policy.aux.
-No file Committee_Documents/Sustainability.aux.
+(./Position_Statements/Position_Statements.aux)
+(./Committee_Documents/Academic.aux) (./Committee_Documents/BSC.aux)
+(./Committee_Documents/BCC.aux) (./Committee_Documents/Equity.aux)
+(./Committee_Documents/Executive.aux) (./Committee_Documents/Finance.aux)
+(./Committee_Documents/GCC.aux) (./Committee_Documents/Gradcast.aux)
+(./Committee_Documents/GPS.aux) (./Committee_Documents/GSIC.aux)
+(./Committee_Documents/GSTA.aux) (./Committee_Documents/HPC.aux)
+(./Committee_Documents/IGSIC.aux) (./Committee_Documents/OSC.aux)
+(./Committee_Documents/Policy.aux) (./Committee_Documents/Sustainability.aux)
 (./Rulings/July2013.aux) (./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux)
-No file Rulings/Nov2019.aux.
-No file Rulings/Nov2019b.aux.
-)
+(./Rulings/Nov2019.aux) (./Rulings/Nov2019b.aux))
 \openout1 = `Unified_Docs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
@@ -2419,10 +2408,10 @@ Overfull \hbox (13.1581pt too wide) in paragraph at lines 469--470
 (./Rulings/July2013.aux) (./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux)
 (./Rulings/Nov2019.aux) (./Rulings/Nov2019b.aux)) ) 
 Here is how much of TeX's memory you used:
- 15355 strings out of 480608
- 303509 string characters out of 5903631
- 553314 words of memory out of 5000000
- 30697 multiletter control sequences out of 15000+600000
+ 15412 strings out of 480608
+ 305256 string characters out of 5903631
+ 565712 words of memory out of 5000000
+ 30716 multiletter control sequences out of 15000+600000
  596557 words of font info for 60 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
  68i,8n,83p,1108b,660s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2435,7 +2424,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (180 pages, 472679 bytes).
+Output written on Unified_Docs.pdf (180 pages, 472689 bytes).
 PDF statistics:
  644 PDF objects out of 1000 (max. 8388607)
  433 compressed objects within 5 object streams
