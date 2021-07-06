@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 JUL 2021 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 JUL 2021 16:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2133,9 +2133,9 @@ ry Group) for IGSIC Ori-en-ta-tion
  []
 
 
-Overfull \hbox (13.45802pt too wide) in paragraph at lines 70--71
-[]\T1/lmss/m/n/12 when pos-si-ble, part-ner with SOGS, PSAC 610, and the Cana-d
-ian Fed-er-a-tion
+Overfull \hbox (21.14978pt too wide) in paragraph at lines 70--71
+\T1/lmss/m/n/12 the Cana-dian Fed-er-a-tion of Stu-dents (CFS) to en-hance the 
+ex-pe-ri-ences of in-ter-na-tional
  []
 
 
@@ -2424,7 +2424,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (180 pages, 472689 bytes).
+Output written on Unified_Docs.pdf (180 pages, 472702 bytes).
 PDF statistics:
  644 PDF objects out of 1000 (max. 8388607)
  433 compressed objects within 5 object streams
