@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 JUL 2021 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 JUL 2021 17:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2187,55 +2187,55 @@ ive Of-fi-cers,
  []
 
 [146]
-Overfull \hbox (7.11028pt too wide) in paragraph at lines 108--109
+Overfull \hbox (7.11028pt too wide) in paragraph at lines 114--115
 []\T1/lmss/m/n/12 Subsidize 50%-100% of the vol-un-teer ticket for off-campus O
 SC trips (de-ter-mined
  []
 
 
-Overfull \hbox (41.78441pt too wide) in paragraph at lines 116--117
+Overfull \hbox (41.78441pt too wide) in paragraph at lines 122--123
 \T1/lmss/m/n/12 and/or non-alcohol fo-cused events in an ef-fort to bet-ter mee
 t the needs/interests/demographics
  []
 
 
-Overfull \hbox (26.99661pt too wide) in paragraph at lines 122--123
+Overfull \hbox (26.99661pt too wide) in paragraph at lines 128--129
 \T1/lmss/m/n/12 Man-ager, and other SOGS Executives/Non-Executive Of-fi-cers/Co
 mmissioners/Committees,
  []
 
-[147]
-Overfull \hbox (0.29579pt too wide) in paragraph at lines 163--164
+[147] [148]
+Overfull \hbox (0.29579pt too wide) in paragraph at lines 169--170
 []\T1/lmss/m/n/12 Endeavour to so-licit game feed-back from grad-u-ate stu-dent
 s when look-ing
  []
 
-[148]
-Overfull \hbox (8.83676pt too wide) in paragraph at lines 173--174
+
+Overfull \hbox (8.83676pt too wide) in paragraph at lines 179--180
 []\T1/lmss/m/n/12 Handle com-pil-ing or-der data and co-or-di-nat-ing or-der pi
 ck-up in con-sul-ta-tion
  []
 
 
-Overfull \hbox (26.2827pt too wide) in paragraph at lines 181--182
+Overfull \hbox (26.2827pt too wide) in paragraph at lines 187--188
 \T1/lmss/m/n/12 Grad Club Com-mit-tee, Grad-u-ate Peer Sup-port (Grad-u-ate Wel
 l-ness Week), In-ter-na-tional
  []
 
-
-Overfull \hbox (10.04333pt too wide) in paragraph at lines 200--201
+[149]
+Overfull \hbox (10.04333pt too wide) in paragraph at lines 206--207
 []\T1/lmss/m/n/12 Commissioners shall have Ad-min-is-tra-tor Priv-i-leges over 
 their con-stituency's
  []
 
-[149]
-Overfull \hbox (1.99571pt too wide) in paragraph at lines 219--220
+
+Overfull \hbox (1.99571pt too wide) in paragraph at lines 225--226
 []\T1/lmss/m/n/12 Notwithstanding the above, the OSC and the mod-er-a-tion team
  may en-force the fol-low-ing
  []
 
 [150]
-Overfull \hbox (5.98753pt too wide) in paragraph at lines 263--264
+Overfull \hbox (5.98753pt too wide) in paragraph at lines 269--270
 []\T1/lmss/m/n/12 Only with a mod-er-a-tion team dis-cus-sion (at least two), c
 an the rep-ri-mands
  []
@@ -2424,7 +2424,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (180 pages, 472805 bytes).
+Output written on Unified_Docs.pdf (180 pages, 473160 bytes).
 PDF statistics:
  644 PDF objects out of 1000 (max. 8388607)
  433 compressed objects within 5 object streams
