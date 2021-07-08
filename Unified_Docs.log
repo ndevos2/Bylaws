@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  8 JUL 2021 16:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  8 JUL 2021 18:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2229,27 +2229,45 @@ ckup in con-sul-ta-tion
  []
 
 [149]
-Overfull \hbox (10.04333pt too wide) in paragraph at lines 224--225
+Overfull \hbox (4.18384pt too wide) in paragraph at lines 214--215
+[]\T1/lmss/m/n/12 How to con-tact the OSC and co-or-di-nate with the So-ci-ety 
+(in-clud-ing
+ []
+
+
+Overfull \hbox (8.2725pt too wide) in paragraph at lines 234--235
+[]\T1/lmss/m/n/12 If an ap-pli-cant was un-able to find ten (10) in-ter-ested g
+rad stu-dents, the com-mit-tee
+ []
+
+
+Overfull \hbox (2.03363pt too wide) in paragraph at lines 248--249
+[]\T1/lmss/m/n/12 Clubs that de-cide to dis-band must first give no-tice to all
+ in-ac-tive mem-bers
+ []
+
+[150]
+Overfull \hbox (10.04333pt too wide) in paragraph at lines 284--285
 []\T1/lmss/m/n/12 Commissioners shall have Ad-min-is-tra-tor Priv-i-leges over 
 their con-stituency's
  []
 
-
-Overfull \hbox (1.99571pt too wide) in paragraph at lines 243--244
+[151]
+Overfull \hbox (1.99571pt too wide) in paragraph at lines 303--304
 []\T1/lmss/m/n/12 Notwithstanding the above, the OSC and the mod-er-a-tion team
  may en-force the fol-low-ing
  []
 
-[150]
-Overfull \hbox (5.98753pt too wide) in paragraph at lines 287--288
+[152]
+Overfull \hbox (5.98753pt too wide) in paragraph at lines 347--348
 []\T1/lmss/m/n/12 Only with a mod-er-a-tion team dis-cus-sion (at least two), c
 an the rep-ri-mands
  []
 
-[151] [152]) [153]
+[153] [154]) [155]
 \openout2 = `Committee_Documents/Policy.aux'.
 
- (./Committee_Documents/Policy.tex [154
+ (./Committee_Documents/Policy.tex [156
 
 
 ]
@@ -2258,7 +2276,7 @@ Overfull \hbox (10.33463pt too wide) in paragraph at lines 59--60
  Per-son-nel Pol-icy, Fi-nan-cial
  []
 
-) [155]
+) [157]
 \openout2 = `Committee_Documents/Sustainability.aux'.
 
  (./Committee_Documents/Sustainability.tex
@@ -2267,7 +2285,7 @@ Overfull \hbox (1.00533pt too wide) in paragraph at lines 26--27
 -ing mem-bers, in-clud-ing
  []
 
-[156
+[158
 
 
 ]
@@ -2288,9 +2306,9 @@ Overfull \hbox (12.33553pt too wide) in paragraph at lines 63--64
 ent, Sus-tain-abil-ity West-ern,
  []
 
-[157]) [158]
+[159]) [160]
 Chapter 6.
-[159
+[161
 
 
 ]
@@ -2302,7 +2320,7 @@ Overfull \hbox (5.09343pt too wide) in paragraph at lines 35--36
 ers of the In-ves-tiga-tive
  []
 
-[160
+[162
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -2311,12 +2329,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 54.
- [161] [162]
+ [163] [164]
 Underfull \hbox (badness 10000) in paragraph at lines 87--97
 
  []
 
-) [163]
+) [165]
 \openout2 = `Rulings/Nov2014.aux'.
 
  (./Rulings/Nov2014.tex
@@ -2330,7 +2348,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--40
 
  []
 
-) [164
+) [166
 
 
 ]
@@ -2344,16 +2362,16 @@ their un-der-stood res-ig-na-tion.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 165 might be wrong on input line 48
+(multicol)                Footnotes on page 167 might be wrong on input line 48
 .
 
-[165
+[167
 
 
-] [166]) [167]
+] [168]) [169]
 \openout2 = `Rulings/Nov2019.aux'.
 
- (./Rulings/Nov2019.tex) [168
+ (./Rulings/Nov2019.tex) [170
 
 
 ]
@@ -2374,7 +2392,7 @@ Underfull \hbox (badness 7851) in paragraph at lines 34--35
 \T1/lmss/m/n/12 Com-mit-tee's rec-om-men-da-tions to Coun-cil
  []
 
-[169
+[171
 
 
 ]
@@ -2382,15 +2400,15 @@ Underfull \hbox (badness 6608) in paragraph at lines 37--38
 \T1/lmss/m/n/12 changes ^^Vor changes in the bud-getary
  []
 
-) [170] (./Unified_Docs.ind [171
+) [172] (./Unified_Docs.ind [173
 
 
-] [172] [173] [174] [175]
+] [174] [175] [176] [177]
 Overfull \hbox (13.1581pt too wide) in paragraph at lines 469--470
 []| \T1/lmss/m/n/12 Out-go-ing Vice-President Tran-si-tion Hon-o-raria,
  []
 
-[176] [177] [178] [179] [180
+[178] [179] [180] [181] [182
 
 ])
 \openout4 = `Unified_Docs.ent'.
@@ -2430,10 +2448,10 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (180 pages, 473142 bytes).
+Output written on Unified_Docs.pdf (182 pages, 476491 bytes).
 PDF statistics:
- 644 PDF objects out of 1000 (max. 8388607)
- 433 compressed objects within 5 object streams
+ 652 PDF objects out of 1000 (max. 8388607)
+ 439 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  114 words of extra memory for PDF output out of 10000 (max. 10000000)
 
