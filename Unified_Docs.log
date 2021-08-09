@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  8 JUL 2021 23:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  9 AUG 2021 12:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -900,6 +900,12 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 4--9
 
 
 ]
+Overfull \hbox (4.24371pt too wide) in paragraph at lines 25--26
+[]\T1/lmss/m/n/12 are in-formed that re-mu-ner-a-tion is avail-able for a com-m
+it-tee chair, but is de-pen-dent
+ []
+
+
 Overfull \hbox (11.30719pt too wide) in paragraph at lines 33--34
 []\T1/lmss/m/n/12 shall not oc-cupy a vot-ing po-si-tion on any com-mit-tee, ex
 -cept-ing ex--officio vot-ing per-mis-sions
@@ -923,13 +929,13 @@ Overfull \hbox (8.7719pt too wide) in paragraph at lines 80--83
 all Ex-ec-u-tive Of-fi-cers, Com-mis-sion-ers
  []
 
-
+[20]
 Overfull \hbox (8.4994pt too wide) in paragraph at lines 95--96
 []\T1/lmss/m/n/12 shall rec-om-mend, in con-sul-ta-tion with the cor-re-spond-i
 ng ex-ec-u-tive mem-bers, the award-ing
  []
 
-[20]
+
 Overfull \hbox (12.06393pt too wide) in paragraph at lines 117--118
 []\T1/lmss/m/n/12 shall en-sure rep-re-sen-ta-tion of grad-u-ate stu-dent in-te
 r-ests and con-cerns with academic-related
@@ -2442,7 +2448,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (182 pages, 475594 bytes).
+Output written on Unified_Docs.pdf (182 pages, 475669 bytes).
 PDF statistics:
  652 PDF objects out of 1000 (max. 8388607)
  439 compressed objects within 5 object streams
