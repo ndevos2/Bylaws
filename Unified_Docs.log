@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 AUG 2021 19:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 AUG 2021 19:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1352,43 +1352,43 @@ Overfull \hbox (18.09604pt too wide) in paragraph at lines 12--13
 
 
 ]
-Overfull \hbox (1.26022pt too wide) in paragraph at lines 24--25
+Overfull \hbox (1.26022pt too wide) in paragraph at lines 25--26
 []\T1/lmss/m/n/12 In the event that the elected Pres-i-dent is a de-part-men-ta
 l or part-time rep-re-sen-ta-tive,
  []
 
 
-Overfull \hbox (2.63312pt too wide) in paragraph at lines 24--25
+Overfull \hbox (2.63312pt too wide) in paragraph at lines 25--26
 \T1/lmss/m/n/12 de-part-men-tal rep-re-sen-ta-tive, Speaker or other Ex-ec-u-ti
 ve mem-ber while be-ing Pres-i-dent. 
  []
 
 
-Overfull \hbox (0.748pt too wide) in paragraph at lines 25--26
+Overfull \hbox (0.748pt too wide) in paragraph at lines 26--27
 []\T1/lmss/m/n/12 Actual trans-fer of sign-ing au-thor-ity and re-spon-si-bil-i
 -ties of the Of-fice of the Pres-i-dent
  []
 
 
-Overfull \hbox (0.72375pt too wide) in paragraph at lines 39--40
+Overfull \hbox (0.72375pt too wide) in paragraph at lines 40--41
 []\T1/lmss/m/n/12 At that meet-ing an agree-ment will be signed by all par-ties
  wherein they ac-knowl-edge
  []
 
 [87]
-Overfull \hbox (9.02791pt too wide) in paragraph at lines 55--56
+Overfull \hbox (9.02791pt too wide) in paragraph at lines 56--57
 []\T1/lmss/m/n/12 The polling pe-riod shall be de-ter-mined by the CRO, in ac-c
 or-dance
  []
 
-
-Overfull \hbox (3.74823pt too wide) in paragraph at lines 92--94
+[88]
+Overfull \hbox (3.74823pt too wide) in paragraph at lines 93--95
 []\T1/lmss/m/n/12 No can-di-date/referendum group or in-di-vid-ual mem-ber may,
  us-ing their own ini-tia-tive
  []
 
-[88]
-Overfull \hbox (1.65332pt too wide) in paragraph at lines 111--112
+
+Overfull \hbox (1.65332pt too wide) in paragraph at lines 112--113
 []\T1/lmss/m/n/12 Warning ^^U the CRO shall is-sue a warn-ing to the can-di-dat
 e via email re-gard-ing
  []
@@ -2424,11 +2424,7 @@ Overfull \hbox (13.1581pt too wide) in paragraph at lines 469--470
 (./Committee_Documents/IGSIC.aux) (./Committee_Documents/OSC.aux)
 (./Committee_Documents/Policy.aux) (./Committee_Documents/Sustainability.aux)
 (./Rulings/July2013.aux) (./Rulings/Nov2014.aux) (./Rulings/Nov2017.aux)
-(./Rulings/Nov2019.aux) (./Rulings/Nov2019b.aux))
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(./Rulings/Nov2019.aux) (./Rulings/Nov2019b.aux)) ) 
 Here is how much of TeX's memory you used:
  15412 strings out of 480608
  305256 string characters out of 5903631
@@ -2437,15 +2433,16 @@ Here is how much of TeX's memory you used:
  596557 words of font info for 60 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
  68i,8n,83p,1108b,654s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2020/
-texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dis
-t/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2020/texmf-dist/fonts/ty
-pe1/public/lm/lmss12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
-/lm/lmss17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss8.
-pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></us
-r/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (182 pages, 475757 bytes).
+{/usr/local/texlive/2020/tex
+mf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2020/texmf-dist/fonts/
+enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/
+lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
+.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr
+/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/tex
+live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
+exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
+t/fonts/type1/public/lm/lmsso12.pfb>
+Output written on Unified_Docs.pdf (182 pages, 476024 bytes).
 PDF statistics:
  652 PDF objects out of 1000 (max. 8388607)
  439 compressed objects within 5 object streams
