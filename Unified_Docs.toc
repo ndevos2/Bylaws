@@ -51,8 +51,7 @@
 \contentsline {subsection}{\numberline {2.4.6}Campaigning}{32}%
 \contentsline {subsection}{\numberline {2.4.7}Transition}{32}%
 \contentsline {subsection}{\numberline {2.4.8}Campaign Impropriety and Appeals}{33}%
-\contentsline {subsection}{\numberline {2.4.9}Validity}{33}%
-\contentsline {subsection}{\numberline {2.4.10}Campaign Expenses and Subsidy}{33}%
+\contentsline {subsection}{\numberline {2.4.9}Campaign Expenses and Subsidy}{33}%
 \contentsline {section}{\numberline {2.5}Other Elections}{34}%
 \contentsline {subsection}{\numberline {2.5.1}General}{34}%
 \contentsline {subsection}{\numberline {2.5.2}Vice--Presidents}{34}%
