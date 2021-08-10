@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 AUG 2021 17:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 AUG 2021 18:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1050,19 +1050,19 @@ Overfull \hbox (0.85223pt too wide) in paragraph at lines 31--32
  []
 
 [31]
-Overfull \hbox (1.64688pt too wide) in paragraph at lines 96--99
+Overfull \hbox (1.64688pt too wide) in paragraph at lines 97--100
 []\T1/lmss/m/n/12 A se-cret bal-lot shall be held fol-low-ing the close of the 
 cam-paign pe-riod, for the Pres-i-den-tial
  []
 
 [32]
-Overfull \hbox (6.73157pt too wide) in paragraph at lines 116--121
+Overfull \hbox (6.73157pt too wide) in paragraph at lines 117--122
 []\T1/lmss/m/n/12 The Pres-i-den-tial elec-tion and all ref-er-enda shall have 
 no quo-rum un-less oth-er-wise man-dated
  []
 
 
-Overfull \hbox (7.90782pt too wide) in paragraph at lines 151--152
+Overfull \hbox (7.90782pt too wide) in paragraph at lines 152--153
 \T1/lmss/m/n/12 Im-pro-pri-ety and Ap-peals), where the CRO has de-ter-mined th
 at an act of cam-paign im-pro-pri-ety
  []
@@ -2448,7 +2448,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (182 pages, 475732 bytes).
+Output written on Unified_Docs.pdf (182 pages, 475742 bytes).
 PDF statistics:
  652 PDF objects out of 1000 (max. 8388607)
  439 compressed objects within 5 object streams
