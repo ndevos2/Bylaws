@@ -49,209 +49,207 @@
 \contentsline {subsection}{\numberline {2.4.4}Graduate Student Representative to the Board of Governor and Graduate Student Representative to the Senate Election Rules}{32}%
 \contentsline {subsection}{\numberline {2.4.5}Presidential Election-specific Rules}{32}%
 \contentsline {subsection}{\numberline {2.4.6}Campaigning}{32}%
-\contentsline {subsection}{\numberline {2.4.7}Voting}{32}%
-\contentsline {subsection}{\numberline {2.4.8}Counting Ballots}{33}%
-\contentsline {subsection}{\numberline {2.4.9}Transition}{33}%
-\contentsline {subsection}{\numberline {2.4.10}Campaign Impropriety and Appeals}{33}%
-\contentsline {subsection}{\numberline {2.4.11}Validity}{34}%
-\contentsline {subsection}{\numberline {2.4.12}Campaign Expenses and Subsidy}{34}%
-\contentsline {section}{\numberline {2.5}Other Elections}{35}%
-\contentsline {subsection}{\numberline {2.5.1}General}{35}%
-\contentsline {subsection}{\numberline {2.5.2}Vice--Presidents}{35}%
-\contentsline {subsection}{\numberline {2.5.3}Speaker}{35}%
-\contentsline {subsection}{\numberline {2.5.4}Commissioners}{35}%
-\contentsline {section}{\numberline {2.6}Exceptional Circumstances}{37}%
-\contentsline {subsection}{\numberline {2.6.1}Exceptional Circumstances}{37}%
-\contentsline {subsection}{\numberline {2.6.2}By--Election}{37}%
-\contentsline {subsection}{\numberline {2.6.3}Executive and Non-Executive Officers}{38}%
-\contentsline {subsection}{\numberline {2.6.4}Non-Presidential By-Elections}{39}%
-\contentsline {subsection}{\numberline {2.6.5}Councillor By-elections}{40}%
-\contentsline {section}{\numberline {2.7}Recall}{41}%
-\contentsline {subsection}{\numberline {2.7.1}General}{41}%
-\contentsline {subsection}{\numberline {2.7.2}Jurisdiction}{42}%
-\contentsline {subsection}{\numberline {2.7.3}Recall of the President}{42}%
-\contentsline {subsection}{\numberline {2.7.4}Recall of Executive, Non-Executive Officers and Committee \hfill \break Chairpersons}{43}%
-\contentsline {subsection}{\numberline {2.7.5}Recall of Councillors}{43}%
-\contentsline {subsection}{\numberline {2.7.6}Recall of Members of the Appeals Review Commission}{44}%
-\contentsline {subsection}{\numberline {2.7.7}Recall of Committee Membership}{44}%
-\contentsline {section}{\numberline {2.8}Elections Table}{45}%
-\contentsline {section}{\numberline {2.9}Committees of the Society}{46}%
-\contentsline {subsection}{\numberline {2.9.1}Creating and Disbanding}{46}%
-\contentsline {subsection}{\numberline {2.9.2}Duties of the Chairperson}{46}%
-\contentsline {subsection}{\numberline {2.9.3}General}{47}%
-\contentsline {subsection}{\numberline {2.9.4}Committee Policies}{48}%
-\contentsline {subsection}{\numberline {2.9.5}Standing Committees}{48}%
-\contentsline {subsubsection}{\numberline {2.9.5.1}The Academic Committee}{48}%
-\contentsline {subsubsection}{\numberline {2.9.5.2}The Graduate Student Teaching Awards Committee}{48}%
-\contentsline {subsubsection}{\numberline {2.9.5.3}The Bylaws and Constitution Committee (BCC)}{49}%
-\contentsline {subsubsection}{\numberline {2.9.5.4}The Finance Committee (FC)}{50}%
-\contentsline {subsubsection}{\numberline {2.9.5.5}The Bursary and Subsidy Committee (BSC)}{50}%
-\contentsline {subsubsection}{\numberline {2.9.5.6}The Graduate Club Committee (GCC)}{50}%
-\contentsline {subsubsection}{\numberline {2.9.5.7}The International Graduate Students' Issues Committee (IGSIC)}{51}%
-\contentsline {subsubsection}{\numberline {2.9.5.8}The Orientation and Social Committee (OSC)}{51}%
-\contentsline {subsubsection}{\numberline {2.9.5.9}GradCast Editorial Board}{51}%
-\contentsline {subsubsection}{\numberline {2.9.5.10}The Graduate Student Issues Committee}{52}%
-\contentsline {subsubsection}{\numberline {2.9.5.11}The Policy Committee}{52}%
-\contentsline {subsubsection}{\numberline {2.9.5.12}Equity Issues Committee}{52}%
-\contentsline {subsubsection}{\numberline {2.9.5.13}Health Plan Committee (HPC)}{53}%
-\contentsline {subsubsection}{\numberline {2.9.5.14}Sustainability Committee (SC)}{53}%
-\contentsline {subsubsection}{\numberline {2.9.5.15}Graduate Peer Support (GPS) Committee}{53}%
-\contentsline {subsection}{\numberline {2.9.6}Commissions}{54}%
-\contentsline {subsubsection}{\numberline {2.9.6.1}General}{54}%
-\contentsline {subsubsection}{\numberline {2.9.6.2}Women's Concern Commission}{54}%
-\contentsline {subsection}{\numberline {2.9.7}Official Liaison Table}{55}%
-\contentsline {section}{\numberline {2.10}Personnel}{56}%
-\contentsline {section}{\numberline {2.11}Conflict of Interest}{57}%
-\contentsline {section}{\numberline {2.12}Finances}{59}%
-\contentsline {section}{\numberline {2.13}Graduate Support Programs}{61}%
-\contentsline {section}{\numberline {2.14}Disclosure of Information}{62}%
-\contentsline {section}{\numberline {2.15}Meetings}{63}%
-\contentsline {subsection}{\numberline {2.15.1}Reports}{63}%
-\contentsline {subsection}{\numberline {2.15.2}General Meetings}{63}%
-\contentsline {subsection}{\numberline {2.15.3}Council Meetings}{64}%
-\contentsline {subsection}{\numberline {2.15.4}Executive Meeting}{66}%
-\contentsline {section}{\numberline {2.16}The Policy Manual}{68}%
-\contentsline {section}{\numberline {2.17}Communications}{69}%
-\contentsline {subsection}{\numberline {2.17.1}Communications}{69}%
-\contentsline {section}{\numberline {2.18}Non-Discrimination and Harassment}{70}%
-\contentsline {section}{\numberline {2.19}Disciplinary Measures}{71}%
-\contentsline {subsection}{\numberline {2.19.1}General}{71}%
-\contentsline {subsection}{\numberline {2.19.2}Disciplinary Measures on an Employee}{71}%
-\contentsline {subsection}{\numberline {2.19.3}List of Sanctions}{71}%
-\contentsline {section}{\numberline {2.20}Rules of Order}{73}%
-\contentsline {section}{\numberline {2.21}Dissemination of Amendments to the Society's Governing Documents}{74}%
-\contentsline {chapter}{\numberline {3}Operations Policies}{75}%
-\contentsline {section}{\numberline {3.1}Conflict of Interest}{76}%
-\contentsline {subsection}{\numberline {3.1.1}Governing Bylaws}{76}%
-\contentsline {subsection}{\numberline {3.1.2}Procedure for Resolution}{76}%
-\contentsline {subsection}{\numberline {3.1.3}Tribunal Proceedings}{77}%
-\contentsline {subsection}{\numberline {3.1.4}Possible Resolutions}{77}%
-\contentsline {section}{\numberline {3.2}Discipline Code}{79}%
-\contentsline {subsection}{\numberline {3.2.1}Introduction and Purpose}{79}%
-\contentsline {subsection}{\numberline {3.2.2}Definitions}{79}%
-\contentsline {subsection}{\numberline {3.2.3}Relationship to Other University Policies and Codes}{80}%
-\contentsline {subsection}{\numberline {3.2.4}Jurisdiction}{80}%
-\contentsline {subsection}{\numberline {3.2.5}Misconduct and Prohibited Conduct}{80}%
-\contentsline {subsection}{\numberline {3.2.6}Interim Measures}{82}%
-\contentsline {subsection}{\numberline {3.2.7}Complaint Procedures}{82}%
-\contentsline {subsection}{\numberline {3.2.8}Appeals}{83}%
-\contentsline {subsection}{\numberline {3.2.9}Review of Code}{86}%
-\contentsline {section}{\numberline {3.3}Elections Policy}{87}%
-\contentsline {section}{\numberline {3.4}Minutes Writing Policy}{92}%
-\contentsline {subsection}{\numberline {3.4.1}Purpose}{92}%
-\contentsline {subsection}{\numberline {3.4.2}General Guidelines}{92}%
-\contentsline {section}{\numberline {3.5}Procurement}{93}%
-\contentsline {chapter}{\numberline {4}Position Statements}{99}%
-\contentsline {section}{\numberline {4.1}Membership}{100}%
-\contentsline {section}{\numberline {4.2}Employees}{100}%
-\contentsline {section}{\numberline {4.3}Tuition, Student Fees and Graduate Student Funding}{100}%
-\contentsline {section}{\numberline {4.4}Operations Policies}{101}%
-\contentsline {section}{\numberline {4.5}Finance and Banking}{101}%
-\contentsline {section}{\numberline {4.6}Executive and Non-Executive Officers}{102}%
-\contentsline {section}{\numberline {4.7}Council}{102}%
-\contentsline {section}{\numberline {4.8}London Transit Commission (LTC)}{103}%
-\contentsline {section}{\numberline {4.9}Committees}{103}%
-\contentsline {section}{\numberline {4.10}Constitution and Bylaws}{103}%
-\contentsline {section}{\numberline {4.11}Society Position Statements}{103}%
-\contentsline {chapter}{\numberline {5}Committee Policies}{105}%
+\contentsline {subsection}{\numberline {2.4.7}Transition}{32}%
+\contentsline {subsection}{\numberline {2.4.8}Campaign Impropriety and Appeals}{33}%
+\contentsline {subsection}{\numberline {2.4.9}Validity}{33}%
+\contentsline {subsection}{\numberline {2.4.10}Campaign Expenses and Subsidy}{33}%
+\contentsline {section}{\numberline {2.5}Other Elections}{34}%
+\contentsline {subsection}{\numberline {2.5.1}General}{34}%
+\contentsline {subsection}{\numberline {2.5.2}Vice--Presidents}{34}%
+\contentsline {subsection}{\numberline {2.5.3}Speaker}{34}%
+\contentsline {subsection}{\numberline {2.5.4}Commissioners}{34}%
+\contentsline {section}{\numberline {2.6}Exceptional Circumstances}{36}%
+\contentsline {subsection}{\numberline {2.6.1}Exceptional Circumstances}{36}%
+\contentsline {subsection}{\numberline {2.6.2}By--Election}{36}%
+\contentsline {subsection}{\numberline {2.6.3}Executive and Non-Executive Officers}{37}%
+\contentsline {subsection}{\numberline {2.6.4}Non-Presidential By-Elections}{38}%
+\contentsline {subsection}{\numberline {2.6.5}Councillor By-elections}{39}%
+\contentsline {section}{\numberline {2.7}Recall}{40}%
+\contentsline {subsection}{\numberline {2.7.1}General}{40}%
+\contentsline {subsection}{\numberline {2.7.2}Jurisdiction}{41}%
+\contentsline {subsection}{\numberline {2.7.3}Recall of the President}{41}%
+\contentsline {subsection}{\numberline {2.7.4}Recall of Executive, Non-Executive Officers and Committee \hfill \break Chairpersons}{42}%
+\contentsline {subsection}{\numberline {2.7.5}Recall of Councillors}{42}%
+\contentsline {subsection}{\numberline {2.7.6}Recall of Members of the Appeals Review Commission}{43}%
+\contentsline {subsection}{\numberline {2.7.7}Recall of Committee Membership}{43}%
+\contentsline {section}{\numberline {2.8}Elections Table}{44}%
+\contentsline {section}{\numberline {2.9}Committees of the Society}{45}%
+\contentsline {subsection}{\numberline {2.9.1}Creating and Disbanding}{45}%
+\contentsline {subsection}{\numberline {2.9.2}Duties of the Chairperson}{45}%
+\contentsline {subsection}{\numberline {2.9.3}General}{46}%
+\contentsline {subsection}{\numberline {2.9.4}Committee Policies}{47}%
+\contentsline {subsection}{\numberline {2.9.5}Standing Committees}{47}%
+\contentsline {subsubsection}{\numberline {2.9.5.1}The Academic Committee}{47}%
+\contentsline {subsubsection}{\numberline {2.9.5.2}The Graduate Student Teaching Awards Committee}{47}%
+\contentsline {subsubsection}{\numberline {2.9.5.3}The Bylaws and Constitution Committee (BCC)}{48}%
+\contentsline {subsubsection}{\numberline {2.9.5.4}The Finance Committee (FC)}{49}%
+\contentsline {subsubsection}{\numberline {2.9.5.5}The Bursary and Subsidy Committee (BSC)}{49}%
+\contentsline {subsubsection}{\numberline {2.9.5.6}The Graduate Club Committee (GCC)}{49}%
+\contentsline {subsubsection}{\numberline {2.9.5.7}The International Graduate Students' Issues Committee (IGSIC)}{50}%
+\contentsline {subsubsection}{\numberline {2.9.5.8}The Orientation and Social Committee (OSC)}{50}%
+\contentsline {subsubsection}{\numberline {2.9.5.9}GradCast Editorial Board}{50}%
+\contentsline {subsubsection}{\numberline {2.9.5.10}The Graduate Student Issues Committee}{51}%
+\contentsline {subsubsection}{\numberline {2.9.5.11}The Policy Committee}{51}%
+\contentsline {subsubsection}{\numberline {2.9.5.12}Equity Issues Committee}{51}%
+\contentsline {subsubsection}{\numberline {2.9.5.13}Health Plan Committee (HPC)}{52}%
+\contentsline {subsubsection}{\numberline {2.9.5.14}Sustainability Committee (SC)}{52}%
+\contentsline {subsubsection}{\numberline {2.9.5.15}Graduate Peer Support (GPS) Committee}{52}%
+\contentsline {subsection}{\numberline {2.9.6}Commissions}{53}%
+\contentsline {subsubsection}{\numberline {2.9.6.1}General}{53}%
+\contentsline {subsubsection}{\numberline {2.9.6.2}Women's Concern Commission}{53}%
+\contentsline {subsection}{\numberline {2.9.7}Official Liaison Table}{54}%
+\contentsline {section}{\numberline {2.10}Personnel}{55}%
+\contentsline {section}{\numberline {2.11}Conflict of Interest}{56}%
+\contentsline {section}{\numberline {2.12}Finances}{58}%
+\contentsline {section}{\numberline {2.13}Graduate Support Programs}{60}%
+\contentsline {section}{\numberline {2.14}Disclosure of Information}{61}%
+\contentsline {section}{\numberline {2.15}Meetings}{62}%
+\contentsline {subsection}{\numberline {2.15.1}Reports}{62}%
+\contentsline {subsection}{\numberline {2.15.2}General Meetings}{62}%
+\contentsline {subsection}{\numberline {2.15.3}Council Meetings}{63}%
+\contentsline {subsection}{\numberline {2.15.4}Executive Meeting}{65}%
+\contentsline {section}{\numberline {2.16}The Policy Manual}{67}%
+\contentsline {section}{\numberline {2.17}Communications}{68}%
+\contentsline {subsection}{\numberline {2.17.1}Communications}{68}%
+\contentsline {section}{\numberline {2.18}Non-Discrimination and Harassment}{69}%
+\contentsline {section}{\numberline {2.19}Disciplinary Measures}{70}%
+\contentsline {subsection}{\numberline {2.19.1}General}{70}%
+\contentsline {subsection}{\numberline {2.19.2}Disciplinary Measures on an Employee}{70}%
+\contentsline {subsection}{\numberline {2.19.3}List of Sanctions}{70}%
+\contentsline {section}{\numberline {2.20}Rules of Order}{72}%
+\contentsline {section}{\numberline {2.21}Dissemination of Amendments to the Society's Governing Documents}{73}%
+\contentsline {chapter}{\numberline {3}Operations Policies}{74}%
+\contentsline {section}{\numberline {3.1}Conflict of Interest}{75}%
+\contentsline {subsection}{\numberline {3.1.1}Governing Bylaws}{75}%
+\contentsline {subsection}{\numberline {3.1.2}Procedure for Resolution}{75}%
+\contentsline {subsection}{\numberline {3.1.3}Tribunal Proceedings}{76}%
+\contentsline {subsection}{\numberline {3.1.4}Possible Resolutions}{76}%
+\contentsline {section}{\numberline {3.2}Discipline Code}{78}%
+\contentsline {subsection}{\numberline {3.2.1}Introduction and Purpose}{78}%
+\contentsline {subsection}{\numberline {3.2.2}Definitions}{78}%
+\contentsline {subsection}{\numberline {3.2.3}Relationship to Other University Policies and Codes}{79}%
+\contentsline {subsection}{\numberline {3.2.4}Jurisdiction}{79}%
+\contentsline {subsection}{\numberline {3.2.5}Misconduct and Prohibited Conduct}{79}%
+\contentsline {subsection}{\numberline {3.2.6}Interim Measures}{81}%
+\contentsline {subsection}{\numberline {3.2.7}Complaint Procedures}{81}%
+\contentsline {subsection}{\numberline {3.2.8}Appeals}{82}%
+\contentsline {subsection}{\numberline {3.2.9}Review of Code}{85}%
+\contentsline {section}{\numberline {3.3}Elections Policy}{86}%
+\contentsline {section}{\numberline {3.4}Minutes Writing Policy}{91}%
+\contentsline {subsection}{\numberline {3.4.1}Purpose}{91}%
+\contentsline {subsection}{\numberline {3.4.2}General Guidelines}{91}%
+\contentsline {section}{\numberline {3.5}Procurement}{92}%
+\contentsline {chapter}{\numberline {4}Position Statements}{98}%
+\contentsline {section}{\numberline {4.1}Membership}{99}%
+\contentsline {section}{\numberline {4.2}Employees}{99}%
+\contentsline {section}{\numberline {4.3}Tuition, Student Fees and Graduate Student Funding}{99}%
+\contentsline {section}{\numberline {4.4}Operations Policies}{100}%
+\contentsline {section}{\numberline {4.5}Finance and Banking}{100}%
+\contentsline {section}{\numberline {4.6}Executive and Non-Executive Officers}{101}%
+\contentsline {section}{\numberline {4.7}Council}{101}%
+\contentsline {section}{\numberline {4.8}London Transit Commission (LTC)}{102}%
+\contentsline {section}{\numberline {4.9}Committees}{102}%
+\contentsline {section}{\numberline {4.10}Constitution and Bylaws}{102}%
+\contentsline {section}{\numberline {4.11}Society Position Statements}{102}%
+\contentsline {chapter}{\numberline {5}Committee Policies}{104}%
 \setcounter {tocdepth}{1}
-\contentsline {section}{\numberline {5.1}Academic Committee}{106}%
-\contentsline {subsection}{\numberline {5.1.1}Ratified}{106}%
-\contentsline {subsection}{\numberline {5.1.2}Mandate}{106}%
-\contentsline {subsection}{\numberline {5.1.3}Article I: Membership}{106}%
-\contentsline {subsection}{\numberline {5.1.4}Article II: Committee Management}{106}%
-\contentsline {subsection}{\numberline {5.1.5}Article III: Operations}{107}%
-\contentsline {section}{\numberline {5.2}Bursary and Subsidy Committee}{109}%
-\contentsline {subsection}{\numberline {5.2.1}Ratified}{109}%
-\contentsline {subsection}{\numberline {5.2.2}Mandate}{109}%
-\contentsline {subsection}{\numberline {5.2.3}Article I: Membership}{109}%
-\contentsline {subsection}{\numberline {5.2.4}Article II: Committee Management}{109}%
-\contentsline {subsection}{\numberline {5.2.5}Article III: Operations}{110}%
-\contentsline {subsection}{\numberline {5.2.6}Article IV: Bursaries}{110}%
-\contentsline {subsection}{\numberline {5.2.7}Article V: Subsidies}{111}%
-\contentsline {section}{\numberline {5.3}Bylaws and Constitution Committee}{113}%
-\contentsline {subsection}{\numberline {5.3.1}Ratified}{113}%
-\contentsline {subsection}{\numberline {5.3.2}Mandate}{113}%
-\contentsline {subsection}{\numberline {5.3.3}Article I: Membership}{113}%
-\contentsline {subsection}{\numberline {5.3.4}Article II: Committee Management}{113}%
-\contentsline {subsection}{\numberline {5.3.5}Article III: Governing Documents}{114}%
-\contentsline {subsection}{\numberline {5.3.6}Article IV: Dissemination of Amendments}{114}%
-\contentsline {section}{\numberline {5.4}Equity Committee}{115}%
-\contentsline {subsection}{\numberline {5.4.1}Ratified}{115}%
-\contentsline {subsection}{\numberline {5.4.2}Mandate}{115}%
-\contentsline {subsection}{\numberline {5.4.3}Article I: Membership}{115}%
-\contentsline {subsection}{\numberline {5.4.4}Article II: Committee Management}{115}%
-\contentsline {subsection}{\numberline {5.4.5}Article III: Operations}{116}%
-\contentsline {section}{\numberline {5.5}Executive Committee}{117}%
-\contentsline {subsection}{\numberline {5.5.1}Ratified}{117}%
-\contentsline {subsection}{\numberline {5.5.2}Mandate}{117}%
-\contentsline {subsection}{\numberline {5.5.3}Article 1: Membership}{117}%
-\contentsline {subsection}{\numberline {5.5.4}Article 2: Committee Management}{117}%
-\contentsline {subsection}{\numberline {5.5.5}Article 3: Human Resources}{118}%
-\contentsline {section}{\numberline {5.6}Finance Committee}{120}%
-\contentsline {subsection}{\numberline {5.6.1}Ratified}{120}%
-\contentsline {subsection}{\numberline {5.6.2}Article 1: Membership}{120}%
-\contentsline {subsection}{\numberline {5.6.3}Article 2: Duties and Responsibilities}{121}%
-\contentsline {subsection}{\numberline {5.6.4}Article 3: Budget Preparation, Management, and Financial Reporting}{121}%
-\contentsline {section}{\numberline {5.7}Grad Club Committee}{123}%
-\contentsline {subsection}{\numberline {5.7.1}Ratified}{123}%
-\contentsline {subsection}{\numberline {5.7.2}Mandate}{123}%
-\contentsline {subsection}{\numberline {5.7.3}Article I: Membership}{123}%
-\contentsline {subsection}{\numberline {5.7.4}Article II: Committee Management}{124}%
-\contentsline {subsection}{\numberline {5.7.5}Article III: Operations}{125}%
-\contentsline {section}{\numberline {5.8}GradCast Editorial Board}{128}%
-\contentsline {subsection}{\numberline {5.8.1}Ratified}{128}%
-\contentsline {subsection}{\numberline {5.8.2}Mandate}{128}%
-\contentsline {subsection}{\numberline {5.8.3}Article 1: Membership}{128}%
-\contentsline {subsection}{\numberline {5.8.4}Article II: Committee Management}{129}%
-\contentsline {section}{\numberline {5.9}Graduate Peer Support Committee}{131}%
-\contentsline {subsection}{\numberline {5.9.1}Ratified}{131}%
-\contentsline {subsection}{\numberline {5.9.2}Mandate}{131}%
-\contentsline {subsection}{\numberline {5.9.3}Article I: Membership}{131}%
-\contentsline {subsection}{\numberline {5.9.4}Article II: Committee Management}{131}%
-\contentsline {subsection}{\numberline {5.9.5}Article III: Operations}{132}%
-\contentsline {section}{\numberline {5.10}Graduate Student Issues Committee}{134}%
-\contentsline {subsection}{\numberline {5.10.1}Ratified}{134}%
-\contentsline {subsection}{\numberline {5.10.2}Mandate}{134}%
-\contentsline {subsection}{\numberline {5.10.3}Article I: Membership}{134}%
-\contentsline {subsection}{\numberline {5.10.4}Article II: Committee Management}{134}%
-\contentsline {subsection}{\numberline {5.10.5}Article III: Operations}{135}%
-\contentsline {section}{\numberline {5.11}Graduate Student Teaching Awards (GTSA) Committee}{136}%
-\contentsline {subsection}{\numberline {5.11.1}Mandate}{136}%
-\contentsline {subsection}{\numberline {5.11.2}Article I: Membership}{136}%
-\contentsline {section}{\numberline {5.12}Health Plan Committee}{137}%
-\contentsline {subsection}{\numberline {5.12.1}Ratified}{137}%
-\contentsline {subsection}{\numberline {5.12.2}Mandate}{137}%
-\contentsline {subsection}{\numberline {5.12.3}Article I: Membership}{137}%
-\contentsline {subsection}{\numberline {5.12.4}Article II: Committee Management}{138}%
-\contentsline {subsection}{\numberline {5.12.5}Article III: Operations}{140}%
-\contentsline {section}{\numberline {5.13}International Graduate Student Issues Committee}{142}%
-\contentsline {subsection}{\numberline {5.13.1}Ratified}{142}%
-\contentsline {subsection}{\numberline {5.13.2}Mandate}{142}%
-\contentsline {subsection}{\numberline {5.13.3}Article 1: Membership}{142}%
-\contentsline {subsection}{\numberline {5.13.4}Article II: Committee Management}{143}%
-\contentsline {subsection}{\numberline {5.13.5}Article III: Operations}{143}%
-\contentsline {section}{\numberline {5.14}Orientation and Social Committee}{145}%
-\contentsline {subsection}{\numberline {5.14.1}Ratified}{145}%
-\contentsline {subsection}{\numberline {5.14.2}Mandate}{145}%
-\contentsline {subsection}{\numberline {5.14.3}Article I: Membership}{145}%
-\contentsline {subsection}{\numberline {5.14.4}Article II: Committee Management}{145}%
-\contentsline {subsection}{\numberline {5.14.5}Article III: General Operations}{148}%
-\contentsline {subsection}{\numberline {5.14.6}Article IV: Events}{148}%
-\contentsline {subsection}{\numberline {5.14.7}Article V: Programs}{149}%
-\contentsline {subsection}{\numberline {5.14.8}Article VI: Clubs}{150}%
-\contentsline {subsection}{\numberline {5.14.9}Article VII: Discord Server Management}{152}%
-\contentsline {section}{\numberline {5.15}Policy Committtee}{157}%
-\contentsline {subsection}{\numberline {5.15.1}Ratified}{157}%
-\contentsline {subsection}{\numberline {5.15.2}Mandate}{157}%
-\contentsline {subsection}{\numberline {5.15.3}Membership}{157}%
-\contentsline {subsection}{\numberline {5.15.4}Article II: Committee Management}{157}%
-\contentsline {subsection}{\numberline {5.15.5}Article III: Operations}{158}%
-\contentsline {section}{\numberline {5.16}Sustainability Committee}{159}%
-\contentsline {subsection}{\numberline {5.16.1}Ratified}{159}%
-\contentsline {subsection}{\numberline {5.16.2}Mandate}{159}%
-\contentsline {subsection}{\numberline {5.16.3}Article I: Membership}{159}%
-\contentsline {subsection}{\numberline {5.16.4}Article II: Committee Responsibilities}{159}%
-\contentsline {subsection}{\numberline {5.16.5}Article III: Operations}{160}%
+\contentsline {section}{\numberline {5.1}Academic Committee}{105}%
+\contentsline {subsection}{\numberline {5.1.1}Ratified}{105}%
+\contentsline {subsection}{\numberline {5.1.2}Mandate}{105}%
+\contentsline {subsection}{\numberline {5.1.3}Article I: Membership}{105}%
+\contentsline {subsection}{\numberline {5.1.4}Article II: Committee Management}{105}%
+\contentsline {subsection}{\numberline {5.1.5}Article III: Operations}{106}%
+\contentsline {section}{\numberline {5.2}Bursary and Subsidy Committee}{108}%
+\contentsline {subsection}{\numberline {5.2.1}Ratified}{108}%
+\contentsline {subsection}{\numberline {5.2.2}Mandate}{108}%
+\contentsline {subsection}{\numberline {5.2.3}Article I: Membership}{108}%
+\contentsline {subsection}{\numberline {5.2.4}Article II: Committee Management}{108}%
+\contentsline {subsection}{\numberline {5.2.5}Article III: Operations}{109}%
+\contentsline {subsection}{\numberline {5.2.6}Article IV: Bursaries}{109}%
+\contentsline {subsection}{\numberline {5.2.7}Article V: Subsidies}{110}%
+\contentsline {section}{\numberline {5.3}Bylaws and Constitution Committee}{112}%
+\contentsline {subsection}{\numberline {5.3.1}Ratified}{112}%
+\contentsline {subsection}{\numberline {5.3.2}Mandate}{112}%
+\contentsline {subsection}{\numberline {5.3.3}Article I: Membership}{112}%
+\contentsline {subsection}{\numberline {5.3.4}Article II: Committee Management}{112}%
+\contentsline {subsection}{\numberline {5.3.5}Article III: Governing Documents}{113}%
+\contentsline {subsection}{\numberline {5.3.6}Article IV: Dissemination of Amendments}{113}%
+\contentsline {section}{\numberline {5.4}Equity Committee}{114}%
+\contentsline {subsection}{\numberline {5.4.1}Ratified}{114}%
+\contentsline {subsection}{\numberline {5.4.2}Mandate}{114}%
+\contentsline {subsection}{\numberline {5.4.3}Article I: Membership}{114}%
+\contentsline {subsection}{\numberline {5.4.4}Article II: Committee Management}{114}%
+\contentsline {subsection}{\numberline {5.4.5}Article III: Operations}{115}%
+\contentsline {section}{\numberline {5.5}Executive Committee}{116}%
+\contentsline {subsection}{\numberline {5.5.1}Ratified}{116}%
+\contentsline {subsection}{\numberline {5.5.2}Mandate}{116}%
+\contentsline {subsection}{\numberline {5.5.3}Article 1: Membership}{116}%
+\contentsline {subsection}{\numberline {5.5.4}Article 2: Committee Management}{116}%
+\contentsline {subsection}{\numberline {5.5.5}Article 3: Human Resources}{117}%
+\contentsline {section}{\numberline {5.6}Finance Committee}{119}%
+\contentsline {subsection}{\numberline {5.6.1}Ratified}{119}%
+\contentsline {subsection}{\numberline {5.6.2}Article 1: Membership}{119}%
+\contentsline {subsection}{\numberline {5.6.3}Article 2: Duties and Responsibilities}{120}%
+\contentsline {subsection}{\numberline {5.6.4}Article 3: Budget Preparation, Management, and Financial Reporting}{120}%
+\contentsline {section}{\numberline {5.7}Grad Club Committee}{122}%
+\contentsline {subsection}{\numberline {5.7.1}Ratified}{122}%
+\contentsline {subsection}{\numberline {5.7.2}Mandate}{122}%
+\contentsline {subsection}{\numberline {5.7.3}Article I: Membership}{122}%
+\contentsline {subsection}{\numberline {5.7.4}Article II: Committee Management}{123}%
+\contentsline {subsection}{\numberline {5.7.5}Article III: Operations}{124}%
+\contentsline {section}{\numberline {5.8}GradCast Editorial Board}{127}%
+\contentsline {subsection}{\numberline {5.8.1}Ratified}{127}%
+\contentsline {subsection}{\numberline {5.8.2}Mandate}{127}%
+\contentsline {subsection}{\numberline {5.8.3}Article 1: Membership}{127}%
+\contentsline {subsection}{\numberline {5.8.4}Article II: Committee Management}{128}%
+\contentsline {section}{\numberline {5.9}Graduate Peer Support Committee}{130}%
+\contentsline {subsection}{\numberline {5.9.1}Ratified}{130}%
+\contentsline {subsection}{\numberline {5.9.2}Mandate}{130}%
+\contentsline {subsection}{\numberline {5.9.3}Article I: Membership}{130}%
+\contentsline {subsection}{\numberline {5.9.4}Article II: Committee Management}{130}%
+\contentsline {subsection}{\numberline {5.9.5}Article III: Operations}{131}%
+\contentsline {section}{\numberline {5.10}Graduate Student Issues Committee}{133}%
+\contentsline {subsection}{\numberline {5.10.1}Ratified}{133}%
+\contentsline {subsection}{\numberline {5.10.2}Mandate}{133}%
+\contentsline {subsection}{\numberline {5.10.3}Article I: Membership}{133}%
+\contentsline {subsection}{\numberline {5.10.4}Article II: Committee Management}{133}%
+\contentsline {subsection}{\numberline {5.10.5}Article III: Operations}{134}%
+\contentsline {section}{\numberline {5.11}Graduate Student Teaching Awards (GTSA) Committee}{135}%
+\contentsline {subsection}{\numberline {5.11.1}Mandate}{135}%
+\contentsline {subsection}{\numberline {5.11.2}Article I: Membership}{135}%
+\contentsline {section}{\numberline {5.12}Health Plan Committee}{136}%
+\contentsline {subsection}{\numberline {5.12.1}Ratified}{136}%
+\contentsline {subsection}{\numberline {5.12.2}Mandate}{136}%
+\contentsline {subsection}{\numberline {5.12.3}Article I: Membership}{136}%
+\contentsline {subsection}{\numberline {5.12.4}Article II: Committee Management}{137}%
+\contentsline {subsection}{\numberline {5.12.5}Article III: Operations}{139}%
+\contentsline {section}{\numberline {5.13}International Graduate Student Issues Committee}{141}%
+\contentsline {subsection}{\numberline {5.13.1}Ratified}{141}%
+\contentsline {subsection}{\numberline {5.13.2}Mandate}{141}%
+\contentsline {subsection}{\numberline {5.13.3}Article 1: Membership}{141}%
+\contentsline {subsection}{\numberline {5.13.4}Article II: Committee Management}{142}%
+\contentsline {subsection}{\numberline {5.13.5}Article III: Operations}{142}%
+\contentsline {section}{\numberline {5.14}Orientation and Social Committee}{144}%
+\contentsline {subsection}{\numberline {5.14.1}Ratified}{144}%
+\contentsline {subsection}{\numberline {5.14.2}Mandate}{144}%
+\contentsline {subsection}{\numberline {5.14.3}Article I: Membership}{144}%
+\contentsline {subsection}{\numberline {5.14.4}Article II: Committee Management}{144}%
+\contentsline {subsection}{\numberline {5.14.5}Article III: General Operations}{147}%
+\contentsline {subsection}{\numberline {5.14.6}Article IV: Events}{147}%
+\contentsline {subsection}{\numberline {5.14.7}Article V: Programs}{148}%
+\contentsline {subsection}{\numberline {5.14.8}Article VI: Clubs}{149}%
+\contentsline {subsection}{\numberline {5.14.9}Article VII: Discord Server Management}{151}%
+\contentsline {section}{\numberline {5.15}Policy Committtee}{156}%
+\contentsline {subsection}{\numberline {5.15.1}Ratified}{156}%
+\contentsline {subsection}{\numberline {5.15.2}Mandate}{156}%
+\contentsline {subsection}{\numberline {5.15.3}Membership}{156}%
+\contentsline {subsection}{\numberline {5.15.4}Article II: Committee Management}{156}%
+\contentsline {subsection}{\numberline {5.15.5}Article III: Operations}{157}%
+\contentsline {section}{\numberline {5.16}Sustainability Committee}{158}%
+\contentsline {subsection}{\numberline {5.16.1}Ratified}{158}%
+\contentsline {subsection}{\numberline {5.16.2}Mandate}{158}%
+\contentsline {subsection}{\numberline {5.16.3}Article I: Membership}{158}%
+\contentsline {subsection}{\numberline {5.16.4}Article II: Committee Responsibilities}{158}%
+\contentsline {subsection}{\numberline {5.16.5}Article III: Operations}{159}%
 \setcounter {tocdepth}{2}
-\contentsline {chapter}{\numberline {6}Speaker's Rulings}{162}%
+\contentsline {chapter}{\numberline {6}Speaker's Rulings}{161}%
