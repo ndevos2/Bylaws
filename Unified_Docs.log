@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 AUG 2021 19:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 AUG 2021 19:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1352,48 +1352,48 @@ Overfull \hbox (18.09604pt too wide) in paragraph at lines 12--13
 
 
 ]
-Overfull \hbox (1.26022pt too wide) in paragraph at lines 25--26
+Overfull \hbox (1.26022pt too wide) in paragraph at lines 26--27
 []\T1/lmss/m/n/12 In the event that the elected Pres-i-dent is a de-part-men-ta
 l or part-time rep-re-sen-ta-tive,
  []
 
 
-Overfull \hbox (2.63312pt too wide) in paragraph at lines 25--26
+Overfull \hbox (2.63312pt too wide) in paragraph at lines 26--27
 \T1/lmss/m/n/12 de-part-men-tal rep-re-sen-ta-tive, Speaker or other Ex-ec-u-ti
 ve mem-ber while be-ing Pres-i-dent. 
  []
 
 
-Overfull \hbox (0.748pt too wide) in paragraph at lines 26--27
+Overfull \hbox (0.748pt too wide) in paragraph at lines 27--28
 []\T1/lmss/m/n/12 Actual trans-fer of sign-ing au-thor-ity and re-spon-si-bil-i
 -ties of the Of-fice of the Pres-i-dent
  []
 
 
-Overfull \hbox (0.72375pt too wide) in paragraph at lines 40--41
+Overfull \hbox (0.72375pt too wide) in paragraph at lines 41--42
 []\T1/lmss/m/n/12 At that meet-ing an agree-ment will be signed by all par-ties
  wherein they ac-knowl-edge
  []
 
 [87]
-Overfull \hbox (9.02791pt too wide) in paragraph at lines 56--57
+Overfull \hbox (9.02791pt too wide) in paragraph at lines 57--58
 []\T1/lmss/m/n/12 The polling pe-riod shall be de-ter-mined by the CRO, in ac-c
 or-dance
  []
 
 [88]
-Overfull \hbox (3.74823pt too wide) in paragraph at lines 93--95
+Overfull \hbox (3.74823pt too wide) in paragraph at lines 94--96
 []\T1/lmss/m/n/12 No can-di-date/referendum group or in-di-vid-ual mem-ber may,
  us-ing their own ini-tia-tive
  []
 
-
-Overfull \hbox (1.65332pt too wide) in paragraph at lines 112--113
+[89]
+Overfull \hbox (1.65332pt too wide) in paragraph at lines 113--114
 []\T1/lmss/m/n/12 Warning ^^U the CRO shall is-sue a warn-ing to the can-di-dat
 e via email re-gard-ing
  []
 
-[89]) [90]
+) [90]
 \openout2 = `Operations_Policy/Minutes_2018.aux'.
 
  (./Operations_Policy/Minutes_2018.tex) [91
@@ -2442,7 +2442,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (182 pages, 475667 bytes).
+Output written on Unified_Docs.pdf (182 pages, 475897 bytes).
 PDF statistics:
  652 PDF objects out of 1000 (max. 8388607)
  439 compressed objects within 5 object streams
