@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  10 AUG 2021 19:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  12 AUG 2021 12:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1198,25 +1198,25 @@ Overfull \hbox (1.37724pt too wide) in paragraph at lines 712--713
  []
 
 [65] [66] [67] [68] [69]
-Overfull \hbox (10.0102pt too wide) in paragraph at lines 818--819
+Overfull \hbox (10.0102pt too wide) in paragraph at lines 819--820
 \T1/lmss/m/n/12 notwith-stand-ing the right granted by the Con-sti-tu-tion of t
 he So-ci-ety and notwith-stand-ing
  []
 
 [70]
-Overfull \hbox (4.20718pt too wide) in paragraph at lines 830--831
+Overfull \hbox (4.20718pt too wide) in paragraph at lines 831--832
 []\T1/lmss/m/n/12 A mem-ber of the Ex-ec-u-tive may be pro-hib-ited from sign-i
 ng or en-dors-ing con-tracts
  []
 
 [71] [72]
-Overfull \hbox (28.99516pt too wide) in paragraph at lines 848--848
+Overfull \hbox (28.99516pt too wide) in paragraph at lines 850--850
 |[]\T1/lmss/bx/n/17.28 Dissemination of Amend-ments to the So-ci-ety's Gov-ern-
 ing
  []
 
 
-Overfull \hbox (10.42212pt too wide) in paragraph at lines 853--854
+Overfull \hbox (10.42212pt too wide) in paragraph at lines 855--856
 []\T1/lmss/m/n/12 Enforcement of amend-ments dur-ing the Im-ple-men-ta-tion Pha
 se shall be lim-ited to cor-rec-tions
  []
@@ -2442,7 +2442,7 @@ lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10
 live/2020/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dis
 t/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (182 pages, 475611 bytes).
+Output written on Unified_Docs.pdf (182 pages, 476019 bytes).
 PDF statistics:
  652 PDF objects out of 1000 (max. 8388607)
  439 compressed objects within 5 object streams
