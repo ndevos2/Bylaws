@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.20)  27 JAN 2022 16:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.20)  22 MAR 2022 20:39
 entering extended mode
 **./Unified_Docs.tex
 (Unified_Docs.tex
@@ -440,25 +440,85 @@ LaTeX Info: Redefining \addtolength on input line 81.
 )
 \c@@todonotes@numberoftodonotes=\count272
 )
+("C:\Program Files\MiKTeX 2.9\tex/latex/draftwatermark\draftwatermark.sty"
+Package: draftwatermark 2020/12/08 3.0 Put a gray textual watermark on document
+ pages
+
+
+Package draftwatermark Warning: You appear to be running a version of LaTeX
+(draftwatermark)                unsupported by current draftwatermark.
+(draftwatermark)                Forcing fallback to `draftwatermark-2x` that
+(draftwatermark)                uses an older code base.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/draftwatermark\draftwatermark-2x.sty"
+
+LaTeX Warning: You have requested package `draftwatermark-2x',
+               but the package provides `draftwatermark'.
+
+Package: draftwatermark 2020/12/06 2.3 Put a gray textual watermark on document
+ pages
+("C:\Program Files\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/everypage\everypage.sty"
+Package: everypage 2020/10/17 R2.0b Hooks to run on every page
+
+
+Package everypage Warning: Functionality similar to this package has recently
+(everypage)                been implemented in LaTeX. This package is now in
+(everypage)                legacy status.
+(everypage)                Please, don't use it in new documents and packages.
+
+
+Package everypage Warning: You appear to be running a version of LaTeX
+(everypage)                too old to provide the new functionality.
+(everypage)                Forcing fallback to `everypage-1x` that
+(everypage)                uses an older code base.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/everypage\everypage-1x.sty"
+Package: everypage-1x 2020/10/10 1.2 Hooks to run on every page
+))))
+("C:\Program Files\MiKTeX 2.9\tex/latex/easyreview\easyReview.sty"
+Package: easyReview 2014/06/27 Package for Easy Review on LaTeX documents
+Package: easyReview 2013/12/09 Package for Easy Review on LaTeX documents
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks30
+\SOUL@lasttoken=\toks31
+\SOUL@cmds=\toks32
+\SOUL@buffer=\toks33
+\SOUL@token=\toks34
+\SOUL@spaceskip=\skip52
+\SOUL@ttwidth=\dimen198
+\SOUL@uldp=\dimen199
+\SOUL@ulht=\dimen256
+))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\multicol.sty"
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \c@tracingmulticols=\count273
 \mult@box=\box56
-\multicol@leftmargin=\dimen198
+\multicol@leftmargin=\dimen257
 \c@unbalance=\count274
 \c@collectmore=\count275
 \doublecol@number=\count276
 \multicoltolerance=\count277
 \multicolpretolerance=\count278
-\full@width=\dimen199
-\page@free=\dimen256
-\premulticols=\dimen257
-\postmulticols=\dimen258
-\multicolsep=\skip52
-\multicolbaselineskip=\skip53
+\full@width=\dimen258
+\page@free=\dimen259
+\premulticols=\dimen260
+\postmulticols=\dimen261
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
 \partial@page=\box57
 \last@line=\box58
-\maxbalancingoverflow=\dimen259
+\maxbalancingoverflow=\dimen262
 \mult@rightbox=\box59
 \mult@grightbox=\box60
 \mult@gfirstbox=\box61
@@ -503,9 +563,9 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \c@minrows=\count279
 \c@columnbadness=\count280
 \c@finalcolumnbadness=\count281
-\last@try=\dimen260
-\multicolovershoot=\dimen261
-\multicolundershoot=\dimen262
+\last@try=\dimen263
+\multicolovershoot=\dimen264
+\multicolundershoot=\dimen265
 \mult@nat@firstbox=\box100
 \colbreak@box=\box101
 \mc@col@check@num=\count282
@@ -516,20 +576,20 @@ Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/titlesec\titlesec.sty"
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box102
-\beforetitleunit=\skip54
-\aftertitleunit=\skip55
-\ttl@plus=\dimen263
-\ttl@minus=\dimen264
-\ttl@toksa=\toks30
-\titlewidth=\dimen265
-\titlewidthlast=\dimen266
-\titlewidthfirst=\dimen267
+\beforetitleunit=\skip55
+\aftertitleunit=\skip56
+\ttl@plus=\dimen266
+\ttl@minus=\dimen267
+\ttl@toksa=\toks35
+\titlewidth=\dimen268
+\titlewidthlast=\dimen269
+\titlewidthfirst=\dimen270
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/enumitem\enumitem.sty"
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip56
-\enit@outerparindent=\dimen268
-\enit@toks=\toks31
+\labelindent=\skip57
+\enit@outerparindent=\dimen271
+\enit@toks=\toks36
 \enit@inbox=\box103
 \enit@count@id=\count283
 \enitdp@description=\count284
@@ -537,7 +597,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 ("C:\Program Files\MiKTeX 2.9\tex/latex/endnotes\endnotes.sty"
 Package: endnotes 2020-01-02 endnotes package
 \c@endnote=\count285
-\endnotesep=\dimen269
+\endnotesep=\dimen272
 \@enotes=\write4
 )
 \c@longenumi=\count286
@@ -635,23 +695,23 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 (Committee_Documents/OSC.aux) (Committee_Documents/Policy.aux)
 (Committee_Documents/Sustainability.aux) (Rulings/July2013.aux)
 (Rulings/Nov2014.aux) (Rulings/Nov2017.aux) (Rulings/Nov2019.aux)
-(Rulings/Nov2019b.aux))
+(Rulings/Nov2019b.aux) (Rulings/Jan2022.aux))
 \openout1 = `Unified_Docs.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -690,16 +750,16 @@ LaTeX Font Info:    ... okay on input line 88.
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count308
-\scratchdimen=\dimen270
+\scratchdimen=\dimen273
 \scratchbox=\box105
 \nofMPsegments=\count309
 \nofMParguments=\count310
-\everyMPshowfont=\toks32
+\everyMPshowfont=\toks37
 \MPscratchCnt=\count311
-\MPscratchDim=\dimen271
+\MPscratchDim=\dimen274
 \MPnumerator=\count312
 \makeMPintoPDFobject=\count313
-\everyMPtoPDFconversion=\toks33
+\everyMPtoPDFconversion=\toks38
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -711,15 +771,6 @@ Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
-("C:\Program Files\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
 Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
@@ -740,32 +791,31 @@ ABD: EveryShipout initializing macros
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 88.
+loading the todonotes package. on input line 92.
 
 <logo.jpg, id=28, 67.75313pt x 123.46124pt>
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 92.
+Package pdftex.def Info: logo.jpg  used on input line 96.
 (pdftex.def)             Requested size: 67.75294pt x 123.46092pt.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 92
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 96
 .
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 92.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 96.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scit' undefined
-(Font)              using `T1/lmss/m/it' instead on input line 92.
+(Font)              using `T1/lmss/m/it' instead on input line 96.
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 92.
-[1
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 96.
+[1{C:/Users/Acer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-{C:/Users/Acer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg>]
- (Unified_Docs.toc
+ <./logo.jpg>] (Unified_Docs.toc
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
 .
  ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
@@ -1024,54 +1074,54 @@ at or-gan-iza-tion, which shall com-mu-ni-cate
  []
 
 [30] (Elections/General_Election_Bylaw.tex
-Overfull \hbox (6.4796pt too wide) in paragraph at lines 26--27
+Overfull \hbox (6.4796pt too wide) in paragraph at lines 27--28
 []\T1/lmss/m/n/12 An Ap-peals Re-view Com-mis-sion Hear-ing shall re-quest the 
 ap-pear-ance of in-di-vid-u-als
  []
 
 
-Overfull \hbox (0.85223pt too wide) in paragraph at lines 31--32
+Overfull \hbox (0.85223pt too wide) in paragraph at lines 32--33
 []\T1/lmss/m/n/12 The pro-ce-dure and han-dling of ev-i-dence at an Ap-peals Re
 -view Com-mis-sion
  []
 
 [31] [32]
-Overfull \hbox (7.90782pt too wide) in paragraph at lines 121--122
+Overfull \hbox (7.90782pt too wide) in paragraph at lines 122--123
 \T1/lmss/m/n/12 Im-pro-pri-ety and Ap-peals), where the CRO has de-ter-mined th
 at an act of cam-paign im-pro-pri-ety
  []
 
 ) [33]
-Overfull \hbox (0.40962pt too wide) in paragraph at lines 460--462
+Overfull \hbox (0.40962pt too wide) in paragraph at lines 463--465
 []\T1/lmss/m/n/12 Nominations for all Vice-Presidential po-si-tions shall close
  at the Coun-cil pack-age dead-line.
  []
 
 [34] [35]
-Overfull \hbox (3.5016pt too wide) in paragraph at lines 489--490
+Overfull \hbox (3.5016pt too wide) in paragraph at lines 492--493
 \T1/lmss/m/n/12 re-quired to va-cate the po-si-tion prior to the com-ple-tion o
 f their term, a tem-po-rary re-place-ment
  []
 
 [36] [37]
-Overfull \hbox (0.6631pt too wide) in paragraph at lines 582--583
+Overfull \hbox (0.6631pt too wide) in paragraph at lines 585--586
 []\T1/lmss/m/n/12 by a mem-ber elected Speaker pro tem at a Coun-cil meet-ing. 
 The Pres-i-dent
  []
 
 [38] [39] [40]
-Underfull \hbox (badness 10000) in paragraph at lines 691--692
+Underfull \hbox (badness 10000) in paragraph at lines 694--695
 
  []
 
 
-Overfull \hbox (9.18173pt too wide) in paragraph at lines 694--695
+Overfull \hbox (9.18173pt too wide) in paragraph at lines 697--698
 []\T1/lmss/m/n/12 Departments or Pro-grams with-out a duly con-sti-tuted Grad-u
 -ate Stu-dent As-so-ci-a-tion
  []
 
 [41] [42]
-Overfull \hbox (9.53683pt too wide) in paragraph at lines 771--772
+Overfull \hbox (9.53683pt too wide) in paragraph at lines 774--775
 []\T1/lmss/m/n/12 The po-si-tion va-cated by re-call shall be filled ac-cord-in
 g to the ap-pro-pri-ate by-election
  []
@@ -1574,6 +1624,12 @@ ir-per-son, Deputy Chair-per-son,
 Overfull \hbox (15.26486pt too wide) in paragraph at lines 42--43
 []\T1/lmss/m/n/12 Non-committee mem-bers may at-tend as non-voting guests if in
 -vited by the chair. Com-mit-tee
+ []
+
+
+Overfull \hbox (10.64787pt too wide) in paragraph at lines 43--45
+[]\T1/lmss/m/n/12 Bylaw 1.6.5.1.[] the Chair-per-son, and vot-ing mem-bers may 
+serve no more than 12 con-sec-u-tive
  []
 
 [109]) [110]
@@ -2370,15 +2426,93 @@ Underfull \hbox (badness 6608) in paragraph at lines 37--38
 \T1/lmss/m/n/12 changes or changes in the bud-getary
  []
 
-) [174] (Unified_Docs.ind [175
+) [174]
+\openout2 = `Rulings/Jan2022.aux'.
+
+ (Rulings/Jan2022.tex
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 14.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 18.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 26.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
 
 
-] [176] [177] [178] [179]
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 175 might be wrong on input line 44
+.
+
+[175
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 46--54
+\T1/lmss/m/sl/10.95 Whereas \T1/lmss/m/n/10.95 the So-ci-ety does not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--54
+\T1/lmss/m/n/10.95 com-pen-sate any Ex-ec-u-tive or
+ []
+
+
+Underfull \hbox (badness 7522) in paragraph at lines 46--54
+\T1/lmss/m/n/10.95 hon-o-rar-ium sep-a-rate from the TA
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 46--54
+\T1/lmss/m/sl/10.95 BIFRT \T1/lmss/m/n/10.95 Ex-ec-u-tive com-pen-sa-tion be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--54
+\T1/lmss/m/n/10.95 be changed from ``Non-Executive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--54
+\T1/lmss/m/n/10.95 and ``Vice-Presidents'' at $20,000
+ []
+
+
+Underfull \hbox (badness 7012) in paragraph at lines 46--54
+\T1/lmss/m/sl/10.95 BIFRT \T1/lmss/m/n/10.95 Pol-icy 4.6.2. ``Ex-ec-u-tive
+ []
+
+
+Underfull \hbox (badness 6775) in paragraph at lines 46--54
+\T1/lmss/m/n/10.95 mem-bers of the So-ci-ety shall be
+ []
+
+
+Underfull \hbox (badness 6526) in paragraph at lines 58--59
+[]\T1/lmss/m/n/12 The [Vice-President] Stu-dent Ser-vices'
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+\T1/lmss/m/n/10.95 bud-get shall be re-ceived by the
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 176 might be wrong on input line 71
+.
+
+[176]) [177] [178] (Unified_Docs.ind [179
+
+
+] [180] [181] [182] [183]
 Overfull \hbox (13.1581pt too wide) in paragraph at lines 469--470
 []| \T1/lmss/m/n/12 Out-go-ing Vice-President Tran-si-tion Hon-o-raria,
  []
 
-[180] [181] [182] [183] [184
+[184] [185] [186] [187] [188
 
 ])
 \openout4 = `Unified_Docs.ent'.
@@ -2399,26 +2533,27 @@ s/Elections_Table.aux)
 (Committee_Documents/OSC.aux) (Committee_Documents/Policy.aux)
 (Committee_Documents/Sustainability.aux) (Rulings/July2013.aux)
 (Rulings/Nov2014.aux) (Rulings/Nov2017.aux) (Rulings/Nov2019.aux)
-(Rulings/Nov2019b.aux)) ) 
+(Rulings/Nov2019b.aux) (Rulings/Jan2022.aux)) ) 
 Here is how much of TeX's memory you used:
- 15429 strings out of 481556
- 307541 string characters out of 2923637
- 561905 words of memory out of 3000000
- 30077 multiletter control sequences out of 15000+200000
- 596557 words of font info for 60 fonts, out of 3000000 for 9000
+ 15756 strings out of 481556
+ 313383 string characters out of 2923637
+ 569272 words of memory out of 3000000
+ 30373 multiletter control sequences out of 15000+200000
+ 611644 words of font info for 68 fonts, out of 3000000 for 9000
  1148 hyphenation exceptions out of 8191
- 68i,8n,83p,1110b,654s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.
-enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/l
-m/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (184 pages, 543308 bytes).
+ 68i,9n,83p,1110b,654s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fon
+ts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts
+1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/lm/lmsso12.pfb>
+Output written on Unified_Docs.pdf (188 pages, 596465 bytes).
 PDF statistics:
- 652 PDF objects out of 1000 (max. 8388607)
+ 669 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  114 words of extra memory for PDF output out of 10000 (max. 10000000)
 

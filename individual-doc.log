@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.20)  22 MAR 2022 20:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.20)  22 MAR 2022 21:16
 entering extended mode
-**"./Elections Handbook.tex"
-("Elections Handbook.tex"
+**./individual-doc.tex
+(individual-doc.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\book.cls"
@@ -671,34 +671,32 @@ Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 LaTeX Info: Redefining \_ on input line 43.
 )
 \@indexfile=\write5
-\openout5 = `"Elections Handbook.idx"'.
+\openout5 = `individual-doc.idx'.
 
 
-Writing index file "Elections Handbook".idx
+Writing index file individual-doc.idx
 ("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count307
 \l__pdf_internal_box=\box104
 )
-("Elections Handbook.aux" (Elections/Term_limits.aux)
-(Elections/General_Election_Bylaw.aux) (Elections/Elections_Table.aux)
-(Operations_Policy/Elections.aux))
-\openout1 = `"Elections Handbook.aux"'.
+(individual-doc.aux (Policy_Manual/Academic_Peer_Advising.aux))
+\openout1 = `individual-doc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -778,198 +776,54 @@ ABD: EveryShipout initializing macros
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 91.
+loading the todonotes package. on input line 93.
 
 <logo.jpg, id=28, 67.75313pt x 123.46124pt>
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 95.
+Package pdftex.def Info: logo.jpg  used on input line 97.
 (pdftex.def)             Requested size: 67.75294pt x 123.46092pt.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 95
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 97
 .
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 95.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 97.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scit' undefined
-(Font)              using `T1/lmss/m/it' instead on input line 95.
+(Font)              using `T1/lmss/m/it' instead on input line 97.
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 95.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 97.
 [1{C:/Users/Acer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <./logo.jpg>] ("Elections Handbook.toc"
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
-.
+ <./logo.jpg>]
+\openout2 = `Policy_Manual/Academic_Peer_Advising.aux'.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
-.
+ (Policy_Manual/Academic_Peer_Advising.tex [2
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-4.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-4.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 4.
-)
-\tf@toc=\write6
-\openout6 = `"Elections Handbook.toc"'.
-
- [2
-
-]
-Chapter 1.
-[3
-
-]
-\openout2 = `Elections/Term_limits.aux'.
-
- (Elections/Term_limits.tex) [4
-
-]
-Chapter 2.
-[5
-
-
-]
-\openout2 = `Elections/General_Election_Bylaw.aux'.
-
- (Elections/General_Election_Bylaw.tex
-Overfull \hbox (6.4796pt too wide) in paragraph at lines 27--28
-[]\T1/lmss/m/n/12 An Ap-peals Re-view Com-mis-sion Hear-ing shall re-quest the 
-ap-pear-ance of in-di-vid-u-als
- []
-
-
-Overfull \hbox (0.85223pt too wide) in paragraph at lines 32--33
-[]\T1/lmss/m/n/12 The pro-ce-dure and han-dling of ev-i-dence at an Ap-peals Re
--view Com-mis-sion
- []
-
-[6
-
-] [7]
-Overfull \hbox (7.90782pt too wide) in paragraph at lines 122--123
-\T1/lmss/m/n/12 Im-pro-pri-ety and Ap-peals), where the CRO has de-ter-mined th
-at an act of cam-paign im-pro-pri-ety
- []
-
-) [8]
-\openout2 = `Elections/Elections_Table.aux'.
-
- (Elections/Elections_Table.tex
-Overfull \hbox (18.35489pt too wide) in paragraph at lines 5--22
- [] 
- []
-
-[9
-
-
-])
-Chapter 3.
-[10
-
-
-]
-\openout2 = `Operations_Policy/Elections.aux'.
-
- (Operations_Policy/Elections.tex
-Overfull \hbox (18.09604pt too wide) in paragraph at lines 12--13
-[]\T1/lmss/m/n/12 Any mem-ber who joins the Ap-peals Re-view Com-mis-sion or Ap
--peals Re-view Com-mis-sion
- []
-
-[11
-
-]
-Overfull \hbox (1.26022pt too wide) in paragraph at lines 26--27
-[]\T1/lmss/m/n/12 In the event that the elected Pres-i-dent is a de-part-men-ta
-l or part-time rep-re-sen-ta-tive,
- []
-
-
-Overfull \hbox (2.63312pt too wide) in paragraph at lines 26--27
-\T1/lmss/m/n/12 de-part-men-tal rep-re-sen-ta-tive, Speaker or other Ex-ec-u-ti
-ve mem-ber while be-ing Pres-i-dent. 
- []
-
-
-Overfull \hbox (0.748pt too wide) in paragraph at lines 27--28
-[]\T1/lmss/m/n/12 Actual trans-fer of sign-ing au-thor-ity and re-spon-si-bil-i
--ties of the Of-fice of the Pres-i-dent
- []
-
-
-Overfull \hbox (0.72375pt too wide) in paragraph at lines 41--42
-[]\T1/lmss/m/n/12 At that meet-ing an agree-ment will be signed by all par-ties
- wherein they ac-knowl-edge
- []
-
-[12]
-Overfull \hbox (9.02791pt too wide) in paragraph at lines 57--58
-[]\T1/lmss/m/n/12 The polling pe-riod shall be de-ter-mined by the CRO, in ac-c
-or-dance
- []
-
-[13]
-Overfull \hbox (3.74823pt too wide) in paragraph at lines 94--96
-[]\T1/lmss/m/n/12 No can-di-date/referendum group or in-di-vid-ual mem-ber may,
- us-ing their own ini-tia-tive
- []
-
-[14]
-Overfull \hbox (1.65332pt too wide) in paragraph at lines 113--114
-[]\T1/lmss/m/n/12 Warning  the CRO shall is-sue a warn-ing to the can-di-date 
-via email re-gard-ing
- []
-
-) [15] ("Elections Handbook.ind" [16
-
-
-] [17
-
-]) ("Elections Handbook.aux"
-(Elections/Term_limits.aux) (Elections/General_Election_Bylaw.aux)
-(Elections/Elections_Table.aux) (Operations_Policy/Elections.aux)) ) 
+]) [3] (individual-doc.aux
+(Policy_Manual/Academic_Peer_Advising.aux)) ) 
 Here is how much of TeX's memory you used:
- 15339 strings out of 481556
- 299981 string characters out of 2923637
- 541646 words of memory out of 3000000
- 30186 multiletter control sequences out of 15000+200000
- 577379 words of font info for 48 fonts, out of 3000000 for 9000
- 1146 hyphenation exceptions out of 8191
- 68i,9n,83p,664b,565s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program
- Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on "Elections Handbook.pdf" (17 pages, 165806 bytes).
+ 15214 strings out of 481556
+ 296643 string characters out of 2923637
+ 538739 words of memory out of 3000000
+ 30110 multiletter control sequences out of 15000+200000
+ 558029 words of font info for 35 fonts, out of 3000000 for 9000
+ 1148 hyphenation exceptions out of 8191
+ 68i,8n,83p,535b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts
+/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcs
+c10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/lm/lmsso12.pfb>
+Output written on individual-doc.pdf (3 pages, 136078 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  114 words of extra memory for PDF output out of 10000 (max. 10000000)
 

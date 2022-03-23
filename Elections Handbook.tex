@@ -3,6 +3,8 @@
 \usepackage{makeidx}
 \usepackage[english]{babel}
 \usepackage[colorinlistoftodos]{todonotes} % Erase once To-Dos are done
+\usepackage{draftwatermark} % For committee use when reviewing un-ratified versions of the Unified Documents
+\usepackage{easyReview}
 \usepackage{multicol}
 \usepackage{indentfirst}
 \hyphenation{com-mu-ni-cate  ad-mi-nis-tra-tion or-gan-iza-tion ref-er-en-dum U-ni-ver-si-ty}
@@ -10,6 +12,7 @@
 \setcounter{secnumdepth}{5}
 \usepackage{titlesec}
 \usepackage{enumitem}
+\usepackage{endnotes}
 \newlist{longenum}{enumerate}{20}
 \setlist[longenum,1]{label=\thesection.\arabic*.}
 \setlist[longenum,2]{label=\arabic*.}
@@ -61,12 +64,14 @@ As Compiled on \today \\[\baselineskip]
 
 By the Deputy Speaker
 
-{\Large April Morris \par} % Editor list
+{\Large Nicole Devos \par} % Editor list
 \vspace*{\baselineskip} % White space at the top of the page
 
 Under the Supervision of the Speaker \\[\baselineskip]
-{\large L.Y.C. Wong\par}
+{\large Kesavi Kanagasabai\par}
 
+\vspace*{2\baselineskip} 
+THIS IS A DRAFT COPY AND NOT A RATIFIED VERSION OF THE UNIFIED DOCUMENTS. NOT FOR PUBLIC DISSEMINATION OR USE OUTSIDE OF THE BYLAWS AND CONSTITUTION COMMITTEE.
 
 \vfill % Whitespace between editor names and publisher logo
 
@@ -77,7 +82,7 @@ Under the Supervision of the Speaker \\[\baselineskip]
 \scshape % Small caps
 {\itshape The University Western Ontario\par} % Editor affiliation
 London Ontario Canada\par % Location and year
-{\scshape 2018} \\[0.3\baselineskip] % Year published
+\scshape \the\year \\[0.3\baselineskip] % Year published
 \endgroup}
 %----------------------------------------------------------------------------------------
 %	BLANK DOCUMENT
