@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.20)  31 MAR 2022 11:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.20)  24 MAR 2022 19:07
 entering extended mode
-**./Unified_Docs.tex
-(Unified_Docs.tex
+**./MAJOR-REVISION-Unified_Docs.tex
+(MAJOR-REVISION-Unified_Docs.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\book.cls"
@@ -440,6 +440,50 @@ LaTeX Info: Redefining \addtolength on input line 81.
 )
 \c@@todonotes@numberoftodonotes=\count272
 )
+("C:\Program Files\MiKTeX 2.9\tex/latex/draftwatermark\draftwatermark.sty"
+Package: draftwatermark 2020/12/08 3.0 Put a gray textual watermark on document
+ pages
+
+
+Package draftwatermark Warning: You appear to be running a version of LaTeX
+(draftwatermark)                unsupported by current draftwatermark.
+(draftwatermark)                Forcing fallback to `draftwatermark-2x` that
+(draftwatermark)                uses an older code base.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/draftwatermark\draftwatermark-2x.sty"
+
+LaTeX Warning: You have requested package `draftwatermark-2x',
+               but the package provides `draftwatermark'.
+
+Package: draftwatermark 2020/12/06 2.3 Put a gray textual watermark on document
+ pages
+("C:\Program Files\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/everypage\everypage.sty"
+Package: everypage 2020/10/17 R2.0b Hooks to run on every page
+
+
+Package everypage Warning: Functionality similar to this package has recently
+(everypage)                been implemented in LaTeX. This package is now in
+(everypage)                legacy status.
+(everypage)                Please, don't use it in new documents and packages.
+
+
+Package everypage Warning: You appear to be running a version of LaTeX
+(everypage)                too old to provide the new functionality.
+(everypage)                Forcing fallback to `everypage-1x` that
+(everypage)                uses an older code base.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/everypage\everypage-1x.sty"
+Package: everypage-1x 2020/10/10 1.2 Hooks to run on every page
+))))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/easyreview\easyReview.sty"
 Package: easyReview 2014/06/27 Package for Easy Review on LaTeX documents
 Package: easyReview 2013/12/09 Package for Easy Review on LaTeX documents
@@ -627,17 +671,18 @@ Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 LaTeX Info: Redefining \_ on input line 43.
 )
 \@indexfile=\write5
-\openout5 = `Unified_Docs.idx'.
+\openout5 = `MAJOR-REVISION-Unified_Docs.idx'.
 
 
-Writing index file Unified_Docs.idx
+Writing index file MAJOR-REVISION-Unified_Docs.idx
 ("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count307
 \l__pdf_internal_box=\box104
 )
-(Unified_Docs.aux (Constitution/Constitution.aux) (Bylaw/Bylaws.aux)
-(Elections/Elections_Table.aux) (Bylaw/Bylaws_Post_Election_Table.aux)
+(MAJOR-REVISION-Unified_Docs.aux (Constitution/Constitution.aux)
+(Bylaw/Bylaws.aux) (Elections/Elections_Table.aux)
+(Bylaw/Bylaws_Post_Election_Table.aux)
 (Operations_Policy/Conflict_of_Interest.aux)
 (Operations_Policy/Discipline_Code_2018.aux) (Operations_Policy/Elections.aux)
 (Operations_Policy/Minutes_2018.aux) (Operations_Policy/Procurement.aux)
@@ -652,22 +697,22 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 (Committee_Documents/Sustainability.aux) (Rulings/July2013.aux)
 (Rulings/Nov2014.aux) (Rulings/Nov2017.aux) (Rulings/Nov2019.aux)
 (Rulings/Nov2019b.aux) (Rulings/Jan2022.aux))
-\openout1 = `Unified_Docs.aux'.
+\openout1 = `MAJOR-REVISION-Unified_Docs.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -728,15 +773,6 @@ Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 ("C:\Program Files\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
 Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -756,35 +792,35 @@ ABD: EveryShipout initializing macros
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 93.
+loading the todonotes package. on input line 94.
 
 <logo.jpg, id=28, 67.75313pt x 123.46124pt>
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 97.
+Package pdftex.def Info: logo.jpg  used on input line 98.
 (pdftex.def)             Requested size: 67.75294pt x 123.46092pt.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 97
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 98
 .
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 97.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 98.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scit' undefined
-(Font)              using `T1/lmss/m/it' instead on input line 97.
+(Font)              using `T1/lmss/m/it' instead on input line 98.
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 97.
-[1
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 98.
+[1{C:/Users/Acer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-{C:/Users/Acer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg>]
- (Unified_Docs.toc
+ <./logo.jpg>] (MAJOR-REVISION-Unified_Docs.toc
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
 .
- ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
@@ -815,18 +851,18 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ] [3] [4])
 \tf@toc=\write6
-\openout6 = `Unified_Docs.toc'.
+\openout6 = `MAJOR-REVISION-Unified_Docs.toc'.
 
  [5]
 Chapter 1.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 105--106
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 106--107
 [][] 
  []
 
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 109.
+Package pdftex.def Info: logo.jpg  used on input line 110.
 (pdftex.def)             Requested size: 67.75294pt x 123.46092pt.
 [6
 
@@ -887,10 +923,10 @@ nt for quo-rum on such com-mit-tees.
 Chapter 2.
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 119.
+Package pdftex.def Info: logo.jpg  used on input line 120.
 (pdftex.def)             Requested size: 67.75294pt x 123.46092pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 116--121
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 117--122
 [][]
  []
 
@@ -1993,13 +2029,13 @@ ual work on un-re-solved
 \openout2 = `Committee_Documents/GSTA.aux'.
 
  (Committee_Documents/GSTA.tex)
-Overfull \hbox (34.05032pt too wide) in paragraph at lines 8--158
+Overfull \hbox (34.05032pt too wide) in paragraph at lines 8--159
 []\T1/lmss/m/n/12 \subsection{Article I: Mem-ber-ship} \be-gin{longenum}[ la-be
 l*=\thesubsection.\arabic*., align=left]
  []
 
 
-Overfull \hbox (14.5716pt too wide) in paragraph at lines 8--158
+Overfull \hbox (14.5716pt too wide) in paragraph at lines 8--159
 \T1/lmss/m/n/12 \item The GSTA Com-mit-tee, in com-pli-ance with By-laws 9.5.3,
  \be-gin{longenum}[ la-bel*=\arabic*.,
  []
@@ -2484,21 +2520,10 @@ Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 177 might be wrong on input line 71
 .
 
-[177]) [178] [179] (Unified_Docs.ind [180
-
-
-] [181] [182] [183] [184]
-Overfull \hbox (13.1581pt too wide) in paragraph at lines 469--470
-[]| \T1/lmss/m/n/12 Out-go-ing Vice-President Tran-si-tion Hon-o-raria,
- []
-
-[185] [186] [187] [188] [189
-
-])
-\openout4 = `Unified_Docs.ent'.
-
- (Unified_Docs.aux (Constitution/Constitution.aux) (Bylaw/Bylaws.aux) (Election
-s/Elections_Table.aux)
+[177]) [178] [179]
+No file MAJOR-REVISION-Unified_Docs.ind.
+(MAJOR-REVISION-Unified_Docs.aux (Constitution/Constitution.aux)
+(Bylaw/Bylaws.aux) (Elections/Elections_Table.aux)
 (Bylaw/Bylaws_Post_Election_Table.aux)
 (Operations_Policy/Conflict_of_Interest.aux)
 (Operations_Policy/Discipline_Code_2018.aux) (Operations_Policy/Elections.aux)
@@ -2515,13 +2540,13 @@ s/Elections_Table.aux)
 (Rulings/Nov2014.aux) (Rulings/Nov2017.aux) (Rulings/Nov2019.aux)
 (Rulings/Nov2019b.aux) (Rulings/Jan2022.aux)) ) 
 Here is how much of TeX's memory you used:
- 15644 strings out of 481556
- 310515 string characters out of 2923637
- 567288 words of memory out of 3000000
- 30275 multiletter control sequences out of 15000+200000
- 608855 words of font info for 67 fonts, out of 3000000 for 9000
+ 15754 strings out of 481556
+ 313553 string characters out of 2923637
+ 569331 words of memory out of 3000000
+ 30373 multiletter control sequences out of 15000+200000
+ 611644 words of font info for 68 fonts, out of 3000000 for 9000
  1148 hyphenation exceptions out of 8191
- 68i,8n,83p,1110b,654s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,9n,83p,1125b,654s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fon
 ts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts
 1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Progra
@@ -2531,9 +2556,9 @@ lic/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/lm/lmsso12.pfb>
-Output written on Unified_Docs.pdf (189 pages, 582939 bytes).
+Output written on MAJOR-REVISION-Unified_Docs.pdf (179 pages, 582128 bytes).
 PDF statistics:
- 672 PDF objects out of 1000 (max. 8388607)
+ 639 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  114 words of extra memory for PDF output out of 10000 (max. 10000000)
 

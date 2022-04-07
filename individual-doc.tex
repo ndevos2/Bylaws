@@ -36,9 +36,10 @@
 \setlist[longenum,20]{label=\arabic*.}
 \usepackage{lmodern}
 \renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+\let\oriwrite=\write
 \usepackage[T1]{fontenc}
 \usepackage[none]{hyphenat}
-\title{Bylaws and Constitution}
+\title{Select Passages from the Unified Documents}
 \makeindex
 
 %----------------------------------------------------------------------------------------
@@ -53,8 +54,8 @@
 
 % ------- TITLE OF DOCUMENT --------------	
 	{\LARGE POLICY} 
-	for
-	{\LARGE ACADEMIC PEER ADVISING}
+	for the
+	{\LARGE SUSTAINABILITY COMMITTEE}
 	
 	\rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt} % Thin horizontal line
 	\rule{\textwidth}{1.6pt}\\[\baselineskip] % Thick horizontal line
@@ -64,16 +65,17 @@
 	\vspace*{2\baselineskip} % Whitespace between location/year and editors
 	
 	As Compiled on \today \\[\baselineskip]
-	By the Deputy Speaker
+	By the Deputy Speaker 
 	
-	{\Large Nicole Devos \par} % Editor list
+	{\Large Nicole Devos \par}  % Editor list
 	\vspace*{\baselineskip} % White space at the top of the page
-	%With the assistance of the Acting Speaker \\[\baselineskip]
-	Under the Supervision of the Speaker \\[\baselineskip]
-	{\large Kesavi Kanagasabai \par}
+	
+	Under the Supervision of the Speaker %\\[\baselineskip]
+	
+	{\large Kesavi Kanagasabai \par} 
 	
 	\vspace*{2\baselineskip} 
-	THIS IS A DRAFT COPY AND NOT A RATIFIED VERSION OF THE UNIFIED DOCUMENTS. NOT FOR PUBLIC DISSEMINATION OR USE OUTSIDE OF THE BYLAWS AND CONSTITUTION COMMITTEE.
+%	THIS IS A DRAFT COPY AND NOT A RATIFIED VERSION OF THE UNIFIED DOCUMENTS. NOT FOR PUBLIC DISSEMINATION OR USE OUTSIDE OF THE BYLAWS AND CONSTITUTION COMMITTEE.
 	
 	\vfill % Whitespace between editor names and publisher logo
 	
@@ -99,18 +101,23 @@
 %	\tableofcontents % This command creates the Table of Contents
 %	\pagebreak % This Command creates a pagebreak at the end of the ToC
 %	\pagestyle{plain}
-	
+
+%------ use this to retain numbering + dynamic references ------- %
+	\setbox0=\vbox{\def\write{\immediate\oriwrite}\chapter{Constitution}\include{Constitution/Constitution}\chapter{Bylaws}\include{Bylaw/Bylaws}\include{Elections/Elections_Table}\include{Bylaw/Bylaws_Post_Election_Table}\chapter{Operations Policies}\include{Operations_Policy/Conflict_of_Interest}\include{Operations_Policy/Discipline_Code_2018}\include{Operations_Policy/Elections}\include{Operations_Policy/Minutes_2018}\include{Operations_Policy/Procurement}\chapter{Position Statements}\include{Position_Statements/Position_Statements}\chapter{Committee Policies}\include{Committee_Documents/Academic}\include{Committee_Documents/BSC}\include{Committee_Documents/BCC}\include{Committee_Documents/Equity}\include{Committee_Documents/Executive}\include{Committee_Documents/Finance}\include{Committee_Documents/GCC}\include{Committee_Documents/Gradcast}\include{Committee_Documents/GPS}\include{Committee_Documents/GSIC}}
+%	\include{Committee_Documents/GSTA}
+	\setbox0=\vbox{\def\write{\immediate\oriwrite}\include{Committee_Documents/HPC}\include{Committee_Documents/IGSIC}\include{Committee_Documents/OSC}\include{Committee_Documents/Policy}}%\include{Committee_Documents/Sustainability}\chapter{Speaker's Rulings}\include{Rulings/July2013}\include{Rulings/Nov2014}\include{Rulings/Nov2017}\include{Rulings/Nov2019}\include{Rulings/Nov2019b}\include{Rulings/Jan2022}}
+			
 %	\include{Constitution/Constitution}
 	
 %	\include{Bylaw/Bylaws}
 %	\include{Elections/Elections_Table}
 %	\include{Bylaw/Bylaws_Post_Election_Table}
-	%\chapter{Operations Manual}
-	%\include{Operations_Manual}
+%	\chapter{Operations Manual}
+%	\include{Operations_Manual}
 	
-	%\chapter{Policy Manual}
-	%\include{Policy_Manual}
-	%\include{Policy_Manual/Academic_Peer_Advising}
+%	\chapter{Policy Manual}
+%	\include{Policy_Manual}
+%	\include{Policy_Manual/Academic_Peer_Advising}
 	
 	
 	%
@@ -125,6 +132,8 @@
 %	\include{Position_Statements/Position_Statements}
 	
 %	\chapter{Committee Policies}
+%	\setcounter{chapter}{5}
+%	\setcounter{section}{0}
 %	Work in progress. More policy documents will appear as they are approved.
 %	\addtocontents{toc}{\protect\setcounter{tocdepth}{1}}
 %	\include{Committee_Documents/Academic}
@@ -142,7 +151,7 @@
 %	\include{Committee_Documents/IGSIC}
 %	\include{Committee_Documents/OSC}
 %	\include{Committee_Documents/Policy}
-%	\include{Committee_Documents/Sustainability}
+	\include{Committee_Documents/Sustainability}
 %	\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
 	
 %	\chapter{Speaker's Rulings}
@@ -154,7 +163,7 @@
 %	\include{Rulings/Jan2022}
 %	\newpage
 
-	\include{Policy_Manual/Academic_Peer_Advising}
+%	\include{Policy_Manual/Academic_Peer_Advising}
 	
 	%\include{Example}
 %	\printindex
