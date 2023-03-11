@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.20)  24 MAR 2022 19:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2022.4.12)  14 APR 2022 12:35
 entering extended mode
 **./MAJOR-REVISION-Unified_Docs.tex
 (MAJOR-REVISION-Unified_Docs.tex
@@ -793,6 +793,26 @@ Package todonotes Warning: The length marginparwidth is less than 2cm and will
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
 loading the todonotes package. on input line 94.
+
+
+Overfull \hbox (283.70213pt too wide) in paragraph at lines 98--98
+ []\T1/lmss/m/n/12 /.;;;;;;;;;;;;ffffffffgggggggggggggggggggggggggggggggggggggg
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggw 
+ []
+
+
+Overfull \hbox (1766.9644pt too wide) in paragraph at lines 98--98
+ \T1/lmss/m/n/12 '[;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;edxn-jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjc 
+ []
 
 <logo.jpg, id=28, 67.75313pt x 123.46124pt>
 File: logo.jpg Graphic file (type jpg)
@@ -2542,7 +2562,7 @@ No file MAJOR-REVISION-Unified_Docs.ind.
 Here is how much of TeX's memory you used:
  15754 strings out of 481556
  313553 string characters out of 2923637
- 569331 words of memory out of 3000000
+ 570183 words of memory out of 3000000
  30373 multiletter control sequences out of 15000+200000
  611644 words of font info for 68 fonts, out of 3000000 for 9000
  1148 hyphenation exceptions out of 8191
@@ -2556,7 +2576,7 @@ lic/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/lm/lmsso12.pfb>
-Output written on MAJOR-REVISION-Unified_Docs.pdf (179 pages, 582128 bytes).
+Output written on MAJOR-REVISION-Unified_Docs.pdf (179 pages, 582213 bytes).
 PDF statistics:
  639 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

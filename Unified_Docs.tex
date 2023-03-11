@@ -13,6 +13,11 @@
 \usepackage{titlesec}
 \usepackage{enumitem}
 \usepackage{endnotes}
+\usepackage{tablefootnote} % for table footnotes
+\usepackage{calc}
+\usepackage{array}
+
+% create custom numbering for document
 \newlist{longenum}{enumerate}{20}
 \setlist[longenum,1]{label=\thesection.\arabic*.}
 \setlist[longenum,2]{label=\arabic*.}
@@ -41,6 +46,59 @@
 \title{Bylaws and Constitution}
 \makeindex
 
+%% Custom footnotes, style guide for amendments. Turn into package eventually
+
+%% asterisk symbol footnote
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}%
+
+\newcommand{\amendmentdates}[1]{%
+	\setcounter{footnote}{8}%
+	\footnote{Amended by Council #1}%
+	\setcounter{footnote}{0}
+}
+
+\newcommand{\astfootnote}{%
+	\footnotemark[1]%
+	\footnotetext[1]{\label{foot:ast}CM, March 31, 2022}		\setcounter{footnote}{0}
+}
+
+\newcommand{\asttablefootnote}{%
+	\setcounter{footnote}{0}%
+	\tablefootnote{CM, March 31, 2022}%
+	%\setcounter{footnote}{0}%
+}
+
+\makeatletter
+\newcommand{\astref}{\protected@xdef\@thefnmark{\ref{foot:ast}}\@footnotemark}
+\makeatother
+
+%% cross symbol footnore
+
+\newcommand{\crossfootnote}{%
+	\footnotemark[2]%
+	\footnotetext[2]{\label{foot:cross}CM, November 26, 2020}
+	\setcounter{footnote}{0}
+}
+\newcommand{\crosscontent}{%
+	\footnotetext[2]{\label{foot:cross}CM, November 26, 2020}
+}
+\makeatletter
+\newcommand{\crossref}{\protected@xdef\@thefnmark{\ref{foot:cross}}\@footnotemark}
+\makeatother
+
+%% fancy ss symbol footnote
+
+\newcommand{\ssfootnote}{%
+	\footnotemark[4]%
+	\footnotetext[4]{\label{foot:ss}CM, January 31, 2020. To be enacted \replace{May 1, 2021}{May 1, 2022}\crossfootnote}
+	\setcounter{footnote}{0}
+}
+\makeatletter
+\newcommand{\ssref}{\protected@xdef\@thefnmark{\ref{foot:ss}}\@footnotemark}
+\makeatother
+
+
 %----------------------------------------------------------------------------------------
 %	TITLE PAGE
 %----------------------------------------------------------------------------------------
@@ -62,7 +120,8 @@ and
 
 \vspace*{2\baselineskip} % Whitespace between location/year and editors
 
-As Compiled on \today \\[\baselineskip]
+\add{Ratified (Date of last GM)}\footnotemark[7]\footnotetext[7]{Amendments indicated on Version ``As compiled March 31, 2022''} \\
+As Compiled on \today \amendmentdates{January 30, 2020, November 26, 2020, and March 31, 2022} \\[\baselineskip]
 By the Deputy Speaker
 
 {\Large Nicole Devos \par} % Editor list
@@ -73,7 +132,7 @@ Under the Supervision of the Speaker %\\[\baselineskip]
 {\large Kesavi Kanagasabai \par}
 
 \vspace*{2\baselineskip} 
-THIS IS A DRAFT COPY AND NOT A RATIFIED VERSION OF THE UNIFIED DOCUMENTS. NOT FOR PUBLIC DISSEMINATION OR USE OUTSIDE OF THE BYLAWS AND CONSTITUTION COMMITTEE.
+THIS IS A DRAFT COPY AND NOT AN OFFICIAL VERSION OF THE UNIFIED DOCUMENTS. NOT FOR PUBLIC DISSEMINATION OR USE OUTSIDE OF THE BYLAWS AND CONSTITUTION COMMITTEE.
 
 \vfill % Whitespace between editor names and publisher logo
 
@@ -162,6 +221,9 @@ Work in progress. More policy documents will appear as they are approved.
 \include{Committee_Documents/Policy}
 \include{Committee_Documents/Sustainability}
 \addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
+
+\renewcommand{\thefootnote}{\arabic{footnote}}%
+\setcounter{footnote}{0}%
 
 \chapter{Speaker's Rulings}
 \include{Rulings/July2013}
